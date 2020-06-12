@@ -1,0 +1,1874 @@
+2018-09-25 02:18:51,363 - eval_Piano_santa - loading Piano data...
+2018-09-25 02:18:51,401 - eval_Piano_santa - data loaded!
+2018-09-25 02:18:51,401 - eval_Piano_santa - Model options {'n_x': 88, 'validFreq': 87, 'patience': 10, 'n_h': 200, 'lrate': 0.0002, 'max_epochs': 40, 'dispFreq': 10, 'saveFreq': 1000}
+2018-09-25 02:18:51,401 - eval_Piano_santa - Building model...
+2018-09-25 02:19:27,414 - eval_Piano_santa - Training model...
+2018-09-25 02:19:33,127 - eval_Piano_santa - Epoch 0 Update 10 Cost 68.058029064
+2018-09-25 02:19:40,600 - eval_Piano_santa - Epoch 0 Update 20 Cost 68.8866924545
+2018-09-25 02:19:46,390 - eval_Piano_santa - Epoch 0 Update 30 Cost 69.3339962957
+2018-09-25 02:19:51,822 - eval_Piano_santa - Epoch 0 Update 40 Cost 66.0202580518
+2018-09-25 02:19:57,730 - eval_Piano_santa - Epoch 0 Update 50 Cost 65.2487529661
+2018-09-25 02:20:03,737 - eval_Piano_santa - Epoch 0 Update 60 Cost 64.5327750305
+2018-09-25 02:20:10,251 - eval_Piano_santa - Epoch 0 Update 70 Cost 67.2072695579
+2018-09-25 02:20:16,256 - eval_Piano_santa - Epoch 0 Update 80 Cost 62.5098078545
+2018-09-25 02:20:27,901 - eval_Piano_santa - Train 66.4079864337 Valid 67.1063810356 Test 66.3965603025
+2018-09-25 02:20:29,529 - eval_Piano_santa - Epoch 1 Update 90 Cost 66.7555458913
+2018-09-25 02:20:35,933 - eval_Piano_santa - Epoch 1 Update 100 Cost 66.4388655163
+2018-09-25 02:20:43,035 - eval_Piano_santa - Epoch 1 Update 110 Cost 68.9728899616
+2018-09-25 02:20:48,501 - eval_Piano_santa - Epoch 1 Update 120 Cost 65.1700347719
+2018-09-25 02:20:54,077 - eval_Piano_santa - Epoch 1 Update 130 Cost 62.1397313197
+2018-09-25 02:20:59,858 - eval_Piano_santa - Epoch 1 Update 140 Cost 64.8661358826
+2018-09-25 02:21:05,794 - eval_Piano_santa - Epoch 1 Update 150 Cost 68.854247971
+2018-09-25 02:21:15,503 - eval_Piano_santa - Epoch 1 Update 160 Cost 63.6813625758
+2018-09-25 02:21:21,200 - eval_Piano_santa - Epoch 1 Update 170 Cost 66.7261948065
+2018-09-25 02:21:32,206 - eval_Piano_santa - Train 66.1422402955 Valid 65.75957897 Test 66.4793720902
+2018-09-25 02:21:36,448 - eval_Piano_santa - Epoch 2 Update 180 Cost 64.9667313064
+2018-09-25 02:21:43,661 - eval_Piano_santa - Epoch 2 Update 190 Cost 74.5736944379
+2018-09-25 02:21:50,809 - eval_Piano_santa - Epoch 2 Update 200 Cost 65.5659346311
+2018-09-25 02:21:56,182 - eval_Piano_santa - Epoch 2 Update 210 Cost 63.2012455952
+2018-09-25 02:22:02,027 - eval_Piano_santa - Epoch 2 Update 220 Cost 62.6722612628
+2018-09-25 02:22:07,743 - eval_Piano_santa - Epoch 2 Update 230 Cost 67.3985222146
+2018-09-25 02:22:14,949 - eval_Piano_santa - Epoch 2 Update 240 Cost 70.5719410173
+2018-09-25 02:22:25,471 - eval_Piano_santa - Epoch 2 Update 250 Cost 62.9031823975
+2018-09-25 02:22:33,433 - eval_Piano_santa - Epoch 2 Update 260 Cost 65.5816049296
+2018-09-25 02:22:42,651 - eval_Piano_santa - Train 65.8602524085 Valid 66.6205429154 Test 66.5293957703
+2018-09-25 02:22:48,901 - eval_Piano_santa - Epoch 3 Update 270 Cost 66.1361230151
+2018-09-25 02:22:57,047 - eval_Piano_santa - Epoch 3 Update 280 Cost 68.1785392067
+2018-09-25 02:23:03,570 - eval_Piano_santa - Epoch 3 Update 290 Cost 71.8855059508
+2018-09-25 02:23:09,185 - eval_Piano_santa - Epoch 3 Update 300 Cost 65.9251012649
+2018-09-25 02:23:15,723 - eval_Piano_santa - Epoch 3 Update 310 Cost 64.3799280126
+2018-09-25 02:23:21,876 - eval_Piano_santa - Epoch 3 Update 320 Cost 65.3909324679
+2018-09-25 02:23:28,966 - eval_Piano_santa - Epoch 3 Update 330 Cost 67.7441321123
+2018-09-25 02:23:35,481 - eval_Piano_santa - Epoch 3 Update 340 Cost 65.1643860085
+2018-09-25 02:23:47,965 - eval_Piano_santa - Train 65.7922979963 Valid 65.9618013623 Test 66.0030687392
+2018-09-25 02:23:49,084 - eval_Piano_santa - Epoch 4 Update 350 Cost 63.0970091584
+2018-09-25 02:23:55,683 - eval_Piano_santa - Epoch 4 Update 360 Cost 64.38150855
+2018-09-25 02:24:04,085 - eval_Piano_santa - Epoch 4 Update 370 Cost 64.5410745144
+2018-09-25 02:24:09,835 - eval_Piano_santa - Epoch 4 Update 380 Cost 61.397276082
+2018-09-25 02:24:15,658 - eval_Piano_santa - Epoch 4 Update 390 Cost 62.8996146041
+2018-09-25 02:24:21,964 - eval_Piano_santa - Epoch 4 Update 400 Cost 60.4858428635
+2018-09-25 02:24:28,550 - eval_Piano_santa - Epoch 4 Update 410 Cost 65.9701970831
+2018-09-25 02:24:35,973 - eval_Piano_santa - Epoch 4 Update 420 Cost 65.1304328506
+2018-09-25 02:24:41,313 - eval_Piano_santa - Epoch 4 Update 430 Cost 67.5214342598
+2018-09-25 02:24:52,485 - eval_Piano_santa - Train 65.348464284 Valid 65.7569667808 Test 65.8830801068
+2018-09-25 02:24:55,459 - eval_Piano_santa - Epoch 5 Update 440 Cost 65.7247127913
+2018-09-25 02:25:03,373 - eval_Piano_santa - Epoch 5 Update 450 Cost 64.7036599999
+2018-09-25 02:25:10,491 - eval_Piano_santa - Epoch 5 Update 460 Cost 63.4610253213
+2018-09-25 02:25:16,592 - eval_Piano_santa - Epoch 5 Update 470 Cost 66.4467892871
+2018-09-25 02:25:23,048 - eval_Piano_santa - Epoch 5 Update 480 Cost 67.3383774891
+2018-09-25 02:25:28,831 - eval_Piano_santa - Epoch 5 Update 490 Cost 66.5026142943
+2018-09-25 02:25:34,948 - eval_Piano_santa - Epoch 5 Update 500 Cost 66.9500179653
+2018-09-25 02:25:42,229 - eval_Piano_santa - Epoch 5 Update 510 Cost 68.153478983
+2018-09-25 02:25:47,693 - eval_Piano_santa - Epoch 5 Update 520 Cost 62.2074092416
+2018-09-25 02:25:56,565 - eval_Piano_santa - Train 65.1247196678 Valid 65.3206405546 Test 65.5567960692
+2018-09-25 02:26:01,149 - eval_Piano_santa - Epoch 6 Update 530 Cost 61.9126603475
+2018-09-25 02:26:08,420 - eval_Piano_santa - Epoch 6 Update 540 Cost 65.1057641662
+2018-09-25 02:26:14,876 - eval_Piano_santa - Epoch 6 Update 550 Cost 63.6129762174
+2018-09-25 02:26:20,335 - eval_Piano_santa - Epoch 6 Update 560 Cost 66.0603416239
+2018-09-25 02:26:26,528 - eval_Piano_santa - Epoch 6 Update 570 Cost 64.7830333411
+2018-09-25 02:26:32,318 - eval_Piano_santa - Epoch 6 Update 580 Cost 65.4873784667
+2018-09-25 02:26:39,896 - eval_Piano_santa - Epoch 6 Update 590 Cost 63.8050583249
+2018-09-25 02:26:46,707 - eval_Piano_santa - Epoch 6 Update 600 Cost 70.2760283298
+2018-09-25 02:27:00,684 - eval_Piano_santa - Train 64.8167949441 Valid 64.9400303847 Test 65.0890430223
+2018-09-25 02:27:01,217 - eval_Piano_santa - Epoch 7 Update 610 Cost 55.9611111687
+2018-09-25 02:27:07,206 - eval_Piano_santa - Epoch 7 Update 620 Cost 65.0042112066
+2018-09-25 02:27:15,471 - eval_Piano_santa - Epoch 7 Update 630 Cost 64.6826268998
+2018-09-25 02:27:21,429 - eval_Piano_santa - Epoch 7 Update 640 Cost 70.9390981219
+2018-09-25 02:27:27,386 - eval_Piano_santa - Epoch 7 Update 650 Cost 64.4762412312
+2018-09-25 02:27:33,614 - eval_Piano_santa - Epoch 7 Update 660 Cost 61.9871321609
+2018-09-25 02:27:39,860 - eval_Piano_santa - Epoch 7 Update 670 Cost 67.4206329543
+2018-09-25 02:27:46,762 - eval_Piano_santa - Epoch 7 Update 680 Cost 65.3635618697
+2018-09-25 02:27:52,822 - eval_Piano_santa - Epoch 7 Update 690 Cost 64.2620514905
+2018-09-25 02:28:04,428 - eval_Piano_santa - Train 64.667166661 Valid 64.6895912206 Test 65.0728055077
+2018-09-25 02:28:06,688 - eval_Piano_santa - Epoch 8 Update 700 Cost 67.9528371109
+2018-09-25 02:28:13,621 - eval_Piano_santa - Epoch 8 Update 710 Cost 65.3525658621
+2018-09-25 02:28:21,095 - eval_Piano_santa - Epoch 8 Update 720 Cost 60.7166371658
+2018-09-25 02:28:26,705 - eval_Piano_santa - Epoch 8 Update 730 Cost 63.9441341738
+2018-09-25 02:28:32,649 - eval_Piano_santa - Epoch 8 Update 740 Cost 66.7670192192
+2018-09-25 02:28:38,552 - eval_Piano_santa - Epoch 8 Update 750 Cost 68.5443265098
+2018-09-25 02:28:44,632 - eval_Piano_santa - Epoch 8 Update 760 Cost 64.0632024447
+2018-09-25 02:28:52,185 - eval_Piano_santa - Epoch 8 Update 770 Cost 62.4374375875
+2018-09-25 02:28:57,706 - eval_Piano_santa - Epoch 8 Update 780 Cost 67.1721516088
+2018-09-25 02:29:07,362 - eval_Piano_santa - Train 64.1858977609 Valid 64.4771135309 Test 64.3908076718
+2018-09-25 02:29:11,488 - eval_Piano_santa - Epoch 9 Update 790 Cost 67.9539490558
+2018-09-25 02:29:18,799 - eval_Piano_santa - Epoch 9 Update 800 Cost 63.0735453113
+2018-09-25 02:29:25,666 - eval_Piano_santa - Epoch 9 Update 810 Cost 65.3118624104
+2018-09-25 02:29:31,524 - eval_Piano_santa - Epoch 9 Update 820 Cost 60.5250332209
+2018-09-25 02:29:37,831 - eval_Piano_santa - Epoch 9 Update 830 Cost 62.628577848
+2018-09-25 02:29:44,222 - eval_Piano_santa - Epoch 9 Update 840 Cost 61.4299264651
+2018-09-25 02:29:51,806 - eval_Piano_santa - Epoch 9 Update 850 Cost 62.6271878068
+2018-09-25 02:29:58,893 - eval_Piano_santa - Epoch 9 Update 860 Cost 66.5221308822
+2018-09-25 02:30:05,825 - eval_Piano_santa - Epoch 9 Update 870 Cost 68.4203008871
+2018-09-25 02:30:15,318 - eval_Piano_santa - Train 64.1515315849 Valid 63.7755679473 Test 64.4082519068
+2018-09-25 02:30:21,392 - eval_Piano_santa - Epoch 10 Update 880 Cost 63.9755999736
+2018-09-25 02:30:29,817 - eval_Piano_santa - Epoch 10 Update 890 Cost 67.1607217897
+2018-09-25 02:30:36,496 - eval_Piano_santa - Epoch 10 Update 900 Cost 66.5996023601
+2018-09-25 02:30:42,105 - eval_Piano_santa - Epoch 10 Update 910 Cost 63.5683551333
+2018-09-25 02:30:48,180 - eval_Piano_santa - Epoch 10 Update 920 Cost 64.0483142426
+2018-09-25 02:30:54,274 - eval_Piano_santa - Epoch 10 Update 930 Cost 61.9382841491
+2018-09-25 02:31:01,010 - eval_Piano_santa - Epoch 10 Update 940 Cost 63.7765387381
+2018-09-25 02:31:06,989 - eval_Piano_santa - Epoch 10 Update 950 Cost 57.3763023496
+2018-09-25 02:31:18,712 - eval_Piano_santa - Train 63.6491240018 Valid 64.3057338466 Test 63.9479002015
+2018-09-25 02:31:20,380 - eval_Piano_santa - Epoch 11 Update 960 Cost 61.5109447914
+2018-09-25 02:31:28,094 - eval_Piano_santa - Epoch 11 Update 970 Cost 64.0804836092
+2018-09-25 02:31:36,779 - eval_Piano_santa - Epoch 11 Update 980 Cost 64.4211045973
+2018-09-25 02:31:43,919 - eval_Piano_santa - Epoch 11 Update 990 Cost 61.1141179935
+2018-09-25 02:31:49,692 - eval_Piano_santa - Epoch 11 Update 1000 Cost 57.3206891653
+2018-09-25 02:31:49,692 - eval_Piano_santa - Saving ...
+2018-09-25 02:31:49,728 - eval_Piano_santa - Done ...
+2018-09-25 02:31:55,743 - eval_Piano_santa - Epoch 11 Update 1010 Cost 60.2693311698
+2018-09-25 02:32:05,982 - eval_Piano_santa - Epoch 11 Update 1020 Cost 61.2372456462
+2018-09-25 02:32:15,313 - eval_Piano_santa - Epoch 11 Update 1030 Cost 63.4578943744
+2018-09-25 02:32:21,451 - eval_Piano_santa - Epoch 11 Update 1040 Cost 59.2420363526
+2018-09-25 02:32:33,196 - eval_Piano_santa - Train 63.1658219825 Valid 63.3466205701 Test 64.1906309225
+2018-09-25 02:32:37,510 - eval_Piano_santa - Epoch 12 Update 1050 Cost 58.048145516
+2018-09-25 02:32:44,791 - eval_Piano_santa - Epoch 12 Update 1060 Cost 75.4063906304
+2018-09-25 02:32:52,560 - eval_Piano_santa - Epoch 12 Update 1070 Cost 68.8854233817
+2018-09-25 02:32:58,552 - eval_Piano_santa - Epoch 12 Update 1080 Cost 57.0405258287
+2018-09-25 02:33:04,912 - eval_Piano_santa - Epoch 12 Update 1090 Cost 59.9673061329
+2018-09-25 02:33:11,616 - eval_Piano_santa - Epoch 12 Update 1100 Cost 66.7400976093
+2018-09-25 02:33:18,307 - eval_Piano_santa - Epoch 12 Update 1110 Cost 66.518932068
+2018-09-25 02:33:25,781 - eval_Piano_santa - Epoch 12 Update 1120 Cost 61.5765475523
+2018-09-25 02:33:31,810 - eval_Piano_santa - Epoch 12 Update 1130 Cost 60.5377950305
+2018-09-25 02:33:42,061 - eval_Piano_santa - Train 62.5395015253 Valid 63.0136301195 Test 63.0466998759
+2018-09-25 02:33:48,002 - eval_Piano_santa - Epoch 13 Update 1140 Cost 63.8596301366
+2018-09-25 02:33:56,531 - eval_Piano_santa - Epoch 13 Update 1150 Cost 68.1390565484
+2018-09-25 02:34:02,734 - eval_Piano_santa - Epoch 13 Update 1160 Cost 67.5248342133
+2018-09-25 02:34:08,138 - eval_Piano_santa - Epoch 13 Update 1170 Cost 65.1901263732
+2018-09-25 02:34:14,859 - eval_Piano_santa - Epoch 13 Update 1180 Cost 58.5974751522
+2018-09-25 02:34:21,541 - eval_Piano_santa - Epoch 13 Update 1190 Cost 60.4773330504
+2018-09-25 02:34:28,907 - eval_Piano_santa - Epoch 13 Update 1200 Cost 63.3572746375
+2018-09-25 02:34:34,953 - eval_Piano_santa - Epoch 13 Update 1210 Cost 62.9919946121
+2018-09-25 02:34:47,087 - eval_Piano_santa - Train 62.6226741002 Valid 63.3078862951 Test 63.4604708671
+2018-09-25 02:34:48,148 - eval_Piano_santa - Epoch 14 Update 1220 Cost 56.5832299654
+2018-09-25 02:34:54,098 - eval_Piano_santa - Epoch 14 Update 1230 Cost 62.7499791463
+2018-09-25 02:35:01,668 - eval_Piano_santa - Epoch 14 Update 1240 Cost 57.2353765227
+2018-09-25 02:35:07,104 - eval_Piano_santa - Epoch 14 Update 1250 Cost 60.6562645133
+2018-09-25 02:35:12,686 - eval_Piano_santa - Epoch 14 Update 1260 Cost 61.9838417794
+2018-09-25 02:35:18,515 - eval_Piano_santa - Epoch 14 Update 1270 Cost 54.6493243768
+2018-09-25 02:35:24,603 - eval_Piano_santa - Epoch 14 Update 1280 Cost 64.2567514818
+2018-09-25 02:35:31,968 - eval_Piano_santa - Epoch 14 Update 1290 Cost 59.2898143526
+2018-09-25 02:35:37,218 - eval_Piano_santa - Epoch 14 Update 1300 Cost 62.3303313973
+2018-09-25 02:35:47,760 - eval_Piano_santa - Train 62.008536739 Valid 62.7367403835 Test 62.1500066213
+2018-09-25 02:35:50,652 - eval_Piano_santa - Epoch 15 Update 1310 Cost 63.9271856125
+2018-09-25 02:35:57,638 - eval_Piano_santa - Epoch 15 Update 1320 Cost 61.0463318189
+2018-09-25 02:36:04,411 - eval_Piano_santa - Epoch 15 Update 1330 Cost 64.938822724
+2018-09-25 02:36:09,780 - eval_Piano_santa - Epoch 15 Update 1340 Cost 64.4405464538
+2018-09-25 02:36:15,540 - eval_Piano_santa - Epoch 15 Update 1350 Cost 62.4342332811
+2018-09-25 02:36:21,233 - eval_Piano_santa - Epoch 15 Update 1360 Cost 63.1001090373
+2018-09-25 02:36:27,251 - eval_Piano_santa - Epoch 15 Update 1370 Cost 60.3860202965
+2018-09-25 02:36:34,399 - eval_Piano_santa - Epoch 15 Update 1380 Cost 63.5276693313
+2018-09-25 02:36:39,854 - eval_Piano_santa - Epoch 15 Update 1390 Cost 55.8573783974
+2018-09-25 02:36:48,733 - eval_Piano_santa - Train 61.4688287232 Valid 62.5714865478 Test 61.9566501906
+2018-09-25 02:36:53,235 - eval_Piano_santa - Epoch 16 Update 1400 Cost 59.0800292799
+2018-09-25 02:37:00,366 - eval_Piano_santa - Epoch 16 Update 1410 Cost 60.6832867687
+2018-09-25 02:37:06,567 - eval_Piano_santa - Epoch 16 Update 1420 Cost 60.9033815457
+2018-09-25 02:37:11,833 - eval_Piano_santa - Epoch 16 Update 1430 Cost 63.0010500002
+2018-09-25 02:37:17,913 - eval_Piano_santa - Epoch 16 Update 1440 Cost 58.9729094472
+2018-09-25 02:37:23,582 - eval_Piano_santa - Epoch 16 Update 1450 Cost 60.1177760704
+2018-09-25 02:37:30,260 - eval_Piano_santa - Epoch 16 Update 1460 Cost 64.1786756134
+2018-09-25 02:37:36,449 - eval_Piano_santa - Epoch 16 Update 1470 Cost 66.0863641903
+2018-09-25 02:37:49,163 - eval_Piano_santa - Train 61.0817276917 Valid 61.4700487275 Test 61.6021548595
+2018-09-25 02:37:49,691 - eval_Piano_santa - Epoch 17 Update 1480 Cost 49.6238297333
+2018-09-25 02:37:55,399 - eval_Piano_santa - Epoch 17 Update 1490 Cost 61.3520621874
+2018-09-25 02:38:03,192 - eval_Piano_santa - Epoch 17 Update 1500 Cost 61.0272500819
+2018-09-25 02:38:08,656 - eval_Piano_santa - Epoch 17 Update 1510 Cost 65.2130425021
+2018-09-25 02:38:14,138 - eval_Piano_santa - Epoch 17 Update 1520 Cost 64.9759989561
+2018-09-25 02:38:20,088 - eval_Piano_santa - Epoch 17 Update 1530 Cost 59.9968183011
+2018-09-25 02:38:26,070 - eval_Piano_santa - Epoch 17 Update 1540 Cost 71.9769698035
+2018-09-25 02:38:32,746 - eval_Piano_santa - Epoch 17 Update 1550 Cost 61.2879734552
+2018-09-25 02:38:38,689 - eval_Piano_santa - Epoch 17 Update 1560 Cost 64.7534301907
+2018-09-25 02:38:49,844 - eval_Piano_santa - Train 60.4965226292 Valid 60.3694003665 Test 61.4156416678
+2018-09-25 02:38:52,031 - eval_Piano_santa - Epoch 18 Update 1570 Cost 62.2386024969
+2018-09-25 02:38:58,414 - eval_Piano_santa - Epoch 18 Update 1580 Cost 62.9846058898
+2018-09-25 02:39:05,560 - eval_Piano_santa - Epoch 18 Update 1590 Cost 54.913074698
+2018-09-25 02:39:10,950 - eval_Piano_santa - Epoch 18 Update 1600 Cost 53.3943313704
+2018-09-25 02:39:16,648 - eval_Piano_santa - Epoch 18 Update 1610 Cost 65.4255909698
+2018-09-25 02:39:22,310 - eval_Piano_santa - Epoch 18 Update 1620 Cost 65.5979075971
+2018-09-25 02:39:28,193 - eval_Piano_santa - Epoch 18 Update 1630 Cost 56.890792391
+2018-09-25 02:39:35,452 - eval_Piano_santa - Epoch 18 Update 1640 Cost 60.4953129493
+2018-09-25 02:39:40,771 - eval_Piano_santa - Epoch 18 Update 1650 Cost 58.7208784038
+2018-09-25 02:39:50,073 - eval_Piano_santa - Train 59.8142338074 Valid 61.0990207297 Test 60.2039053614
+2018-09-25 02:39:54,001 - eval_Piano_santa - Epoch 19 Update 1660 Cost 64.5664042779
+2018-09-25 02:40:00,929 - eval_Piano_santa - Epoch 19 Update 1670 Cost 58.5897976344
+2018-09-25 02:40:07,334 - eval_Piano_santa - Epoch 19 Update 1680 Cost 54.0244104387
+2018-09-25 02:40:12,597 - eval_Piano_santa - Epoch 19 Update 1690 Cost 55.3000747571
+2018-09-25 02:40:18,476 - eval_Piano_santa - Epoch 19 Update 1700 Cost 61.7526131375
+2018-09-25 02:40:24,243 - eval_Piano_santa - Epoch 19 Update 1710 Cost 60.3195008036
+2018-09-25 02:40:30,933 - eval_Piano_santa - Epoch 19 Update 1720 Cost 55.7987303805
+2018-09-25 02:40:37,145 - eval_Piano_santa - Epoch 19 Update 1730 Cost 61.761791584
+2018-09-25 02:40:42,895 - eval_Piano_santa - Epoch 19 Update 1740 Cost 58.3950604479
+2018-09-25 02:40:50,413 - eval_Piano_santa - Train 59.0652274467 Valid 60.3033586311 Test 60.0181892786
+2018-09-25 02:40:56,285 - eval_Piano_santa - Epoch 20 Update 1750 Cost 58.6942209748
+2018-09-25 02:41:03,779 - eval_Piano_santa - Epoch 20 Update 1760 Cost 62.4868428738
+2018-09-25 02:41:09,592 - eval_Piano_santa - Epoch 20 Update 1770 Cost 61.9688032375
+2018-09-25 02:41:15,028 - eval_Piano_santa - Epoch 20 Update 1780 Cost 54.9519688243
+2018-09-25 02:41:20,944 - eval_Piano_santa - Epoch 20 Update 1790 Cost 59.0523921493
+2018-09-25 02:41:26,957 - eval_Piano_santa - Epoch 20 Update 1800 Cost 53.2751358938
+2018-09-25 02:41:33,485 - eval_Piano_santa - Epoch 20 Update 1810 Cost 57.9703641443
+2018-09-25 02:41:39,386 - eval_Piano_santa - Epoch 20 Update 1820 Cost 48.6637734086
+2018-09-25 02:41:51,026 - eval_Piano_santa - Train 57.9364378426 Valid 59.071353205 Test 58.3251767898
+2018-09-25 02:41:52,668 - eval_Piano_santa - Epoch 21 Update 1830 Cost 57.5366700577
+2018-09-25 02:41:59,150 - eval_Piano_santa - Epoch 21 Update 1840 Cost 57.5267561955
+2018-09-25 02:42:06,280 - eval_Piano_santa - Epoch 21 Update 1850 Cost 67.9921325948
+2018-09-25 02:42:11,747 - eval_Piano_santa - Epoch 21 Update 1860 Cost 56.2748050326
+2018-09-25 02:42:17,356 - eval_Piano_santa - Epoch 21 Update 1870 Cost 47.2972844574
+2018-09-25 02:42:23,183 - eval_Piano_santa - Epoch 21 Update 1880 Cost 57.1472603284
+2018-09-25 02:42:29,119 - eval_Piano_santa - Epoch 21 Update 1890 Cost 58.5583880979
+2018-09-25 02:42:36,452 - eval_Piano_santa - Epoch 21 Update 1900 Cost 53.6852782212
+2018-09-25 02:42:41,689 - eval_Piano_santa - Epoch 21 Update 1910 Cost 52.0768279137
+2018-09-25 02:42:51,565 - eval_Piano_santa - Train 57.5001110914 Valid 59.1372539988 Test 57.9116319579
+2018-09-25 02:42:54,916 - eval_Piano_santa - Epoch 22 Update 1920 Cost 49.4473281744
+2018-09-25 02:43:01,607 - eval_Piano_santa - Epoch 22 Update 1930 Cost 69.1506486644
+2018-09-25 02:43:08,376 - eval_Piano_santa - Epoch 22 Update 1940 Cost 55.8541850066
+2018-09-25 02:43:13,718 - eval_Piano_santa - Epoch 22 Update 1950 Cost 46.9699352226
+2018-09-25 02:43:19,581 - eval_Piano_santa - Epoch 22 Update 1960 Cost 47.0792403597
+2018-09-25 02:43:25,253 - eval_Piano_santa - Epoch 22 Update 1970 Cost 61.0881746349
+2018-09-25 02:43:31,732 - eval_Piano_santa - Epoch 22 Update 1980 Cost 63.6397954358
+2018-09-25 02:43:38,522 - eval_Piano_santa - Epoch 22 Update 1990 Cost 47.4505409817
+2018-09-25 02:43:44,001 - eval_Piano_santa - Epoch 22 Update 2000 Cost 52.2512642672
+2018-09-25 02:43:44,002 - eval_Piano_santa - Saving ...
+2018-09-25 02:43:44,036 - eval_Piano_santa - Done ...
+2018-09-25 02:43:52,346 - eval_Piano_santa - Train 55.6770956372 Valid 57.3802341828 Test 57.4199987137
+2018-09-25 02:43:57,455 - eval_Piano_santa - Epoch 23 Update 2010 Cost 58.1390117256
+2018-09-25 02:44:05,049 - eval_Piano_santa - Epoch 23 Update 2020 Cost 61.6107957156
+2018-09-25 02:44:10,886 - eval_Piano_santa - Epoch 23 Update 2030 Cost 65.6162169305
+2018-09-25 02:44:16,190 - eval_Piano_santa - Epoch 23 Update 2040 Cost 56.0047877586
+2018-09-25 02:44:22,293 - eval_Piano_santa - Epoch 23 Update 2050 Cost 51.9153018239
+2018-09-25 02:44:28,195 - eval_Piano_santa - Epoch 23 Update 2060 Cost 52.3336015994
+2018-09-25 02:44:34,924 - eval_Piano_santa - Epoch 23 Update 2070 Cost 60.1302790948
+2018-09-25 02:44:40,979 - eval_Piano_santa - Epoch 23 Update 2080 Cost 56.7685784105
+2018-09-25 02:44:53,250 - eval_Piano_santa - Train 55.2578063973 Valid 56.2222703853 Test 56.4724313368
+2018-09-25 02:44:54,311 - eval_Piano_santa - Epoch 24 Update 2090 Cost 45.8981532797
+2018-09-25 02:45:00,267 - eval_Piano_santa - Epoch 24 Update 2100 Cost 53.1594369226
+2018-09-25 02:45:07,884 - eval_Piano_santa - Epoch 24 Update 2110 Cost 49.3127219233
+2018-09-25 02:45:13,383 - eval_Piano_santa - Epoch 24 Update 2120 Cost 48.3989524893
+2018-09-25 02:45:19,043 - eval_Piano_santa - Epoch 24 Update 2130 Cost 54.6197345239
+2018-09-25 02:45:24,926 - eval_Piano_santa - Epoch 24 Update 2140 Cost 36.6143510614
+2018-09-25 02:45:30,885 - eval_Piano_santa - Epoch 24 Update 2150 Cost 59.7980741013
+2018-09-25 02:45:38,191 - eval_Piano_santa - Epoch 24 Update 2160 Cost 50.7833756156
+2018-09-25 02:45:43,443 - eval_Piano_santa - Epoch 24 Update 2170 Cost 53.9808070974
+2018-09-25 02:45:54,019 - eval_Piano_santa - Train 54.1550213778 Valid 56.3807911142 Test 54.8888741891
+2018-09-25 02:45:56,764 - eval_Piano_santa - Epoch 25 Update 2180 Cost 54.3560072137
+2018-09-25 02:46:03,653 - eval_Piano_santa - Epoch 25 Update 2190 Cost 53.7894414041
+2018-09-25 02:46:10,489 - eval_Piano_santa - Epoch 25 Update 2200 Cost 55.965250193
+2018-09-25 02:46:15,874 - eval_Piano_santa - Epoch 25 Update 2210 Cost 65.0225154693
+2018-09-25 02:46:21,731 - eval_Piano_santa - Epoch 25 Update 2220 Cost 57.0705686827
+2018-09-25 02:46:29,072 - eval_Piano_santa - Epoch 25 Update 2230 Cost 53.557180863
+2018-09-25 02:46:36,067 - eval_Piano_santa - Epoch 25 Update 2240 Cost 60.0103101139
+2018-09-25 02:46:43,716 - eval_Piano_santa - Epoch 25 Update 2250 Cost 56.3025628832
+2018-09-25 02:46:49,385 - eval_Piano_santa - Epoch 25 Update 2260 Cost 45.2324427078
+2018-09-25 02:46:58,879 - eval_Piano_santa - Train 53.1371453132 Valid 54.3746816314 Test 54.2564660274
+2018-09-25 02:47:03,530 - eval_Piano_santa - Epoch 26 Update 2270 Cost 49.6829681163
+2018-09-25 02:47:10,877 - eval_Piano_santa - Epoch 26 Update 2280 Cost 50.7434200123
+2018-09-25 02:47:17,190 - eval_Piano_santa - Epoch 26 Update 2290 Cost 51.6363583835
+2018-09-25 02:47:22,586 - eval_Piano_santa - Epoch 26 Update 2300 Cost 58.089189273
+2018-09-25 02:47:28,770 - eval_Piano_santa - Epoch 26 Update 2310 Cost 48.6430214303
+2018-09-25 02:47:34,522 - eval_Piano_santa - Epoch 26 Update 2320 Cost 50.9924370636
+2018-09-25 02:47:41,292 - eval_Piano_santa - Epoch 26 Update 2330 Cost 55.7547035613
+2018-09-25 02:47:47,561 - eval_Piano_santa - Epoch 26 Update 2340 Cost 67.6784258106
+2018-09-25 02:48:00,383 - eval_Piano_santa - Train 52.7447859713 Valid 53.6266670176 Test 53.8364862093
+2018-09-25 02:48:00,916 - eval_Piano_santa - Epoch 27 Update 2350 Cost 25.7477195225
+2018-09-25 02:48:06,717 - eval_Piano_santa - Epoch 27 Update 2360 Cost 54.8756903299
+2018-09-25 02:48:14,813 - eval_Piano_santa - Epoch 27 Update 2370 Cost 51.3774582551
+2018-09-25 02:48:20,379 - eval_Piano_santa - Epoch 27 Update 2380 Cost 59.3559412009
+2018-09-25 02:48:25,951 - eval_Piano_santa - Epoch 27 Update 2390 Cost 58.4087567126
+2018-09-25 02:48:31,973 - eval_Piano_santa - Epoch 27 Update 2400 Cost 43.0976019625
+2018-09-25 02:48:37,979 - eval_Piano_santa - Epoch 27 Update 2410 Cost 65.5214786696
+2018-09-25 02:48:44,631 - eval_Piano_santa - Epoch 27 Update 2420 Cost 54.5940994453
+2018-09-25 02:48:50,492 - eval_Piano_santa - Epoch 27 Update 2430 Cost 51.1065333557
+2018-09-25 02:49:01,627 - eval_Piano_santa - Train 50.7680305739 Valid 52.5493995635 Test 52.9349240234
+2018-09-25 02:49:03,823 - eval_Piano_santa - Epoch 28 Update 2440 Cost 57.3829483148
+2018-09-25 02:49:10,226 - eval_Piano_santa - Epoch 28 Update 2450 Cost 57.9345597815
+2018-09-25 02:49:17,415 - eval_Piano_santa - Epoch 28 Update 2460 Cost 44.2604265078
+2018-09-25 02:49:22,824 - eval_Piano_santa - Epoch 28 Update 2470 Cost 46.6858577163
+2018-09-25 02:49:28,570 - eval_Piano_santa - Epoch 28 Update 2480 Cost 58.0674114773
+2018-09-25 02:49:34,298 - eval_Piano_santa - Epoch 28 Update 2490 Cost 59.0544447378
+2018-09-25 02:49:40,244 - eval_Piano_santa - Epoch 28 Update 2500 Cost 41.5895704685
+2018-09-25 02:49:47,570 - eval_Piano_santa - Epoch 28 Update 2510 Cost 53.1725921445
+2018-09-25 02:49:52,926 - eval_Piano_santa - Epoch 28 Update 2520 Cost 62.7460351866
+2018-09-25 02:50:02,226 - eval_Piano_santa - Train 49.6462085963 Valid 50.3276079965 Test 51.8513492704
+2018-09-25 02:50:06,196 - eval_Piano_santa - Epoch 29 Update 2530 Cost 54.005356095
+2018-09-25 02:50:13,144 - eval_Piano_santa - Epoch 29 Update 2540 Cost 47.0537007284
+2018-09-25 02:50:19,637 - eval_Piano_santa - Epoch 29 Update 2550 Cost 45.9155353452
+2018-09-25 02:50:24,960 - eval_Piano_santa - Epoch 29 Update 2560 Cost 53.0251100728
+2018-09-25 02:50:30,882 - eval_Piano_santa - Epoch 29 Update 2570 Cost 54.5941641602
+2018-09-25 02:50:36,695 - eval_Piano_santa - Epoch 29 Update 2580 Cost 48.4670501657
+2018-09-25 02:50:43,475 - eval_Piano_santa - Epoch 29 Update 2590 Cost 43.9856905654
+2018-09-25 02:50:49,747 - eval_Piano_santa - Epoch 29 Update 2600 Cost 58.5683641346
+2018-09-25 02:50:55,500 - eval_Piano_santa - Epoch 29 Update 2610 Cost 49.9222486675
+2018-09-25 02:51:02,966 - eval_Piano_santa - Train 49.0597940252 Valid 51.4811844181 Test 51.3220539609
+2018-09-25 02:51:08,693 - eval_Piano_santa - Epoch 30 Update 2620 Cost 50.5497481209
+2018-09-25 02:51:16,172 - eval_Piano_santa - Epoch 30 Update 2630 Cost 58.1617418123
+2018-09-25 02:51:22,001 - eval_Piano_santa - Epoch 30 Update 2640 Cost 61.4923100236
+2018-09-25 02:51:27,464 - eval_Piano_santa - Epoch 30 Update 2650 Cost 43.8276386179
+2018-09-25 02:51:33,405 - eval_Piano_santa - Epoch 30 Update 2660 Cost 50.5610201293
+2018-09-25 02:51:39,464 - eval_Piano_santa - Epoch 30 Update 2670 Cost 38.3190490443
+2018-09-25 02:51:46,039 - eval_Piano_santa - Epoch 30 Update 2680 Cost 44.5056359071
+2018-09-25 02:51:51,973 - eval_Piano_santa - Epoch 30 Update 2690 Cost 29.0700174587
+2018-09-25 02:52:03,609 - eval_Piano_santa - Train 48.4059450504 Valid 50.8844863552 Test 49.7599625925
+2018-09-25 02:52:05,272 - eval_Piano_santa - Epoch 31 Update 2700 Cost 44.8688604411
+2018-09-25 02:52:11,696 - eval_Piano_santa - Epoch 31 Update 2710 Cost 48.8492663179
+2018-09-25 02:52:18,849 - eval_Piano_santa - Epoch 31 Update 2720 Cost 62.3779701898
+2018-09-25 02:52:24,326 - eval_Piano_santa - Epoch 31 Update 2730 Cost 41.6513760934
+2018-09-25 02:52:29,972 - eval_Piano_santa - Epoch 31 Update 2740 Cost 31.8745376486
+2018-09-25 02:52:35,819 - eval_Piano_santa - Epoch 31 Update 2750 Cost 54.6921574529
+2018-09-25 02:52:41,750 - eval_Piano_santa - Epoch 31 Update 2760 Cost 49.5672693975
+2018-09-25 02:52:49,202 - eval_Piano_santa - Epoch 31 Update 2770 Cost 37.0350347756
+2018-09-25 02:52:54,729 - eval_Piano_santa - Epoch 31 Update 2780 Cost 35.284149278
+2018-09-25 02:53:04,660 - eval_Piano_santa - Train 47.547132016 Valid 48.8041398239 Test 49.5320699412
+2018-09-25 02:53:08,003 - eval_Piano_santa - Epoch 32 Update 2790 Cost 39.5385968969
+2018-09-25 02:53:14,766 - eval_Piano_santa - Epoch 32 Update 2800 Cost 65.9864694348
+2018-09-25 02:53:21,587 - eval_Piano_santa - Epoch 32 Update 2810 Cost 54.1985931452
+2018-09-25 02:53:26,927 - eval_Piano_santa - Epoch 32 Update 2820 Cost 29.8266762387
+2018-09-25 02:53:32,780 - eval_Piano_santa - Epoch 32 Update 2830 Cost 30.8859903336
+2018-09-25 02:53:38,550 - eval_Piano_santa - Epoch 32 Update 2840 Cost 59.3820505683
+2018-09-25 02:53:44,888 - eval_Piano_santa - Epoch 32 Update 2850 Cost 60.2874645338
+2018-09-25 02:53:51,650 - eval_Piano_santa - Epoch 32 Update 2860 Cost 34.8325512764
+2018-09-25 02:53:57,141 - eval_Piano_santa - Epoch 32 Update 2870 Cost 47.8144549126
+2018-09-25 02:54:05,373 - eval_Piano_santa - Train 46.3840128557 Valid 48.8059409331 Test 49.1017559547
+2018-09-25 02:54:10,462 - eval_Piano_santa - Epoch 33 Update 2880 Cost 48.3000722295
+2018-09-25 02:54:18,035 - eval_Piano_santa - Epoch 33 Update 2890 Cost 59.5329506198
+2018-09-25 02:54:23,828 - eval_Piano_santa - Epoch 33 Update 2900 Cost 64.6120309829
+2018-09-25 02:54:29,033 - eval_Piano_santa - Epoch 33 Update 2910 Cost 46.5940309884
+2018-09-25 02:54:35,070 - eval_Piano_santa - Epoch 33 Update 2920 Cost 41.8731756324
+2018-09-25 02:54:40,852 - eval_Piano_santa - Epoch 33 Update 2930 Cost 40.4902541895
+2018-09-25 02:54:47,565 - eval_Piano_santa - Epoch 33 Update 2940 Cost 49.145291832
+2018-09-25 02:54:53,595 - eval_Piano_santa - Epoch 33 Update 2950 Cost 44.729901899
+2018-09-25 02:55:05,731 - eval_Piano_santa - Train 45.4072727113 Valid 47.405858938 Test 47.2238031286
+2018-09-25 02:55:06,797 - eval_Piano_santa - Epoch 34 Update 2960 Cost 24.5878949465
+2018-09-25 02:55:12,759 - eval_Piano_santa - Epoch 34 Update 2970 Cost 38.9282157945
+2018-09-25 02:55:20,355 - eval_Piano_santa - Epoch 34 Update 2980 Cost 32.0794571604
+2018-09-25 02:55:25,840 - eval_Piano_santa - Epoch 34 Update 2990 Cost 43.7143444884
+2018-09-25 02:55:31,471 - eval_Piano_santa - Epoch 34 Update 3000 Cost 43.695578114
+2018-09-25 02:55:31,471 - eval_Piano_santa - Saving ...
+2018-09-25 02:55:31,506 - eval_Piano_santa - Done ...
+2018-09-25 02:55:37,372 - eval_Piano_santa - Epoch 34 Update 3010 Cost 18.407923397
+2018-09-25 02:55:43,301 - eval_Piano_santa - Epoch 34 Update 3020 Cost 57.767944556
+2018-09-25 02:55:50,590 - eval_Piano_santa - Epoch 34 Update 3030 Cost 44.2480628113
+2018-09-25 02:55:55,786 - eval_Piano_santa - Epoch 34 Update 3040 Cost 51.295980558
+2018-09-25 02:56:06,307 - eval_Piano_santa - Train 44.6904616218 Valid 45.9344264805 Test 45.4391936312
+2018-09-25 02:56:09,039 - eval_Piano_santa - Epoch 35 Update 3050 Cost 56.824463879
+2018-09-25 02:56:15,765 - eval_Piano_santa - Epoch 35 Update 3060 Cost 46.629326398
+2018-09-25 02:56:22,565 - eval_Piano_santa - Epoch 35 Update 3070 Cost 44.8961529015
+2018-09-25 02:56:27,931 - eval_Piano_santa - Epoch 35 Update 3080 Cost 59.1568198096
+2018-09-25 02:56:33,678 - eval_Piano_santa - Epoch 35 Update 3090 Cost 48.233530552
+2018-09-25 02:56:39,358 - eval_Piano_santa - Epoch 35 Update 3100 Cost 46.3003243576
+2018-09-25 02:56:45,458 - eval_Piano_santa - Epoch 35 Update 3110 Cost 47.9369415177
+2018-09-25 02:56:52,586 - eval_Piano_santa - Epoch 35 Update 3120 Cost 55.9206501545
+2018-09-25 02:56:57,953 - eval_Piano_santa - Epoch 35 Update 3130 Cost 33.6572804764
+2018-09-25 02:57:06,725 - eval_Piano_santa - Train 44.4150862847 Valid 44.7353293694 Test 46.2924941319
+2018-09-25 02:57:11,234 - eval_Piano_santa - Epoch 36 Update 3140 Cost 33.248693199
+2018-09-25 02:57:18,408 - eval_Piano_santa - Epoch 36 Update 3150 Cost 47.2124475496
+2018-09-25 02:57:24,554 - eval_Piano_santa - Epoch 36 Update 3160 Cost 43.9608530377
+2018-09-25 02:57:29,798 - eval_Piano_santa - Epoch 36 Update 3170 Cost 51.6265951739
+2018-09-25 02:57:35,837 - eval_Piano_santa - Epoch 36 Update 3180 Cost 37.7569347605
+2018-09-25 02:57:41,590 - eval_Piano_santa - Epoch 36 Update 3190 Cost 45.8820185206
+2018-09-25 02:57:48,340 - eval_Piano_santa - Epoch 36 Update 3200 Cost 51.6237186271
+2018-09-25 02:57:54,510 - eval_Piano_santa - Epoch 36 Update 3210 Cost 71.0912217726
+2018-09-25 02:58:07,256 - eval_Piano_santa - Train 43.246295985 Valid 43.7366311487 Test 44.1929242125
+2018-09-25 02:58:07,784 - eval_Piano_santa - Epoch 37 Update 3220 Cost 14.2410710243
+2018-09-25 02:58:13,507 - eval_Piano_santa - Epoch 37 Update 3230 Cost 58.863366527
+2018-09-25 02:58:21,391 - eval_Piano_santa - Epoch 37 Update 3240 Cost 43.8890699249
+2018-09-25 02:58:26,855 - eval_Piano_santa - Epoch 37 Update 3250 Cost 56.4367605703
+2018-09-25 02:58:32,334 - eval_Piano_santa - Epoch 37 Update 3260 Cost 46.9911981875
+2018-09-25 02:58:38,268 - eval_Piano_santa - Epoch 37 Update 3270 Cost 31.1037837709
+2018-09-25 02:58:44,341 - eval_Piano_santa - Epoch 37 Update 3280 Cost 58.1256691904
+2018-09-25 02:58:50,944 - eval_Piano_santa - Epoch 37 Update 3290 Cost 42.8135273603
+2018-09-25 02:58:56,761 - eval_Piano_santa - Epoch 37 Update 3300 Cost 37.5621814933
+2018-09-25 02:59:07,954 - eval_Piano_santa - Train 42.8732596986 Valid 43.908779584 Test 44.7232727983
+2018-09-25 02:59:10,153 - eval_Piano_santa - Epoch 38 Update 3310 Cost 51.0776924589
+2018-09-25 02:59:16,801 - eval_Piano_santa - Epoch 38 Update 3320 Cost 50.0821621519
+2018-09-25 02:59:24,208 - eval_Piano_santa - Epoch 38 Update 3330 Cost 34.4899758417
+2018-09-25 02:59:29,615 - eval_Piano_santa - Epoch 38 Update 3340 Cost 35.5591820666
+2018-09-25 02:59:35,335 - eval_Piano_santa - Epoch 38 Update 3350 Cost 46.0918118416
+2018-09-25 02:59:41,010 - eval_Piano_santa - Epoch 38 Update 3360 Cost 54.4903586914
+2018-09-25 02:59:46,918 - eval_Piano_santa - Epoch 38 Update 3370 Cost 33.0769384819
+2018-09-25 02:59:54,242 - eval_Piano_santa - Epoch 38 Update 3380 Cost 36.8981121923
+2018-09-25 02:59:59,569 - eval_Piano_santa - Epoch 38 Update 3390 Cost 52.8406954758
+2018-09-25 03:00:08,872 - eval_Piano_santa - Train 41.9681603742 Valid 42.8881537152 Test 42.637271053
+2018-09-25 03:00:12,864 - eval_Piano_santa - Epoch 39 Update 3400 Cost 50.133771119
+2018-09-25 03:00:19,814 - eval_Piano_santa - Epoch 39 Update 3410 Cost 42.2773687838
+2018-09-25 03:00:26,258 - eval_Piano_santa - Epoch 39 Update 3420 Cost 37.5061506258
+2018-09-25 03:00:31,615 - eval_Piano_santa - Epoch 39 Update 3430 Cost 30.517742421
+2018-09-25 03:00:37,579 - eval_Piano_santa - Epoch 39 Update 3440 Cost 48.5384724065
+2018-09-25 03:00:43,541 - eval_Piano_santa - Epoch 39 Update 3450 Cost 39.8626655382
+2018-09-25 03:00:50,330 - eval_Piano_santa - Epoch 39 Update 3460 Cost 31.6719009271
+2018-09-25 03:00:56,633 - eval_Piano_santa - Epoch 39 Update 3470 Cost 52.1725825443
+2018-09-25 03:01:02,371 - eval_Piano_santa - Epoch 39 Update 3480 Cost 45.3917840663
+2018-09-25 03:01:09,857 - eval_Piano_santa - Train 40.9177298138 Valid 42.9029368594 Test 42.3049820646
+2018-09-25 03:01:17,332 - eval_Piano_santa - Train 42.2196510249 Valid 41.0546475427 Test 44.2218138462
+2018-09-25 03:01:17,373 - eval_Piano_santa - The code run for 40 epochs, with 62.561079824 sec/epochs
+2018-09-25 04:18:49,990 - eval_Piano_santa - loading Piano data...
+2018-09-25 04:18:50,037 - eval_Piano_santa - data loaded!
+2018-09-25 04:18:50,038 - eval_Piano_santa - Model options {'n_x': 88, 'validFreq': 87, 'patience': 10, 'n_h': 200, 'lrate': 0.0002, 'max_epochs': 40, 'dispFreq': 10, 'saveFreq': 1000}
+2018-09-25 04:18:50,038 - eval_Piano_santa - Building model...
+2018-09-25 04:19:34,084 - eval_Piano_santa - Training model...
+2018-09-25 04:19:39,866 - eval_Piano_santa - Epoch 0 Update 10 Cost 1.39039166919e+19 Beta 0
+2018-09-25 04:19:47,365 - eval_Piano_santa - Epoch 0 Update 20 Cost 1.45209543092e+19 Beta 0
+2018-09-25 04:19:53,246 - eval_Piano_santa - Epoch 0 Update 30 Cost 1.52099465202e+19 Beta 0
+2018-09-25 04:19:58,778 - eval_Piano_santa - Epoch 0 Update 40 Cost 1.51751397821e+19 Beta 0
+2018-09-25 04:20:04,752 - eval_Piano_santa - Epoch 0 Update 50 Cost 1.31860511077e+19 Beta 0
+2018-09-25 04:20:10,853 - eval_Piano_santa - Epoch 0 Update 60 Cost 1.45111119991e+19 Beta 0
+2018-09-25 04:20:17,497 - eval_Piano_santa - Epoch 0 Update 70 Cost 1.53791216405e+19 Beta 0
+2018-09-25 04:20:23,701 - eval_Piano_santa - Epoch 0 Update 80 Cost 1.50284859021e+19 Beta 0
+2018-09-25 04:20:34,892 - eval_Piano_santa - Train 1.47666881429e+19 Valid 1.5053692107e+19 Test 1.48621396393e+19 Beta 0
+2018-09-25 04:20:36,590 - eval_Piano_santa - Epoch 1 Update 90 Cost 1.56497336691e+19 Beta 0
+2018-09-25 04:20:43,116 - eval_Piano_santa - Epoch 1 Update 100 Cost 1.41124994289e+19 Beta 0
+2018-09-25 04:20:50,323 - eval_Piano_santa - Epoch 1 Update 110 Cost 1.539784276e+19 Beta 0
+2018-09-25 04:20:55,815 - eval_Piano_santa - Epoch 1 Update 120 Cost 1.52408342127e+19 Beta 0
+2018-09-25 04:21:01,468 - eval_Piano_santa - Epoch 1 Update 130 Cost 1.4233909089e+19 Beta 0
+2018-09-25 04:21:07,306 - eval_Piano_santa - Epoch 1 Update 140 Cost 1.37542383491e+19 Beta 0
+2018-09-25 04:21:13,255 - eval_Piano_santa - Epoch 1 Update 150 Cost 1.58441867762e+19 Beta 0
+2018-09-25 04:21:20,590 - eval_Piano_santa - Epoch 1 Update 160 Cost 1.3300464196e+19 Beta 0
+2018-09-25 04:21:25,889 - eval_Piano_santa - Epoch 1 Update 170 Cost 1.53622823974e+19 Beta 0
+2018-09-25 04:21:35,287 - eval_Piano_santa - Train 1.49476520218e+19 Valid 1.48460444652e+19 Test 1.52587836828e+19 Beta 0
+2018-09-25 04:21:38,713 - eval_Piano_santa - Epoch 2 Update 180 Cost 1.5332271501e+19 Beta 0
+2018-09-25 04:21:45,543 - eval_Piano_santa - Epoch 2 Update 190 Cost 1.49318576368e+19 Beta 0
+2018-09-25 04:22:20,339 - eval_Piano_santa - loading Piano data...
+2018-09-25 04:22:20,379 - eval_Piano_santa - data loaded!
+2018-09-25 04:22:20,380 - eval_Piano_santa - Model options {'n_x': 88, 'validFreq': 87, 'patience': 10, 'n_h': 200, 'lrate': 0.0002, 'max_epochs': 40, 'dispFreq': 10, 'saveFreq': 1000}
+2018-09-25 04:22:20,380 - eval_Piano_santa - Building model...
+2018-09-25 04:22:58,395 - eval_Piano_santa - Training model...
+2018-09-25 04:23:04,170 - eval_Piano_santa - Epoch 0 Update 10 Cost 57.9797465516 Beta 1.0
+2018-09-25 04:23:11,775 - eval_Piano_santa - Epoch 0 Update 20 Cost 41.8624853921 Beta 1.0
+2018-09-25 04:23:17,680 - eval_Piano_santa - Epoch 0 Update 30 Cost 27.4509017738 Beta 1.0
+2018-09-25 04:23:23,212 - eval_Piano_santa - Epoch 0 Update 40 Cost 20.3901477976 Beta 1.0
+2018-09-25 04:23:29,212 - eval_Piano_santa - Epoch 0 Update 50 Cost 17.2871573701 Beta 1.0
+2018-09-25 04:23:35,330 - eval_Piano_santa - Epoch 0 Update 60 Cost 14.0371150019 Beta 1.0
+2018-09-25 04:23:42,030 - eval_Piano_santa - Epoch 0 Update 70 Cost 16.2085244987 Beta 1.0
+2018-09-25 04:23:48,056 - eval_Piano_santa - Epoch 0 Update 80 Cost 14.9067762343 Beta 1.0
+2018-09-25 04:24:00,075 - eval_Piano_santa - Train 13.5711487531 Valid 13.8499428696 Test 13.3724472448 Beta 1.0
+2018-09-25 04:24:01,730 - eval_Piano_santa - Epoch 1 Update 90 Cost 13.8859367338 Beta 1.0
+2018-09-25 04:24:08,283 - eval_Piano_santa - Epoch 1 Update 100 Cost 12.5072963733 Beta 1.0
+2018-09-25 04:24:15,562 - eval_Piano_santa - Epoch 1 Update 110 Cost 14.4294687585 Beta 1.0
+2018-09-25 04:24:21,133 - eval_Piano_santa - Epoch 1 Update 120 Cost 12.1020872974 Beta 1.0
+2018-09-25 04:24:26,844 - eval_Piano_santa - Epoch 1 Update 130 Cost 12.5030665918 Beta 1.0
+2018-09-25 04:24:32,793 - eval_Piano_santa - Epoch 1 Update 140 Cost 9.04045387047 Beta 1.0
+2018-09-25 04:24:38,838 - eval_Piano_santa - Epoch 1 Update 150 Cost 11.9575132638 Beta 1.0
+2018-09-25 04:24:46,347 - eval_Piano_santa - Epoch 1 Update 160 Cost 10.035762801 Beta 1.0
+2018-09-25 04:24:51,692 - eval_Piano_santa - Epoch 1 Update 170 Cost 12.4411585472 Beta 1.0
+2018-09-25 04:25:01,958 - eval_Piano_santa - Train 11.8921855791 Valid 12.0918585837 Test 11.6393822216 Beta 1.0
+2018-09-25 04:25:05,355 - eval_Piano_santa - Epoch 2 Update 180 Cost 14.2888419577 Beta 1.0
+2018-09-25 04:25:12,162 - eval_Piano_santa - Epoch 2 Update 190 Cost 14.3046729107 Beta 1.0
+2018-09-25 04:25:19,196 - eval_Piano_santa - Epoch 2 Update 200 Cost 14.7922688343 Beta 1.0
+2018-09-25 04:25:24,650 - eval_Piano_santa - Epoch 2 Update 210 Cost 12.5765578897 Beta 1.0
+2018-09-25 04:25:30,568 - eval_Piano_santa - Epoch 2 Update 220 Cost 7.90312822 Beta 1.0
+2018-09-25 04:25:36,337 - eval_Piano_santa - Epoch 2 Update 230 Cost 13.9233903507 Beta 1.0
+2018-09-25 04:25:42,824 - eval_Piano_santa - Epoch 2 Update 240 Cost 15.8430181738 Beta 1.0
+2018-09-25 04:25:49,774 - eval_Piano_santa - Epoch 2 Update 250 Cost 10.0479926102 Beta 1.0
+2018-09-25 04:25:55,335 - eval_Piano_santa - Epoch 2 Update 260 Cost 9.54574195684 Beta 1.0
+2018-09-25 04:26:03,898 - eval_Piano_santa - Train 11.614340457 Valid 11.7752685438 Test 11.3419730509 Beta 1.0
+2018-09-25 04:26:09,077 - eval_Piano_santa - Epoch 3 Update 270 Cost 10.8380340512 Beta 1.0
+2018-09-25 04:26:16,816 - eval_Piano_santa - Epoch 3 Update 280 Cost 12.4662665183 Beta 1.0
+2018-09-25 04:26:22,749 - eval_Piano_santa - Epoch 3 Update 290 Cost 17.6287199715 Beta 1.0
+2018-09-25 04:26:28,054 - eval_Piano_santa - Epoch 3 Update 300 Cost 12.0993844782 Beta 1.0
+2018-09-25 04:26:34,200 - eval_Piano_santa - Epoch 3 Update 310 Cost 12.010863476 Beta 1.0
+2018-09-25 04:26:40,082 - eval_Piano_santa - Epoch 3 Update 320 Cost 7.99285788986 Beta 1.0
+2018-09-25 04:26:46,940 - eval_Piano_santa - Epoch 3 Update 330 Cost 13.4312686511 Beta 1.0
+2018-09-25 04:26:53,085 - eval_Piano_santa - Epoch 3 Update 340 Cost 11.6661860469 Beta 1.0
+2018-09-25 04:27:05,595 - eval_Piano_santa - Train 11.5477260479 Valid 11.6899761683 Test 11.2656391158 Beta 1.0
+2018-09-25 04:27:06,669 - eval_Piano_santa - Epoch 4 Update 350 Cost 8.35581382548 Beta 1.0
+2018-09-25 04:27:12,795 - eval_Piano_santa - Epoch 4 Update 360 Cost 10.4691568205 Beta 1.0
+2018-09-25 04:27:20,571 - eval_Piano_santa - Epoch 4 Update 370 Cost 10.7164515006 Beta 1.0
+2018-09-25 04:27:26,209 - eval_Piano_santa - Epoch 4 Update 380 Cost 9.84273442355 Beta 1.0
+2018-09-25 04:27:31,962 - eval_Piano_santa - Epoch 4 Update 390 Cost 9.82629293296 Beta 1.0
+2018-09-25 04:27:37,917 - eval_Piano_santa - Epoch 4 Update 400 Cost 3.72463145055 Beta 1.0
+2018-09-25 04:27:43,958 - eval_Piano_santa - Epoch 4 Update 410 Cost 12.6751752581 Beta 1.0
+2018-09-25 04:27:51,391 - eval_Piano_santa - Epoch 4 Update 420 Cost 12.0857525799 Beta 1.0
+2018-09-25 04:27:56,726 - eval_Piano_santa - Epoch 4 Update 430 Cost 10.6134391724 Beta 1.0
+2018-09-25 04:28:07,687 - eval_Piano_santa - Train 11.5346530134 Valid 11.6646034487 Test 11.2479204538 Beta 1.0
+2018-09-25 04:28:10,460 - eval_Piano_santa - Epoch 5 Update 440 Cost 13.0556666681 Beta 1.0
+2018-09-25 04:28:17,330 - eval_Piano_santa - Epoch 5 Update 450 Cost 10.6704669348 Beta 1.0
+2018-09-25 04:28:24,297 - eval_Piano_santa - Epoch 5 Update 460 Cost 11.4128124674 Beta 1.0
+2018-09-25 04:28:29,775 - eval_Piano_santa - Epoch 5 Update 470 Cost 11.381857332 Beta 1.0
+2018-09-25 04:28:35,644 - eval_Piano_santa - Epoch 5 Update 480 Cost 10.4302775724 Beta 1.0
+2018-09-25 04:28:41,453 - eval_Piano_santa - Epoch 5 Update 490 Cost 15.3007328281 Beta 1.0
+2018-09-25 04:28:47,639 - eval_Piano_santa - Epoch 5 Update 500 Cost 13.9266934984 Beta 1.0
+2018-09-25 04:28:54,959 - eval_Piano_santa - Epoch 5 Update 510 Cost 10.539778392 Beta 1.0
+2018-09-25 04:29:00,475 - eval_Piano_santa - Epoch 5 Update 520 Cost 11.725809595 Beta 1.0
+2018-09-25 04:29:09,631 - eval_Piano_santa - Train 11.5405636406 Valid 11.6605201844 Test 11.2513114202 Beta 1.0
+2018-09-25 04:29:14,205 - eval_Piano_santa - Epoch 6 Update 530 Cost 10.8956617947 Beta 1.0
+2018-09-25 04:29:21,561 - eval_Piano_santa - Epoch 6 Update 540 Cost 11.253234137 Beta 1.0
+2018-09-25 04:29:27,897 - eval_Piano_santa - Epoch 6 Update 550 Cost 10.4196434406 Beta 1.0
+2018-09-25 04:29:33,252 - eval_Piano_santa - Epoch 6 Update 560 Cost 14.2861460975 Beta 1.0
+2018-09-25 04:29:39,416 - eval_Piano_santa - Epoch 6 Update 570 Cost 9.76047745065 Beta 1.0
+2018-09-25 04:29:45,218 - eval_Piano_santa - Epoch 6 Update 580 Cost 10.5957590277 Beta 1.0
+2018-09-25 04:29:52,059 - eval_Piano_santa - Epoch 6 Update 590 Cost 14.2834879625 Beta 1.0
+2018-09-25 04:29:58,350 - eval_Piano_santa - Epoch 6 Update 600 Cost 17.4566011645 Beta 1.0
+2018-09-25 04:30:11,489 - eval_Piano_santa - Train 11.551554741 Valid 11.6645302473 Test 11.2600049497 Beta 1.0
+2018-09-25 04:30:12,005 - eval_Piano_santa - Epoch 7 Update 610 Cost 8.67980067839 Beta 1.0
+2018-09-25 04:30:17,851 - eval_Piano_santa - Epoch 7 Update 620 Cost 9.11706646793 Beta 1.0
+2018-09-25 04:30:25,832 - eval_Piano_santa - Epoch 7 Update 630 Cost 9.89805335175 Beta 1.0
+2018-09-25 04:30:31,454 - eval_Piano_santa - Epoch 7 Update 640 Cost 11.961955219 Beta 1.0
+2018-09-25 04:30:37,067 - eval_Piano_santa - Epoch 7 Update 650 Cost 14.6583227346 Beta 1.0
+2018-09-25 04:30:43,153 - eval_Piano_santa - Epoch 7 Update 660 Cost 9.93330492748 Beta 1.0
+2018-09-25 04:30:49,273 - eval_Piano_santa - Epoch 7 Update 670 Cost 14.4152194079 Beta 1.0
+2018-09-25 04:30:56,042 - eval_Piano_santa - Epoch 7 Update 680 Cost 14.2530102959 Beta 1.0
+2018-09-25 04:31:01,974 - eval_Piano_santa - Epoch 7 Update 690 Cost 10.5370990032 Beta 1.0
+2018-09-25 04:31:13,434 - eval_Piano_santa - Train 11.5655603038 Valid 11.6721222244 Test 11.2723774991 Beta 1.0
+2018-09-25 04:31:15,658 - eval_Piano_santa - Epoch 8 Update 700 Cost 11.0647804637 Beta 1.0
+2018-09-25 04:31:22,221 - eval_Piano_santa - Epoch 8 Update 710 Cost 11.1566704098 Beta 1.0
+2018-09-25 04:31:29,564 - eval_Piano_santa - Epoch 8 Update 720 Cost 9.8344823815 Beta 1.0
+2018-09-25 04:31:35,084 - eval_Piano_santa - Epoch 8 Update 730 Cost 12.5686221533 Beta 1.0
+2018-09-25 04:31:40,937 - eval_Piano_santa - Epoch 8 Update 740 Cost 11.1914587954 Beta 1.0
+2018-09-25 04:31:46,717 - eval_Piano_santa - Epoch 8 Update 750 Cost 12.055351058 Beta 1.0
+2018-09-25 04:31:52,819 - eval_Piano_santa - Epoch 8 Update 760 Cost 10.4689871107 Beta 1.0
+2018-09-25 04:32:00,251 - eval_Piano_santa - Epoch 8 Update 770 Cost 10.1223109548 Beta 1.0
+2018-09-25 04:32:05,673 - eval_Piano_santa - Epoch 8 Update 780 Cost 14.3393164632 Beta 1.0
+2018-09-25 04:32:15,457 - eval_Piano_santa - Train 11.5804646454 Valid 11.6816901769 Test 11.2859318202 Beta 1.0
+2018-09-25 04:32:19,489 - eval_Piano_santa - Epoch 9 Update 790 Cost 14.8457942196 Beta 1.0
+2018-09-25 04:32:26,535 - eval_Piano_santa - Epoch 9 Update 800 Cost 11.4493019995 Beta 1.0
+2018-09-25 04:32:33,149 - eval_Piano_santa - Epoch 9 Update 810 Cost 12.7887923273 Beta 1.0
+2018-09-25 04:32:38,574 - eval_Piano_santa - Epoch 9 Update 820 Cost 11.1248273974 Beta 1.0
+2018-09-25 04:32:44,567 - eval_Piano_santa - Epoch 9 Update 830 Cost 11.0443111553 Beta 1.0
+2018-09-25 04:32:50,459 - eval_Piano_santa - Epoch 9 Update 840 Cost 7.4444084629 Beta 1.0
+2018-09-25 04:32:57,313 - eval_Piano_santa - Epoch 9 Update 850 Cost 12.0952406356 Beta 1.0
+2018-09-25 04:33:03,683 - eval_Piano_santa - Epoch 9 Update 860 Cost 11.3189122807 Beta 1.0
+2018-09-25 04:33:09,489 - eval_Piano_santa - Epoch 9 Update 870 Cost 11.7638964064 Beta 1.0
+2018-09-25 04:33:17,299 - eval_Piano_santa - Train 11.595111601 Valid 11.6919604137 Test 11.2991136948 Beta 1.0
+2018-09-25 04:33:23,114 - eval_Piano_santa - Epoch 10 Update 880 Cost 12.1489005879 Beta 1.0
+2018-09-25 04:33:30,767 - eval_Piano_santa - Epoch 10 Update 890 Cost 12.7267649861 Beta 1.0
+2018-09-25 04:33:36,658 - eval_Piano_santa - Epoch 10 Update 900 Cost 11.5025516057 Beta 1.0
+2018-09-25 04:33:42,204 - eval_Piano_santa - Epoch 10 Update 910 Cost 10.5127334633 Beta 1.0
+2018-09-25 04:33:48,210 - eval_Piano_santa - Epoch 10 Update 920 Cost 10.3268949984 Beta 1.0
+2018-09-25 04:33:54,313 - eval_Piano_santa - Epoch 10 Update 930 Cost 8.41347398247 Beta 1.0
+2018-09-25 04:34:01,006 - eval_Piano_santa - Epoch 10 Update 940 Cost 13.4228168639 Beta 1.0
+2018-09-25 04:34:07,072 - eval_Piano_santa - Epoch 10 Update 950 Cost 10.8288746541 Beta 1.0
+2018-09-25 04:34:19,125 - eval_Piano_santa - Train 11.6093445142 Valid 11.7019235346 Test 11.312223599 Beta 1.0
+2018-09-25 04:34:20,785 - eval_Piano_santa - Epoch 11 Update 960 Cost 11.9586272541 Beta 1.0
+2018-09-25 04:34:27,340 - eval_Piano_santa - Epoch 11 Update 970 Cost 11.6124554086 Beta 1.0
+2018-09-25 04:34:34,584 - eval_Piano_santa - Epoch 11 Update 980 Cost 13.9758727247 Beta 1.0
+2018-09-25 04:34:40,136 - eval_Piano_santa - Epoch 11 Update 990 Cost 10.5320408924 Beta 1.0
+2018-09-25 04:34:45,834 - eval_Piano_santa - Epoch 11 Update 1000 Cost 11.4821078257 Beta 1.0
+2018-09-25 04:34:45,834 - eval_Piano_santa - Saving ...
+2018-09-25 04:34:45,870 - eval_Piano_santa - Done ...
+2018-09-25 04:34:51,812 - eval_Piano_santa - Epoch 11 Update 1010 Cost 7.82053909973 Beta 1.0
+2018-09-25 04:34:57,859 - eval_Piano_santa - Epoch 11 Update 1020 Cost 11.2639743022 Beta 1.0
+2018-09-25 04:35:05,364 - eval_Piano_santa - Epoch 11 Update 1030 Cost 9.22794004034 Beta 1.0
+2018-09-25 04:35:10,670 - eval_Piano_santa - Epoch 11 Update 1040 Cost 11.8551239165 Beta 1.0
+2018-09-25 04:35:20,961 - eval_Piano_santa - Train 11.6220955441 Valid 11.7105960561 Test 11.3238378666 Beta 1.0
+2018-09-25 04:35:24,359 - eval_Piano_santa - Epoch 12 Update 1050 Cost 13.9884138819 Beta 1.0
+2018-09-25 04:35:31,170 - eval_Piano_santa - Epoch 12 Update 1060 Cost 14.6943192392 Beta 1.0
+2018-09-25 04:35:38,068 - eval_Piano_santa - Epoch 12 Update 1070 Cost 14.1552012374 Beta 1.0
+2018-09-25 04:35:43,508 - eval_Piano_santa - Epoch 12 Update 1080 Cost 11.6260498158 Beta 1.0
+2018-09-25 04:35:49,420 - eval_Piano_santa - Epoch 12 Update 1090 Cost 7.27005782433 Beta 1.0
+2018-09-25 04:35:55,171 - eval_Piano_santa - Epoch 12 Update 1100 Cost 13.1614646687 Beta 1.0
+2018-09-25 04:36:01,609 - eval_Piano_santa - Epoch 12 Update 1110 Cost 16.8821035951 Beta 1.0
+2018-09-25 04:36:08,485 - eval_Piano_santa - Epoch 12 Update 1120 Cost 9.24223557622 Beta 1.0
+2018-09-25 04:36:14,024 - eval_Piano_santa - Epoch 12 Update 1130 Cost 9.14828961339 Beta 1.0
+2018-09-25 04:36:22,583 - eval_Piano_santa - Train 11.6339115671 Valid 11.7191015065 Test 11.3346869473 Beta 1.0
+2018-09-25 04:36:27,751 - eval_Piano_santa - Epoch 13 Update 1140 Cost 10.7017234304 Beta 1.0
+2018-09-25 04:36:35,500 - eval_Piano_santa - Epoch 13 Update 1150 Cost 12.6409069623 Beta 1.0
+2018-09-25 04:36:41,380 - eval_Piano_santa - Epoch 13 Update 1160 Cost 18.5442430949 Beta 1.0
+2018-09-25 04:36:46,663 - eval_Piano_santa - Epoch 13 Update 1170 Cost 11.7602579981 Beta 1.0
+2018-09-25 04:36:52,791 - eval_Piano_santa - Epoch 13 Update 1180 Cost 12.2602303648 Beta 1.0
+2018-09-25 04:36:58,652 - eval_Piano_santa - Epoch 13 Update 1190 Cost 7.75263710781 Beta 1.0
+2018-09-25 04:37:05,555 - eval_Piano_santa - Epoch 13 Update 1200 Cost 13.7355533246 Beta 1.0
+2018-09-25 04:37:11,658 - eval_Piano_santa - Epoch 13 Update 1210 Cost 11.574592986 Beta 1.0
+2018-09-25 04:37:24,170 - eval_Piano_santa - Train 11.6447505644 Valid 11.726898499 Test 11.3434491254 Beta 1.0
+2018-09-25 04:37:25,244 - eval_Piano_santa - Epoch 14 Update 1220 Cost 8.17383652427 Beta 1.0
+2018-09-25 04:37:31,288 - eval_Piano_santa - Epoch 14 Update 1230 Cost 10.9290201713 Beta 1.0
+2018-09-25 04:37:39,004 - eval_Piano_santa - Epoch 14 Update 1240 Cost 10.994682438 Beta 1.0
+2018-09-25 04:37:44,559 - eval_Piano_santa - Epoch 14 Update 1250 Cost 9.6059568767 Beta 1.0
+2018-09-25 04:37:50,264 - eval_Piano_santa - Epoch 14 Update 1260 Cost 9.98209484948 Beta 1.0
+2018-09-25 04:37:56,157 - eval_Piano_santa - Epoch 14 Update 1270 Cost 3.49538355705 Beta 1.0
+2018-09-25 04:38:02,177 - eval_Piano_santa - Epoch 14 Update 1280 Cost 12.6129171123 Beta 1.0
+2018-09-25 04:38:09,609 - eval_Piano_santa - Epoch 14 Update 1290 Cost 12.1331554816 Beta 1.0
+2018-09-25 04:38:14,872 - eval_Piano_santa - Epoch 14 Update 1300 Cost 10.4469230516 Beta 1.0
+2018-09-25 04:38:25,764 - eval_Piano_santa - Train 11.6550554463 Valid 11.7342847111 Test 11.3508308579 Beta 1.0
+2018-09-25 04:38:28,532 - eval_Piano_santa - Epoch 15 Update 1310 Cost 12.8979268402 Beta 1.0
+2018-09-25 04:38:35,387 - eval_Piano_santa - Epoch 15 Update 1320 Cost 10.9523523168 Beta 1.0
+2018-09-25 04:38:42,293 - eval_Piano_santa - Epoch 15 Update 1330 Cost 11.1353347071 Beta 1.0
+2018-09-25 04:38:47,742 - eval_Piano_santa - Epoch 15 Update 1340 Cost 11.3487354543 Beta 1.0
+2018-09-25 04:38:53,879 - eval_Piano_santa - Epoch 15 Update 1350 Cost 10.3693808385 Beta 1.0
+2018-09-25 04:38:59,633 - eval_Piano_santa - Epoch 15 Update 1360 Cost 15.7278075422 Beta 1.0
+2018-09-25 04:39:05,739 - eval_Piano_santa - Epoch 15 Update 1370 Cost 14.0276795391 Beta 1.0
+2018-09-25 04:39:13,066 - eval_Piano_santa - Epoch 15 Update 1380 Cost 10.2515388454 Beta 1.0
+2018-09-25 04:39:18,516 - eval_Piano_santa - Epoch 15 Update 1390 Cost 11.5960161661 Beta 1.0
+2018-09-25 04:39:27,651 - eval_Piano_santa - Train 11.6648551543 Valid 11.7418055575 Test 13.8794597958 Beta 1.0
+2018-09-25 04:39:32,233 - eval_Piano_santa - Epoch 16 Update 1400 Cost 10.8055185239 Beta 1.0
+2018-09-25 04:39:39,552 - eval_Piano_santa - Epoch 16 Update 1410 Cost 11.3581424159 Beta 1.0
+2018-09-25 04:39:45,871 - eval_Piano_santa - Epoch 16 Update 1420 Cost 10.350758719 Beta 1.0
+2018-09-25 04:39:51,213 - eval_Piano_santa - Epoch 16 Update 1430 Cost 14.2078081501 Beta 1.0
+2018-09-25 04:39:57,349 - eval_Piano_santa - Epoch 16 Update 1440 Cost 9.72139133554 Beta 1.0
+2018-09-25 04:40:03,089 - eval_Piano_santa - Epoch 16 Update 1450 Cost 10.4921216935 Beta 1.0
+2018-09-25 04:40:09,898 - eval_Piano_santa - Epoch 16 Update 1460 Cost 14.5022729831 Beta 1.0
+2018-09-25 04:40:16,184 - eval_Piano_santa - Epoch 16 Update 1470 Cost 18.1141996132 Beta 1.0
+2018-09-25 04:40:29,283 - eval_Piano_santa - Train 11.6740272011 Valid 11.748610707 Test 14.1042920405 Beta 1.0
+2018-09-25 04:40:29,798 - eval_Piano_santa - Epoch 17 Update 1480 Cost 8.7057031756 Beta 1.0
+2018-09-25 04:40:35,603 - eval_Piano_santa - Epoch 17 Update 1490 Cost 9.01572914898 Beta 1.0
+2018-09-25 04:40:43,624 - eval_Piano_santa - Epoch 17 Update 1500 Cost 9.94286945933 Beta 1.0
+2018-09-25 04:40:49,181 - eval_Piano_santa - Epoch 17 Update 1510 Cost 12.3205304524 Beta 1.0
+2018-09-25 04:40:54,740 - eval_Piano_santa - Epoch 17 Update 1520 Cost 14.9331151618 Beta 1.0
+2018-09-25 04:41:00,777 - eval_Piano_santa - Epoch 17 Update 1530 Cost 10.8249292836 Beta 1.0
+2018-09-25 04:41:06,821 - eval_Piano_santa - Epoch 17 Update 1540 Cost 14.8867422054 Beta 1.0
+2018-09-25 04:41:13,574 - eval_Piano_santa - Epoch 17 Update 1550 Cost 14.5619001368 Beta 1.0
+2018-09-25 04:41:19,457 - eval_Piano_santa - Epoch 17 Update 1560 Cost 10.4421064488 Beta 1.0
+2018-09-25 04:41:30,936 - eval_Piano_santa - Train 11.6826833774 Valid 11.7549767622 Test 23.5328908686 Beta 1.0
+2018-09-25 04:41:33,160 - eval_Piano_santa - Epoch 18 Update 1570 Cost 10.9658974106 Beta 1.0
+2018-09-25 04:41:39,691 - eval_Piano_santa - Epoch 18 Update 1580 Cost 11.1685331662 Beta 1.0
+2018-09-25 04:41:47,030 - eval_Piano_santa - Epoch 18 Update 1590 Cost 9.74914060369 Beta 1.0
+2018-09-25 04:41:52,494 - eval_Piano_santa - Epoch 18 Update 1600 Cost 12.5029532324 Beta 1.0
+2018-09-25 04:41:58,281 - eval_Piano_santa - Epoch 18 Update 1610 Cost 11.2744368203 Beta 1.0
+2018-09-25 04:42:04,047 - eval_Piano_santa - Epoch 18 Update 1620 Cost 12.2168418854 Beta 1.0
+2018-09-25 04:42:10,018 - eval_Piano_santa - Epoch 18 Update 1630 Cost 10.4472779368 Beta 1.0
+2018-09-25 04:42:17,458 - eval_Piano_santa - Epoch 18 Update 1640 Cost 9.96922469284 Beta 1.0
+2018-09-25 04:42:22,853 - eval_Piano_santa - Epoch 18 Update 1650 Cost 14.4940236965 Beta 1.0
+2018-09-25 04:42:32,508 - eval_Piano_santa - Train 11.6912660425 Valid 11.7617763522 Test 26.2564346192 Beta 1.0
+2018-09-25 04:42:36,493 - eval_Piano_santa - Epoch 19 Update 1660 Cost 15.210735639 Beta 1.0
+2018-09-25 04:42:43,552 - eval_Piano_santa - Epoch 19 Update 1670 Cost 11.5537834169 Beta 1.0
+2018-09-25 04:42:50,100 - eval_Piano_santa - Epoch 19 Update 1680 Cost 12.7384089256 Beta 1.0
+2018-09-25 04:42:55,461 - eval_Piano_santa - Epoch 19 Update 1690 Cost 10.9342692416 Beta 1.0
+2018-09-25 04:43:01,573 - eval_Piano_santa - Epoch 19 Update 1700 Cost 11.0320864059 Beta 1.0
+2018-09-25 04:43:07,439 - eval_Piano_santa - Epoch 19 Update 1710 Cost 7.40076286645 Beta 1.0
+2018-09-25 04:43:14,389 - eval_Piano_santa - Epoch 19 Update 1720 Cost 12.139372649 Beta 1.0
+2018-09-25 04:43:20,765 - eval_Piano_santa - Epoch 19 Update 1730 Cost 11.3724155557 Beta 1.0
+2018-09-25 04:43:26,607 - eval_Piano_santa - Epoch 19 Update 1740 Cost 11.7315105071 Beta 1.0
+2018-09-25 04:43:34,374 - eval_Piano_santa - Train 11.6995203375 Valid 11.7689856174 Test 29.5407039192 Beta 1.0
+2018-09-25 04:43:40,154 - eval_Piano_santa - Epoch 20 Update 1750 Cost 12.6591965729 Beta 1.0
+2018-09-25 04:43:47,809 - eval_Piano_santa - Epoch 20 Update 1760 Cost 13.0631793972 Beta 1.0
+2018-09-25 04:43:53,808 - eval_Piano_santa - Epoch 20 Update 1770 Cost 11.5590682361 Beta 1.0
+2018-09-25 04:43:59,347 - eval_Piano_santa - Epoch 20 Update 1780 Cost 10.4921179917 Beta 1.0
+2018-09-25 04:44:05,561 - eval_Piano_santa - Epoch 20 Update 1790 Cost 10.4421881852 Beta 1.0
+2018-09-25 04:44:11,677 - eval_Piano_santa - Epoch 20 Update 1800 Cost 8.39461750422 Beta 1.0
+2018-09-25 04:44:18,425 - eval_Piano_santa - Epoch 20 Update 1810 Cost 13.4754356464 Beta 1.0
+2018-09-25 04:44:24,468 - eval_Piano_santa - Epoch 20 Update 1820 Cost 10.7203322933 Beta 1.0
+2018-09-25 04:44:36,598 - eval_Piano_santa - Train 11.7074040324 Valid 11.7749999178 Test 32.0711095714 Beta 1.0
+2018-09-25 04:44:38,272 - eval_Piano_santa - Epoch 21 Update 1830 Cost 11.9787845489 Beta 1.0
+2018-09-25 04:44:44,831 - eval_Piano_santa - Epoch 21 Update 1840 Cost 11.8644739295 Beta 1.0
+2018-09-25 04:44:52,134 - eval_Piano_santa - Epoch 21 Update 1850 Cost 14.2226337413 Beta 1.0
+2018-09-25 04:44:57,690 - eval_Piano_santa - Epoch 21 Update 1860 Cost 10.4952421051 Beta 1.0
+2018-09-25 04:45:03,425 - eval_Piano_santa - Epoch 21 Update 1870 Cost 11.459610842 Beta 1.0
+2018-09-25 04:45:09,352 - eval_Piano_santa - Epoch 21 Update 1880 Cost 7.83614352102 Beta 1.0
+2018-09-25 04:45:15,405 - eval_Piano_santa - Epoch 21 Update 1890 Cost 11.348019792 Beta 1.0
+2018-09-25 04:45:22,933 - eval_Piano_santa - Epoch 21 Update 1900 Cost 9.22429553482 Beta 1.0
+2018-09-25 04:45:28,320 - eval_Piano_santa - Epoch 21 Update 1910 Cost 11.8434753194 Beta 1.0
+2018-09-25 04:45:38,611 - eval_Piano_santa - Train 11.7146138428 Valid 11.7803382478 Test 34.3370101994 Beta 1.0
+2018-09-25 04:45:42,035 - eval_Piano_santa - Epoch 22 Update 1920 Cost 14.0296470564 Beta 1.0
+2018-09-25 04:45:48,885 - eval_Piano_santa - Epoch 22 Update 1930 Cost 14.8602667873 Beta 1.0
+2018-09-25 04:45:55,847 - eval_Piano_santa - Epoch 22 Update 1940 Cost 14.1059925935 Beta 1.0
+2018-09-25 04:46:01,305 - eval_Piano_santa - Epoch 22 Update 1950 Cost 11.4960420362 Beta 1.0
+2018-09-25 04:46:07,219 - eval_Piano_santa - Epoch 22 Update 1960 Cost 7.25148759364 Beta 1.0
+2018-09-25 04:46:12,992 - eval_Piano_santa - Epoch 22 Update 1970 Cost 13.0664544173 Beta 1.0
+2018-09-25 04:46:19,482 - eval_Piano_santa - Epoch 22 Update 1980 Cost 17.3314915907 Beta 1.0
+2018-09-25 04:46:26,413 - eval_Piano_santa - Epoch 22 Update 1990 Cost 9.15481984689 Beta 1.0
+2018-09-25 04:46:31,997 - eval_Piano_santa - Epoch 22 Update 2000 Cost 9.11232635501 Beta 1.0
+2018-09-25 04:46:31,997 - eval_Piano_santa - Saving ...
+2018-09-25 04:46:32,033 - eval_Piano_santa - Done ...
+2018-09-25 04:46:40,634 - eval_Piano_santa - Train 11.7215430466 Valid 11.7852698415 Test 42.7325751388 Beta 1.0
+2018-09-25 04:46:45,831 - eval_Piano_santa - Epoch 23 Update 2010 Cost 10.7470504839 Beta 1.0
+2018-09-25 04:46:53,637 - eval_Piano_santa - Epoch 23 Update 2020 Cost 12.7019838974 Beta 1.0
+2018-09-25 04:46:59,544 - eval_Piano_santa - Epoch 23 Update 2030 Cost 18.8845858065 Beta 1.0
+2018-09-25 04:47:04,862 - eval_Piano_santa - Epoch 23 Update 2040 Cost 11.7348832332 Beta 1.0
+2018-09-25 04:47:11,026 - eval_Piano_santa - Epoch 23 Update 2050 Cost 12.4311549441 Beta 1.0
+2018-09-25 04:47:16,949 - eval_Piano_santa - Epoch 23 Update 2060 Cost 7.7327621184 Beta 1.0
+2018-09-25 04:47:23,855 - eval_Piano_santa - Epoch 23 Update 2070 Cost 13.8306626756 Beta 1.0
+2018-09-25 04:47:30,033 - eval_Piano_santa - Epoch 23 Update 2080 Cost 11.5682794986 Beta 1.0
+2018-09-25 04:47:42,640 - eval_Piano_santa - Train 11.7277585412 Valid 11.7903223415 Test 45.8816297246 Beta 1.0
+2018-09-25 04:47:42,640 - eval_Piano_santa - Early Stop!
+2018-09-25 04:47:50,501 - eval_Piano_santa - Train 11.5405620249 Valid 11.6605134085 Test 11.2513116375 Beta 1.0
+2018-09-25 04:47:50,545 - eval_Piano_santa - The code run for 24 epochs, with 61.8435400824 sec/epochs
+2018-09-25 04:51:58,298 - eval_Piano_santa - loading Piano data...
+2018-09-25 04:51:58,337 - eval_Piano_santa - data loaded!
+2018-09-25 04:51:58,337 - eval_Piano_santa - Model options {'n_x': 88, 'validFreq': 87, 'patience': 10, 'n_h': 200, 'lrate': 0.0002, 'max_epochs': 40, 'dispFreq': 10, 'saveFreq': 1000}
+2018-09-25 04:51:58,338 - eval_Piano_santa - Building model...
+2018-09-25 04:52:32,069 - eval_Piano_santa - Training model...
+2018-09-25 04:52:37,957 - eval_Piano_santa - Epoch 0 Update 10 Cost 60.4359180997 Beta 0.8
+2018-09-25 04:52:45,774 - eval_Piano_santa - Epoch 0 Update 20 Cost 60.7422255533 Beta 0.8
+2018-09-25 04:52:51,787 - eval_Piano_santa - Epoch 0 Update 30 Cost 58.1200688549 Beta 0.8
+2018-09-25 04:52:57,418 - eval_Piano_santa - Epoch 0 Update 40 Cost 58.2539632339 Beta 0.8
+2018-09-25 04:53:03,543 - eval_Piano_santa - Epoch 0 Update 50 Cost 58.1416575432 Beta 0.8
+2018-09-25 04:53:09,760 - eval_Piano_santa - Epoch 0 Update 60 Cost 57.9398092222 Beta 0.8
+2018-09-25 04:53:16,566 - eval_Piano_santa - Epoch 0 Update 70 Cost 56.333562117 Beta 0.8
+2018-09-25 04:53:22,701 - eval_Piano_santa - Epoch 0 Update 80 Cost 55.2325060552 Beta 0.8
+2018-09-25 04:53:34,856 - eval_Piano_santa - Train 55.283185079 Valid 55.1240808304 Test 54.9597739128 Beta 0.8
+2018-09-25 04:53:36,539 - eval_Piano_santa - Epoch 1 Update 90 Cost 53.8438254664 Beta 0.8
+2018-09-25 04:53:43,225 - eval_Piano_santa - Epoch 1 Update 100 Cost 54.5056461782 Beta 0.8
+2018-09-25 04:53:50,674 - eval_Piano_santa - Epoch 1 Update 110 Cost 53.8441831123 Beta 0.8
+2018-09-25 04:53:56,324 - eval_Piano_santa - Epoch 1 Update 120 Cost 51.3549095251 Beta 0.8
+2018-09-25 04:54:02,120 - eval_Piano_santa - Epoch 1 Update 130 Cost 48.4580529043 Beta 0.8
+2018-09-25 04:54:08,105 - eval_Piano_santa - Epoch 1 Update 140 Cost 50.2077607041 Beta 0.8
+2018-09-25 04:54:14,240 - eval_Piano_santa - Epoch 1 Update 150 Cost 50.2239437458 Beta 0.8
+2018-09-25 04:54:21,876 - eval_Piano_santa - Epoch 1 Update 160 Cost 45.1501053827 Beta 0.8
+2018-09-25 04:54:27,284 - eval_Piano_santa - Epoch 1 Update 170 Cost 42.3052134888 Beta 0.8
+2018-09-25 04:54:37,713 - eval_Piano_santa - Train 46.1777270525 Valid 46.5481644391 Test 46.4962863895 Beta 0.8
+2018-09-25 04:54:41,176 - eval_Piano_santa - Epoch 2 Update 180 Cost 42.5042816585 Beta 0.8
+2018-09-25 04:54:48,346 - eval_Piano_santa - Epoch 2 Update 190 Cost 50.2560495473 Beta 0.8
+2018-09-25 04:54:55,475 - eval_Piano_santa - Epoch 2 Update 200 Cost 47.121227195 Beta 0.8
+2018-09-25 04:55:00,959 - eval_Piano_santa - Epoch 2 Update 210 Cost 32.6728494438 Beta 0.8
+2018-09-25 04:55:06,934 - eval_Piano_santa - Epoch 2 Update 220 Cost 32.9029535712 Beta 0.8
+2018-09-25 04:55:12,771 - eval_Piano_santa - Epoch 2 Update 230 Cost 40.6941079448 Beta 0.8
+2018-09-25 04:55:19,303 - eval_Piano_santa - Epoch 2 Update 240 Cost 45.9743020667 Beta 0.8
+2018-09-25 04:55:26,322 - eval_Piano_santa - Epoch 2 Update 250 Cost 31.5391912286 Beta 0.8
+2018-09-25 04:55:31,938 - eval_Piano_santa - Epoch 2 Update 260 Cost 34.9302279946 Beta 0.8
+2018-09-25 04:55:40,561 - eval_Piano_santa - Train 35.8211502608 Valid 37.1755905129 Test 36.7524850619 Beta 0.8
+2018-09-25 04:55:45,793 - eval_Piano_santa - Epoch 3 Update 270 Cost 36.7271033699 Beta 0.8
+2018-09-25 04:55:53,673 - eval_Piano_santa - Epoch 3 Update 280 Cost 40.8921643433 Beta 0.8
+2018-09-25 04:55:59,604 - eval_Piano_santa - Epoch 3 Update 290 Cost 42.5986027511 Beta 0.8
+2018-09-25 04:56:04,931 - eval_Piano_santa - Epoch 3 Update 300 Cost 32.1462999501 Beta 0.8
+2018-09-25 04:56:11,126 - eval_Piano_santa - Epoch 3 Update 310 Cost 28.2161952444 Beta 0.8
+2018-09-25 04:56:17,080 - eval_Piano_santa - Epoch 3 Update 320 Cost 27.0514873409 Beta 0.8
+2018-09-25 04:56:23,999 - eval_Piano_santa - Epoch 3 Update 330 Cost 34.2911065108 Beta 0.8
+2018-09-25 04:56:30,176 - eval_Piano_santa - Epoch 3 Update 340 Cost 30.6141049311 Beta 0.8
+2018-09-25 04:56:42,824 - eval_Piano_santa - Train 29.2891082056 Valid 29.8974961898 Test 29.5191653816 Beta 0.8
+2018-09-25 04:56:43,912 - eval_Piano_santa - Epoch 4 Update 350 Cost 18.5581586857 Beta 0.8
+2018-09-25 04:56:50,036 - eval_Piano_santa - Epoch 4 Update 360 Cost 26.9047714407 Beta 0.8
+2018-09-25 04:56:57,977 - eval_Piano_santa - Epoch 4 Update 370 Cost 22.3469796914 Beta 0.8
+2018-09-25 04:57:03,578 - eval_Piano_santa - Epoch 4 Update 380 Cost 21.9305129054 Beta 0.8
+2018-09-25 04:57:09,318 - eval_Piano_santa - Epoch 4 Update 390 Cost 23.2318429457 Beta 0.8
+2018-09-25 04:57:15,288 - eval_Piano_santa - Epoch 4 Update 400 Cost 8.78168508285 Beta 0.8
+2018-09-25 04:57:21,404 - eval_Piano_santa - Epoch 4 Update 410 Cost 30.4425220751 Beta 0.8
+2018-09-25 04:57:28,895 - eval_Piano_santa - Epoch 4 Update 420 Cost 23.5712866679 Beta 0.8
+2018-09-25 04:57:34,238 - eval_Piano_santa - Epoch 4 Update 430 Cost 24.9748681784 Beta 0.8
+2018-09-25 04:57:45,210 - eval_Piano_santa - Train 25.1660632858 Valid 25.3933941163 Test 25.1997185294 Beta 0.8
+2018-09-25 04:57:48,019 - eval_Piano_santa - Epoch 5 Update 440 Cost 32.1368908724 Beta 0.8
+2018-09-25 04:57:54,953 - eval_Piano_santa - Epoch 5 Update 450 Cost 23.3917063359 Beta 0.8
+2018-09-25 04:58:02,043 - eval_Piano_santa - Epoch 5 Update 460 Cost 23.2993653947 Beta 0.8
+2018-09-25 04:58:07,551 - eval_Piano_santa - Epoch 5 Update 470 Cost 30.7294790218 Beta 0.8
+2018-09-25 04:58:13,466 - eval_Piano_santa - Epoch 5 Update 480 Cost 22.2900609761 Beta 0.8
+2018-09-25 04:58:19,269 - eval_Piano_santa - Epoch 5 Update 490 Cost 25.7460532449 Beta 0.8
+2018-09-25 04:58:25,471 - eval_Piano_santa - Epoch 5 Update 500 Cost 24.8572505286 Beta 0.8
+2018-09-25 04:58:32,833 - eval_Piano_santa - Epoch 5 Update 510 Cost 28.2693657732 Beta 0.8
+2018-09-25 04:58:38,345 - eval_Piano_santa - Epoch 5 Update 520 Cost 16.9643558745 Beta 0.8
+2018-09-25 04:58:47,578 - eval_Piano_santa - Train 22.3292868865 Valid 22.9281146112 Test 23.0555035916 Beta 0.8
+2018-09-25 04:58:52,204 - eval_Piano_santa - Epoch 6 Update 530 Cost 17.2315076353 Beta 0.8
+2018-09-25 04:58:59,565 - eval_Piano_santa - Epoch 6 Update 540 Cost 21.2836858687 Beta 0.8
+2018-09-25 04:59:05,917 - eval_Piano_santa - Epoch 6 Update 550 Cost 20.7798889038 Beta 0.8
+2018-09-25 04:59:11,293 - eval_Piano_santa - Epoch 6 Update 560 Cost 27.2692891081 Beta 0.8
+2018-09-25 04:59:17,502 - eval_Piano_santa - Epoch 6 Update 570 Cost 18.5625582476 Beta 0.8
+2018-09-25 04:59:23,322 - eval_Piano_santa - Epoch 6 Update 580 Cost 21.681972914 Beta 0.8
+2018-09-25 04:59:30,204 - eval_Piano_santa - Epoch 6 Update 590 Cost 25.5232452994 Beta 0.8
+2018-09-25 04:59:36,539 - eval_Piano_santa - Epoch 6 Update 600 Cost 36.2496910174 Beta 0.8
+2018-09-25 04:59:49,745 - eval_Piano_santa - Train 20.5530005747 Valid 20.4154142416 Test 20.5712169188 Beta 0.8
+2018-09-25 04:59:50,284 - eval_Piano_santa - Epoch 7 Update 610 Cost 9.1521939396 Beta 0.8
+2018-09-25 04:59:56,152 - eval_Piano_santa - Epoch 7 Update 620 Cost 20.2423334545 Beta 0.8
+2018-09-25 05:00:04,191 - eval_Piano_santa - Epoch 7 Update 630 Cost 17.3318839308 Beta 0.8
+2018-09-25 05:00:09,802 - eval_Piano_santa - Epoch 7 Update 640 Cost 28.1423440342 Beta 0.8
+2018-09-25 05:00:15,427 - eval_Piano_santa - Epoch 7 Update 650 Cost 29.1940788164 Beta 0.8
+2018-09-25 05:00:21,535 - eval_Piano_santa - Epoch 7 Update 660 Cost 14.3015906407 Beta 0.8
+2018-09-25 05:00:27,697 - eval_Piano_santa - Epoch 7 Update 670 Cost 30.1375910089 Beta 0.8
+2018-09-25 05:00:34,504 - eval_Piano_santa - Epoch 7 Update 680 Cost 24.0419690367 Beta 0.8
+2018-09-25 05:00:40,500 - eval_Piano_santa - Epoch 7 Update 690 Cost 17.1482320124 Beta 0.8
+2018-09-25 05:00:52,080 - eval_Piano_santa - Train 19.1669671726 Valid 18.9760685743 Test 18.8414098862 Beta 0.8
+2018-09-25 05:00:54,328 - eval_Piano_santa - Epoch 8 Update 700 Cost 20.4333867922 Beta 0.8
+2018-09-25 05:01:00,922 - eval_Piano_santa - Epoch 8 Update 710 Cost 21.3922735419 Beta 0.8
+2018-09-25 05:01:08,291 - eval_Piano_santa - Epoch 8 Update 720 Cost 14.5812239723 Beta 0.8
+2018-09-25 05:01:13,814 - eval_Piano_santa - Epoch 8 Update 730 Cost 19.1889270715 Beta 0.8
+2018-09-25 05:01:19,704 - eval_Piano_santa - Epoch 8 Update 740 Cost 19.1569646015 Beta 0.8
+2018-09-25 05:01:25,528 - eval_Piano_santa - Epoch 8 Update 750 Cost 20.9259584946 Beta 0.8
+2018-09-25 05:01:31,613 - eval_Piano_santa - Epoch 8 Update 760 Cost 14.9886112021 Beta 0.8
+2018-09-25 05:01:39,143 - eval_Piano_santa - Epoch 8 Update 770 Cost 15.4834964456 Beta 0.8
+2018-09-25 05:01:44,609 - eval_Piano_santa - Epoch 8 Update 780 Cost 22.1734799823 Beta 0.8
+2018-09-25 05:01:54,289 - eval_Piano_santa - Train 18.4070037261 Valid 18.3964933607 Test 17.9353564533 Beta 0.8
+2018-09-25 05:01:58,303 - eval_Piano_santa - Epoch 9 Update 790 Cost 23.7993059293 Beta 0.8
+2018-09-25 05:02:05,373 - eval_Piano_santa - Epoch 9 Update 800 Cost 19.8553913437 Beta 0.8
+2018-09-25 05:02:12,013 - eval_Piano_santa - Epoch 9 Update 810 Cost 16.4830150011 Beta 0.8
+2018-09-25 05:02:17,374 - eval_Piano_santa - Epoch 9 Update 820 Cost 12.9938342323 Beta 0.8
+2018-09-25 05:02:23,435 - eval_Piano_santa - Epoch 9 Update 830 Cost 16.0486929453 Beta 0.8
+2018-09-25 05:02:29,332 - eval_Piano_santa - Epoch 9 Update 840 Cost 11.5067015355 Beta 0.8
+2018-09-25 05:02:36,162 - eval_Piano_santa - Epoch 9 Update 850 Cost 14.9497632462 Beta 0.8
+2018-09-25 05:02:42,532 - eval_Piano_santa - Epoch 9 Update 860 Cost 23.2439485205 Beta 0.8
+2018-09-25 05:02:48,376 - eval_Piano_santa - Epoch 9 Update 870 Cost 17.6766242751 Beta 0.8
+2018-09-25 05:02:56,317 - eval_Piano_santa - Train 17.4428720141 Valid 16.7249335971 Test 17.6258826208 Beta 0.8
+2018-09-25 05:03:02,100 - eval_Piano_santa - Epoch 10 Update 880 Cost 19.1551470047 Beta 0.8
+2018-09-25 05:03:09,737 - eval_Piano_santa - Epoch 10 Update 890 Cost 22.6826037994 Beta 0.8
+2018-09-25 05:03:15,632 - eval_Piano_santa - Epoch 10 Update 900 Cost 18.5902478702 Beta 0.8
+2018-09-25 05:03:21,142 - eval_Piano_santa - Epoch 10 Update 910 Cost 15.6328774836 Beta 0.8
+2018-09-25 05:03:27,137 - eval_Piano_santa - Epoch 10 Update 920 Cost 14.8013764728 Beta 0.8
+2018-09-25 05:03:33,231 - eval_Piano_santa - Epoch 10 Update 930 Cost 12.0658509454 Beta 0.8
+2018-09-25 05:03:39,901 - eval_Piano_santa - Epoch 10 Update 940 Cost 17.2297243586 Beta 0.8
+2018-09-25 05:03:45,901 - eval_Piano_santa - Epoch 10 Update 950 Cost 12.6535735969 Beta 0.8
+2018-09-25 05:03:57,942 - eval_Piano_santa - Train 17.1432506697 Valid 16.7989430808 Test 16.6826403379 Beta 0.8
+2018-09-25 05:03:59,604 - eval_Piano_santa - Epoch 11 Update 960 Cost 16.8212584357 Beta 0.8
+2018-09-25 05:04:06,146 - eval_Piano_santa - Epoch 11 Update 970 Cost 19.6040206092 Beta 0.8
+2018-09-25 05:04:13,425 - eval_Piano_santa - Epoch 11 Update 980 Cost 21.2638488868 Beta 0.8
+2018-09-25 05:04:19,013 - eval_Piano_santa - Epoch 11 Update 990 Cost 13.5115256958 Beta 0.8
+2018-09-25 05:04:24,700 - eval_Piano_santa - Epoch 11 Update 1000 Cost 12.801045012 Beta 0.8
+2018-09-25 05:04:24,700 - eval_Piano_santa - Saving ...
+2018-09-25 05:04:24,739 - eval_Piano_santa - Done ...
+2018-09-25 05:04:30,657 - eval_Piano_santa - Epoch 11 Update 1010 Cost 9.61242014856 Beta 0.8
+2018-09-25 05:04:36,696 - eval_Piano_santa - Epoch 11 Update 1020 Cost 14.7522855227 Beta 0.8
+2018-09-25 05:04:44,232 - eval_Piano_santa - Epoch 11 Update 1030 Cost 13.6557213634 Beta 0.8
+2018-09-25 05:04:49,568 - eval_Piano_santa - Epoch 11 Update 1040 Cost 14.4248197227 Beta 0.8
+2018-09-25 05:04:59,802 - eval_Piano_santa - Train 16.4137881743 Valid 16.2641380736 Test 16.524692438 Beta 0.8
+2018-09-25 05:05:03,222 - eval_Piano_santa - Epoch 12 Update 1050 Cost 16.4215891358 Beta 0.8
+2018-09-25 05:05:10,062 - eval_Piano_santa - Epoch 12 Update 1060 Cost 31.9856588056 Beta 0.8
+2018-09-25 05:05:16,985 - eval_Piano_santa - Epoch 12 Update 1070 Cost 20.6378894228 Beta 0.8
+2018-09-25 05:05:22,445 - eval_Piano_santa - Epoch 12 Update 1080 Cost 13.690166399 Beta 0.8
+2018-09-25 05:05:28,354 - eval_Piano_santa - Epoch 12 Update 1090 Cost 8.18594815699 Beta 0.8
+2018-09-25 05:05:34,103 - eval_Piano_santa - Epoch 12 Update 1100 Cost 22.8634142221 Beta 0.8
+2018-09-25 05:05:40,592 - eval_Piano_santa - Epoch 12 Update 1110 Cost 25.3550213255 Beta 0.8
+2018-09-25 05:05:47,541 - eval_Piano_santa - Epoch 12 Update 1120 Cost 10.8891826056 Beta 0.8
+2018-09-25 05:05:53,118 - eval_Piano_santa - Epoch 12 Update 1130 Cost 10.9420933432 Beta 0.8
+2018-09-25 05:06:01,700 - eval_Piano_santa - Train 16.0854078353 Valid 15.691941562 Test 15.8397546244 Beta 0.8
+2018-09-25 05:06:06,905 - eval_Piano_santa - Epoch 13 Update 1140 Cost 16.6023767668 Beta 0.8
+2018-09-25 05:06:14,692 - eval_Piano_santa - Epoch 13 Update 1150 Cost 20.2839506552 Beta 0.8
+2018-09-25 05:06:20,645 - eval_Piano_santa - Epoch 13 Update 1160 Cost 26.7763005289 Beta 0.8
+2018-09-25 05:06:25,965 - eval_Piano_santa - Epoch 13 Update 1170 Cost 14.6661074787 Beta 0.8
+2018-09-25 05:06:32,129 - eval_Piano_santa - Epoch 13 Update 1180 Cost 15.293966612 Beta 0.8
+2018-09-25 05:06:38,032 - eval_Piano_santa - Epoch 13 Update 1190 Cost 10.4295092922 Beta 0.8
+2018-09-25 05:06:44,928 - eval_Piano_santa - Epoch 13 Update 1200 Cost 19.6994509067 Beta 0.8
+2018-09-25 05:06:51,075 - eval_Piano_santa - Epoch 13 Update 1210 Cost 15.1607904082 Beta 0.8
+2018-09-25 05:07:03,743 - eval_Piano_santa - Train 15.7973870276 Valid 15.8012767585 Test 15.3853499258 Beta 0.8
+2018-09-25 05:07:04,814 - eval_Piano_santa - Epoch 14 Update 1220 Cost 8.74939733045 Beta 0.8
+2018-09-25 05:07:10,912 - eval_Piano_santa - Epoch 14 Update 1230 Cost 14.4515128607 Beta 0.8
+2018-09-25 05:07:18,719 - eval_Piano_santa - Epoch 14 Update 1240 Cost 12.0925835246 Beta 0.8
+2018-09-25 05:07:24,289 - eval_Piano_santa - Epoch 14 Update 1250 Cost 11.1590789917 Beta 0.8
+2018-09-25 05:07:30,002 - eval_Piano_santa - Epoch 14 Update 1260 Cost 12.1949120993 Beta 0.8
+2018-09-25 05:07:35,932 - eval_Piano_santa - Epoch 14 Update 1270 Cost 2.64579889248 Beta 0.8
+2018-09-25 05:07:41,966 - eval_Piano_santa - Epoch 14 Update 1280 Cost 16.2696693131 Beta 0.8
+2018-09-25 05:07:49,437 - eval_Piano_santa - Epoch 14 Update 1290 Cost 14.5264728367 Beta 0.8
+2018-09-25 05:07:54,727 - eval_Piano_santa - Epoch 14 Update 1300 Cost 14.0110781279 Beta 0.8
+2018-09-25 05:08:05,702 - eval_Piano_santa - Train 15.5067976382 Valid 15.2008574848 Test 15.2992108164 Beta 0.8
+2018-09-25 05:08:08,489 - eval_Piano_santa - Epoch 15 Update 1310 Cost 18.1976974218 Beta 0.8
+2018-09-25 05:08:15,401 - eval_Piano_santa - Epoch 15 Update 1320 Cost 14.8057857284 Beta 0.8
+2018-09-25 05:08:22,414 - eval_Piano_santa - Epoch 15 Update 1330 Cost 14.5506570913 Beta 0.8
+2018-09-25 05:08:27,916 - eval_Piano_santa - Epoch 15 Update 1340 Cost 20.3679026012 Beta 0.8
+2018-09-25 05:08:33,784 - eval_Piano_santa - Epoch 15 Update 1350 Cost 13.1835712656 Beta 0.8
+2018-09-25 05:08:39,592 - eval_Piano_santa - Epoch 15 Update 1360 Cost 17.2919987889 Beta 0.8
+2018-09-25 05:08:45,734 - eval_Piano_santa - Epoch 15 Update 1370 Cost 17.1765530118 Beta 0.8
+2018-09-25 05:08:53,046 - eval_Piano_santa - Epoch 15 Update 1380 Cost 14.5899402188 Beta 0.8
+2018-09-25 05:08:58,576 - eval_Piano_santa - Epoch 15 Update 1390 Cost 12.9820394379 Beta 0.8
+2018-09-25 05:09:07,712 - eval_Piano_santa - Train 15.1914085853 Valid 14.6911595926 Test 14.7334676996 Beta 0.8
+2018-09-25 05:09:12,319 - eval_Piano_santa - Epoch 16 Update 1400 Cost 12.6991609453 Beta 0.8
+2018-09-25 05:09:19,712 - eval_Piano_santa - Epoch 16 Update 1410 Cost 15.646696393 Beta 0.8
+2018-09-25 05:09:26,050 - eval_Piano_santa - Epoch 16 Update 1420 Cost 12.9516402723 Beta 0.8
+2018-09-25 05:09:31,401 - eval_Piano_santa - Epoch 16 Update 1430 Cost 16.6738802835 Beta 0.8
+2018-09-25 05:09:37,598 - eval_Piano_santa - Epoch 16 Update 1440 Cost 12.3924746661 Beta 0.8
+2018-09-25 05:09:43,383 - eval_Piano_santa - Epoch 16 Update 1450 Cost 13.8001850542 Beta 0.8
+2018-09-25 05:09:50,227 - eval_Piano_santa - Epoch 16 Update 1460 Cost 17.7078140435 Beta 0.8
+2018-09-25 05:09:56,539 - eval_Piano_santa - Epoch 16 Update 1470 Cost 25.3062703686 Beta 0.8
+2018-09-25 05:10:09,687 - eval_Piano_santa - Train 14.9749330239 Valid 14.927524099 Test 14.2610873498 Beta 0.8
+2018-09-25 05:10:10,208 - eval_Piano_santa - Epoch 17 Update 1480 Cost 8.84762833626 Beta 0.8
+2018-09-25 05:10:16,052 - eval_Piano_santa - Epoch 17 Update 1490 Cost 13.3069604304 Beta 0.8
+2018-09-25 05:10:24,048 - eval_Piano_santa - Epoch 17 Update 1500 Cost 12.2465551058 Beta 0.8
+2018-09-25 05:10:29,668 - eval_Piano_santa - Epoch 17 Update 1510 Cost 18.8730584677 Beta 0.8
+2018-09-25 05:10:35,251 - eval_Piano_santa - Epoch 17 Update 1520 Cost 19.67210524 Beta 0.8
+2018-09-25 05:10:41,449 - eval_Piano_santa - Epoch 17 Update 1530 Cost 11.51060067 Beta 0.8
+2018-09-25 05:10:47,569 - eval_Piano_santa - Epoch 17 Update 1540 Cost 23.344345081 Beta 0.8
+2018-09-25 05:10:54,336 - eval_Piano_santa - Epoch 17 Update 1550 Cost 17.9864611136 Beta 0.8
+2018-09-25 05:11:00,253 - eval_Piano_santa - Epoch 17 Update 1560 Cost 12.9638227615 Beta 0.8
+2018-09-25 05:11:11,797 - eval_Piano_santa - Train 14.8193218437 Valid 14.7106228253 Test 14.4243532524 Beta 0.8
+2018-09-25 05:11:14,043 - eval_Piano_santa - Epoch 18 Update 1570 Cost 14.2135814253 Beta 0.8
+2018-09-25 05:11:20,620 - eval_Piano_santa - Epoch 18 Update 1580 Cost 15.6884435578 Beta 0.8
+2018-09-25 05:11:27,975 - eval_Piano_santa - Epoch 18 Update 1590 Cost 11.9127453924 Beta 0.8
+2018-09-25 05:11:33,493 - eval_Piano_santa - Epoch 18 Update 1600 Cost 14.5465753461 Beta 0.8
+2018-09-25 05:11:39,343 - eval_Piano_santa - Epoch 18 Update 1610 Cost 14.406093959 Beta 0.8
+2018-09-25 05:11:45,138 - eval_Piano_santa - Epoch 18 Update 1620 Cost 15.8059365961 Beta 0.8
+2018-09-25 05:11:51,171 - eval_Piano_santa - Epoch 18 Update 1630 Cost 12.1711838639 Beta 0.8
+2018-09-25 05:11:58,642 - eval_Piano_santa - Epoch 18 Update 1640 Cost 11.4838987441 Beta 0.8
+2018-09-25 05:12:04,056 - eval_Piano_santa - Epoch 18 Update 1650 Cost 16.1030733446 Beta 0.8
+2018-09-25 05:12:13,791 - eval_Piano_santa - Train 14.5122551453 Valid 14.455180539 Test 14.2359559985 Beta 0.8
+2018-09-25 05:12:17,834 - eval_Piano_santa - Epoch 19 Update 1660 Cost 19.3981019091 Beta 0.8
+2018-09-25 05:12:24,941 - eval_Piano_santa - Epoch 19 Update 1670 Cost 15.9938534344 Beta 0.8
+2018-09-25 05:12:31,544 - eval_Piano_santa - Epoch 19 Update 1680 Cost 14.8394694879 Beta 0.8
+2018-09-25 05:12:36,937 - eval_Piano_santa - Epoch 19 Update 1690 Cost 11.7136274007 Beta 0.8
+2018-09-25 05:12:42,954 - eval_Piano_santa - Epoch 19 Update 1700 Cost 14.1855348904 Beta 0.8
+2018-09-25 05:12:48,875 - eval_Piano_santa - Epoch 19 Update 1710 Cost 8.63022455662 Beta 0.8
+2018-09-25 05:12:55,779 - eval_Piano_santa - Epoch 19 Update 1720 Cost 13.4676746981 Beta 0.8
+2018-09-25 05:13:02,161 - eval_Piano_santa - Epoch 19 Update 1730 Cost 18.2861706739 Beta 0.8
+2018-09-25 05:13:08,168 - eval_Piano_santa - Epoch 19 Update 1740 Cost 14.4547190742 Beta 0.8
+2018-09-25 05:13:15,996 - eval_Piano_santa - Train 14.45002063 Valid 14.2338694281 Test 14.2699400376 Beta 0.8
+2018-09-25 05:13:21,824 - eval_Piano_santa - Epoch 20 Update 1750 Cost 14.3021133029 Beta 0.8
+2018-09-25 05:13:29,530 - eval_Piano_santa - Epoch 20 Update 1760 Cost 17.0910641696 Beta 0.8
+2018-09-25 05:13:35,485 - eval_Piano_santa - Epoch 20 Update 1770 Cost 13.7494489014 Beta 0.8
+2018-09-25 05:13:41,068 - eval_Piano_santa - Epoch 20 Update 1780 Cost 13.209140384 Beta 0.8
+2018-09-25 05:13:47,151 - eval_Piano_santa - Epoch 20 Update 1790 Cost 12.4952368959 Beta 0.8
+2018-09-25 05:13:53,314 - eval_Piano_santa - Epoch 20 Update 1800 Cost 10.3174866152 Beta 0.8
+2018-09-25 05:14:00,048 - eval_Piano_santa - Epoch 20 Update 1810 Cost 15.3024228596 Beta 0.8
+2018-09-25 05:14:06,143 - eval_Piano_santa - Epoch 20 Update 1820 Cost 11.4302728428 Beta 0.8
+2018-09-25 05:14:18,330 - eval_Piano_santa - Train 14.2657418362 Valid 13.9375359349 Test 13.864839147 Beta 0.8
+2018-09-25 05:14:20,022 - eval_Piano_santa - Epoch 21 Update 1830 Cost 13.8081679744 Beta 0.8
+2018-09-25 05:14:26,632 - eval_Piano_santa - Epoch 21 Update 1840 Cost 16.2718577795 Beta 0.8
+2018-09-25 05:14:33,991 - eval_Piano_santa - Epoch 21 Update 1850 Cost 17.685144598 Beta 0.8
+2018-09-25 05:14:39,625 - eval_Piano_santa - Epoch 21 Update 1860 Cost 12.2769665859 Beta 0.8
+2018-09-25 05:14:45,379 - eval_Piano_santa - Epoch 21 Update 1870 Cost 12.3232197356 Beta 0.8
+2018-09-25 05:14:51,356 - eval_Piano_santa - Epoch 21 Update 1880 Cost 8.56835867631 Beta 0.8
+2018-09-25 05:14:57,472 - eval_Piano_santa - Epoch 21 Update 1890 Cost 13.6473329861 Beta 0.8
+2018-09-25 05:15:05,054 - eval_Piano_santa - Epoch 21 Update 1900 Cost 11.3542642557 Beta 0.8
+2018-09-25 05:15:10,431 - eval_Piano_santa - Epoch 21 Update 1910 Cost 13.8001649349 Beta 0.8
+2018-09-25 05:15:20,787 - eval_Piano_santa - Train 14.0270634369 Valid 14.263064924 Test 13.7877485106 Beta 0.8
+2018-09-25 05:15:24,194 - eval_Piano_santa - Epoch 22 Update 1920 Cost 14.733386427 Beta 0.8
+2018-09-25 05:15:31,053 - eval_Piano_santa - Epoch 22 Update 1930 Cost 22.8405933635 Beta 0.8
+2018-09-25 05:15:38,008 - eval_Piano_santa - Epoch 22 Update 1940 Cost 17.4731375328 Beta 0.8
+2018-09-25 05:15:43,486 - eval_Piano_santa - Epoch 22 Update 1950 Cost 12.6894194813 Beta 0.8
+2018-09-25 05:15:49,447 - eval_Piano_santa - Epoch 22 Update 1960 Cost 7.73354360033 Beta 0.8
+2018-09-25 05:15:55,230 - eval_Piano_santa - Epoch 22 Update 1970 Cost 16.3297402413 Beta 0.8
+2018-09-25 05:16:01,739 - eval_Piano_santa - Epoch 22 Update 1980 Cost 21.3295478989 Beta 0.8
+2018-09-25 05:16:08,690 - eval_Piano_santa - Epoch 22 Update 1990 Cost 9.57960272073 Beta 0.8
+2018-09-25 05:16:14,262 - eval_Piano_santa - Epoch 22 Update 2000 Cost 10.2965991674 Beta 0.8
+2018-09-25 05:16:14,262 - eval_Piano_santa - Saving ...
+2018-09-25 05:16:14,302 - eval_Piano_santa - Done ...
+2018-09-25 05:16:22,909 - eval_Piano_santa - Train 13.9321390464 Valid 13.767809705 Test 13.7123049555 Beta 0.8
+2018-09-25 05:16:28,114 - eval_Piano_santa - Epoch 23 Update 2010 Cost 13.157690408 Beta 0.8
+2018-09-25 05:16:35,945 - eval_Piano_santa - Epoch 23 Update 2020 Cost 17.6308595558 Beta 0.8
+2018-09-25 05:16:41,898 - eval_Piano_santa - Epoch 23 Update 2030 Cost 23.5461836997 Beta 0.8
+2018-09-25 05:16:47,226 - eval_Piano_santa - Epoch 23 Update 2040 Cost 13.3880322064 Beta 0.8
+2018-09-25 05:16:53,402 - eval_Piano_santa - Epoch 23 Update 2050 Cost 13.8430103392 Beta 0.8
+2018-09-25 05:16:59,345 - eval_Piano_santa - Epoch 23 Update 2060 Cost 8.83819249607 Beta 0.8
+2018-09-25 05:17:06,257 - eval_Piano_santa - Epoch 23 Update 2070 Cost 16.9661922208 Beta 0.8
+2018-09-25 05:17:12,471 - eval_Piano_santa - Epoch 23 Update 2080 Cost 13.7418191962 Beta 0.8
+2018-09-25 05:17:25,299 - eval_Piano_santa - Train 13.8887616068 Valid 13.7677384663 Test 13.5310095366 Beta 0.8
+2018-09-25 05:17:26,399 - eval_Piano_santa - Epoch 24 Update 2090 Cost 8.54671536392 Beta 0.8
+2018-09-25 05:17:32,528 - eval_Piano_santa - Epoch 24 Update 2100 Cost 12.014692034 Beta 0.8
+2018-09-25 05:17:40,335 - eval_Piano_santa - Epoch 24 Update 2110 Cost 11.129821711 Beta 0.8
+2018-09-25 05:17:45,933 - eval_Piano_santa - Epoch 24 Update 2120 Cost 10.2074808156 Beta 0.8
+2018-09-25 05:17:51,669 - eval_Piano_santa - Epoch 24 Update 2130 Cost 11.4243190357 Beta 0.8
+2018-09-25 05:17:57,656 - eval_Piano_santa - Epoch 24 Update 2140 Cost 2.44048120671 Beta 0.8
+2018-09-25 05:18:03,720 - eval_Piano_santa - Epoch 24 Update 2150 Cost 14.9744917101 Beta 0.8
+2018-09-25 05:18:11,202 - eval_Piano_santa - Epoch 24 Update 2160 Cost 13.6544919168 Beta 0.8
+2018-09-25 05:18:16,529 - eval_Piano_santa - Epoch 24 Update 2170 Cost 12.0650091208 Beta 0.8
+2018-09-25 05:18:27,512 - eval_Piano_santa - Train 13.714572295 Valid 13.6059888046 Test 13.3531807728 Beta 0.8
+2018-09-25 05:18:30,319 - eval_Piano_santa - Epoch 25 Update 2180 Cost 15.4017961182 Beta 0.8
+2018-09-25 05:18:37,225 - eval_Piano_santa - Epoch 25 Update 2190 Cost 13.4418868308 Beta 0.8
+2018-09-25 05:18:44,235 - eval_Piano_santa - Epoch 25 Update 2200 Cost 12.3018932364 Beta 0.8
+2018-09-25 05:18:49,741 - eval_Piano_santa - Epoch 25 Update 2210 Cost 14.5983190226 Beta 0.8
+2018-09-25 05:18:55,674 - eval_Piano_santa - Epoch 25 Update 2220 Cost 11.5262466608 Beta 0.8
+2018-09-25 05:19:01,477 - eval_Piano_santa - Epoch 25 Update 2230 Cost 15.714673874 Beta 0.8
+2018-09-25 05:19:07,663 - eval_Piano_santa - Epoch 25 Update 2240 Cost 16.8647143211 Beta 0.8
+2018-09-25 05:19:15,006 - eval_Piano_santa - Epoch 25 Update 2250 Cost 11.6009943033 Beta 0.8
+2018-09-25 05:19:20,512 - eval_Piano_santa - Epoch 25 Update 2260 Cost 12.2918929411 Beta 0.8
+2018-09-25 05:19:29,661 - eval_Piano_santa - Train 13.7258441581 Valid 13.6517563082 Test 13.26991251 Beta 0.8
+2018-09-25 05:19:34,288 - eval_Piano_santa - Epoch 26 Update 2270 Cost 11.878213484 Beta 0.8
+2018-09-25 05:19:41,692 - eval_Piano_santa - Epoch 26 Update 2280 Cost 13.6402593586 Beta 0.8
+2018-09-25 05:19:48,020 - eval_Piano_santa - Epoch 26 Update 2290 Cost 11.8429784071 Beta 0.8
+2018-09-25 05:19:53,406 - eval_Piano_santa - Epoch 26 Update 2300 Cost 15.3804716318 Beta 0.8
+2018-09-25 05:19:59,619 - eval_Piano_santa - Epoch 26 Update 2310 Cost 10.7383480119 Beta 0.8
+2018-09-25 05:20:05,438 - eval_Piano_santa - Epoch 26 Update 2320 Cost 12.3518389917 Beta 0.8
+2018-09-25 05:20:12,331 - eval_Piano_santa - Epoch 26 Update 2330 Cost 16.6574937246 Beta 0.8
+2018-09-25 05:20:18,705 - eval_Piano_santa - Epoch 26 Update 2340 Cost 23.001518935 Beta 0.8
+2018-09-25 05:20:31,880 - eval_Piano_santa - Train 13.5856385901 Valid 13.5202314314 Test 13.2421122598 Beta 0.8
+2018-09-25 05:20:32,422 - eval_Piano_santa - Epoch 27 Update 2350 Cost 9.00934292264 Beta 0.8
+2018-09-25 05:20:38,285 - eval_Piano_santa - Epoch 27 Update 2360 Cost 11.854967915 Beta 0.8
+2018-09-25 05:20:46,378 - eval_Piano_santa - Epoch 27 Update 2370 Cost 11.6259841861 Beta 0.8
+2018-09-25 05:20:51,989 - eval_Piano_santa - Epoch 27 Update 2380 Cost 16.7861638268 Beta 0.8
+2018-09-25 05:20:57,606 - eval_Piano_santa - Epoch 27 Update 2390 Cost 19.6920846035 Beta 0.8
+2018-09-25 05:21:03,728 - eval_Piano_santa - Epoch 27 Update 2400 Cost 10.9658375215 Beta 0.8
+2018-09-25 05:21:09,864 - eval_Piano_santa - Epoch 27 Update 2410 Cost 21.5042678847 Beta 0.8
+2018-09-25 05:21:16,655 - eval_Piano_santa - Epoch 27 Update 2420 Cost 17.2156783119 Beta 0.8
+2018-09-25 05:21:22,625 - eval_Piano_santa - Epoch 27 Update 2430 Cost 12.412972823 Beta 0.8
+2018-09-25 05:21:34,119 - eval_Piano_santa - Train 13.458055799 Valid 13.4400371617 Test 13.0890620092 Beta 0.8
+2018-09-25 05:21:36,376 - eval_Piano_santa - Epoch 28 Update 2440 Cost 12.9923669323 Beta 0.8
+2018-09-25 05:21:42,993 - eval_Piano_santa - Epoch 28 Update 2450 Cost 13.405653804 Beta 0.8
+2018-09-25 05:21:50,379 - eval_Piano_santa - Epoch 28 Update 2460 Cost 10.8190479993 Beta 0.8
+2018-09-25 05:21:55,903 - eval_Piano_santa - Epoch 28 Update 2470 Cost 14.1378075256 Beta 0.8
+2018-09-25 05:22:01,769 - eval_Piano_santa - Epoch 28 Update 2480 Cost 13.1277080432 Beta 0.8
+2018-09-25 05:22:07,591 - eval_Piano_santa - Epoch 28 Update 2490 Cost 14.2416937034 Beta 0.8
+2018-09-25 05:22:13,651 - eval_Piano_santa - Epoch 28 Update 2500 Cost 11.0887654247 Beta 0.8
+2018-09-25 05:22:21,166 - eval_Piano_santa - Epoch 28 Update 2510 Cost 10.9043131152 Beta 0.8
+2018-09-25 05:22:26,618 - eval_Piano_santa - Epoch 28 Update 2520 Cost 15.3643600708 Beta 0.8
+2018-09-25 05:22:36,303 - eval_Piano_santa - Train 13.4127815897 Valid 13.1421087589 Test 13.1180234674 Beta 0.8
+2018-09-25 05:22:40,353 - eval_Piano_santa - Epoch 29 Update 2530 Cost 17.959582187 Beta 0.8
+2018-09-25 05:22:47,608 - eval_Piano_santa - Epoch 29 Update 2540 Cost 14.619826582 Beta 0.8
+2018-09-25 05:22:54,244 - eval_Piano_santa - Epoch 29 Update 2550 Cost 13.99824975 Beta 0.8
+2018-09-25 05:22:59,644 - eval_Piano_santa - Epoch 29 Update 2560 Cost 11.4870443897 Beta 0.8
+2018-09-25 05:23:05,687 - eval_Piano_santa - Epoch 29 Update 2570 Cost 12.6314737762 Beta 0.8
+2018-09-25 05:23:11,626 - eval_Piano_santa - Epoch 29 Update 2580 Cost 7.8658604666 Beta 0.8
+2018-09-25 05:23:18,528 - eval_Piano_santa - Epoch 29 Update 2590 Cost 12.9169574016 Beta 0.8
+2018-09-25 05:23:24,908 - eval_Piano_santa - Epoch 29 Update 2600 Cost 15.6685506096 Beta 0.8
+2018-09-25 05:23:30,853 - eval_Piano_santa - Epoch 29 Update 2610 Cost 13.4917092259 Beta 0.8
+2018-09-25 05:23:38,696 - eval_Piano_santa - Train 13.2106702851 Valid 13.3020322155 Test 13.116564867 Beta 0.8
+2018-09-25 05:23:44,534 - eval_Piano_santa - Epoch 30 Update 2620 Cost 14.6498266667 Beta 0.8
+2018-09-25 05:23:52,270 - eval_Piano_santa - Epoch 30 Update 2630 Cost 14.7760049725 Beta 0.8
+2018-09-25 05:23:58,219 - eval_Piano_santa - Epoch 30 Update 2640 Cost 12.6586805266 Beta 0.8
+2018-09-25 05:24:03,795 - eval_Piano_santa - Epoch 30 Update 2650 Cost 12.0535736567 Beta 0.8
+2018-09-25 05:24:09,848 - eval_Piano_santa - Epoch 30 Update 2660 Cost 11.6114931412 Beta 0.8
+2018-09-25 05:24:15,984 - eval_Piano_santa - Epoch 30 Update 2670 Cost 9.55445847721 Beta 0.8
+2018-09-25 05:24:22,707 - eval_Piano_santa - Epoch 30 Update 2680 Cost 14.2593194339 Beta 0.8
+2018-09-25 05:24:28,755 - eval_Piano_santa - Epoch 30 Update 2690 Cost 11.1280629762 Beta 0.8
+2018-09-25 05:24:40,870 - eval_Piano_santa - Train 13.2020290284 Valid 13.1322649942 Test 12.9356669312 Beta 0.8
+2018-09-25 05:24:42,560 - eval_Piano_santa - Epoch 31 Update 2700 Cost 13.4706231408 Beta 0.8
+2018-09-25 05:24:49,144 - eval_Piano_santa - Epoch 31 Update 2710 Cost 14.8542419521 Beta 0.8
+2018-09-25 05:24:56,462 - eval_Piano_santa - Epoch 31 Update 2720 Cost 16.0883320847 Beta 0.8
+2018-09-25 05:25:02,022 - eval_Piano_santa - Epoch 31 Update 2730 Cost 11.5294265293 Beta 0.8
+2018-09-25 05:25:07,749 - eval_Piano_santa - Epoch 31 Update 2740 Cost 12.2226189174 Beta 0.8
+2018-09-25 05:25:13,697 - eval_Piano_santa - Epoch 31 Update 2750 Cost 8.43547135755 Beta 0.8
+2018-09-25 05:25:19,774 - eval_Piano_santa - Epoch 31 Update 2760 Cost 12.9073555597 Beta 0.8
+2018-09-25 05:25:27,333 - eval_Piano_santa - Epoch 31 Update 2770 Cost 10.1120261379 Beta 0.8
+2018-09-25 05:25:32,696 - eval_Piano_santa - Epoch 31 Update 2780 Cost 12.7932720998 Beta 0.8
+2018-09-25 05:25:42,993 - eval_Piano_santa - Train 13.1544882793 Valid 13.0505205822 Test 13.0488425502 Beta 0.8
+2018-09-25 05:25:46,418 - eval_Piano_santa - Epoch 32 Update 2790 Cost 14.7836651822 Beta 0.8
+2018-09-25 05:25:53,267 - eval_Piano_santa - Epoch 32 Update 2800 Cost 21.3733476724 Beta 0.8
+2018-09-25 05:26:00,234 - eval_Piano_santa - Epoch 32 Update 2810 Cost 15.9024549647 Beta 0.8
+2018-09-25 05:26:05,703 - eval_Piano_santa - Epoch 32 Update 2820 Cost 12.4765278499 Beta 0.8
+2018-09-25 05:26:11,646 - eval_Piano_santa - Epoch 32 Update 2830 Cost 7.35787450965 Beta 0.8
+2018-09-25 05:26:17,430 - eval_Piano_santa - Epoch 32 Update 2840 Cost 15.3117350967 Beta 0.8
+2018-09-25 05:26:23,944 - eval_Piano_santa - Epoch 32 Update 2850 Cost 19.5863608733 Beta 0.8
+2018-09-25 05:26:30,929 - eval_Piano_santa - Epoch 32 Update 2860 Cost 9.42674586627 Beta 0.8
+2018-09-25 05:26:36,527 - eval_Piano_santa - Epoch 32 Update 2870 Cost 9.5723047879 Beta 0.8
+2018-09-25 05:26:45,149 - eval_Piano_santa - Train 13.0846008417 Valid 13.0128692363 Test 12.7881413875 Beta 0.8
+2018-09-25 05:26:50,361 - eval_Piano_santa - Epoch 33 Update 2880 Cost 12.3009568402 Beta 0.8
+2018-09-25 05:26:58,221 - eval_Piano_santa - Epoch 33 Update 2890 Cost 15.049925632 Beta 0.8
+2018-09-25 05:27:04,178 - eval_Piano_santa - Epoch 33 Update 2900 Cost 21.5699757707 Beta 0.8
+2018-09-25 05:27:09,536 - eval_Piano_santa - Epoch 33 Update 2910 Cost 12.9800390279 Beta 0.8
+2018-09-25 05:27:15,761 - eval_Piano_santa - Epoch 33 Update 2920 Cost 13.3840413071 Beta 0.8
+2018-09-25 05:27:21,737 - eval_Piano_santa - Epoch 33 Update 2930 Cost 8.3867121086 Beta 0.8
+2018-09-25 05:27:28,653 - eval_Piano_santa - Epoch 33 Update 2940 Cost 15.2489099447 Beta 0.8
+2018-09-25 05:27:34,862 - eval_Piano_santa - Epoch 33 Update 2950 Cost 12.6010603071 Beta 0.8
+2018-09-25 05:27:47,447 - eval_Piano_santa - Train 13.1634652421 Valid 12.9495950986 Test 12.7008361342 Beta 0.8
+2018-09-25 05:27:48,532 - eval_Piano_santa - Epoch 34 Update 2960 Cost 8.28826718966 Beta 0.8
+2018-09-25 05:27:54,649 - eval_Piano_santa - Epoch 34 Update 2970 Cost 11.2865998302 Beta 0.8
+2018-09-25 05:28:02,508 - eval_Piano_santa - Epoch 34 Update 2980 Cost 10.9526499414 Beta 0.8
+2018-09-25 05:28:08,097 - eval_Piano_santa - Epoch 34 Update 2990 Cost 10.0063470454 Beta 0.8
+2018-09-25 05:28:13,836 - eval_Piano_santa - Epoch 34 Update 3000 Cost 11.345473486 Beta 0.8
+2018-09-25 05:28:13,836 - eval_Piano_santa - Saving ...
+2018-09-25 05:28:13,880 - eval_Piano_santa - Done ...
+2018-09-25 05:28:19,849 - eval_Piano_santa - Epoch 34 Update 3010 Cost 2.52304514767 Beta 0.8
+2018-09-25 05:28:25,922 - eval_Piano_santa - Epoch 34 Update 3020 Cost 14.5383537956 Beta 0.8
+2018-09-25 05:28:33,399 - eval_Piano_santa - Epoch 34 Update 3030 Cost 13.3102099995 Beta 0.8
+2018-09-25 05:28:38,687 - eval_Piano_santa - Epoch 34 Update 3040 Cost 11.6692291069 Beta 0.8
+2018-09-25 05:28:49,776 - eval_Piano_santa - Train 12.961712537 Valid 12.866886742 Test 12.6681947751 Beta 0.8
+2018-09-25 05:28:52,607 - eval_Piano_santa - Epoch 35 Update 3050 Cost 14.2336232816 Beta 0.8
+2018-09-25 05:28:59,549 - eval_Piano_santa - Epoch 35 Update 3060 Cost 12.596567002 Beta 0.8
+2018-09-25 05:29:06,544 - eval_Piano_santa - Epoch 35 Update 3070 Cost 12.0848881631 Beta 0.8
+2018-09-25 05:29:12,040 - eval_Piano_santa - Epoch 35 Update 3080 Cost 13.9941700676 Beta 0.8
+2018-09-25 05:29:17,960 - eval_Piano_santa - Epoch 35 Update 3090 Cost 10.7738491217 Beta 0.8
+2018-09-25 05:29:23,765 - eval_Piano_santa - Epoch 35 Update 3100 Cost 15.0307866042 Beta 0.8
+2018-09-25 05:29:29,922 - eval_Piano_santa - Epoch 35 Update 3110 Cost 14.6684033888 Beta 0.8
+2018-09-25 05:29:37,249 - eval_Piano_santa - Epoch 35 Update 3120 Cost 11.3611047624 Beta 0.8
+2018-09-25 05:29:42,744 - eval_Piano_santa - Epoch 35 Update 3130 Cost 12.1872907177 Beta 0.8
+2018-09-25 05:29:51,925 - eval_Piano_santa - Train 13.0384291427 Valid 12.8553460319 Test 12.6689042186 Beta 0.8
+2018-09-25 05:29:56,522 - eval_Piano_santa - Epoch 36 Update 3140 Cost 11.5784732442 Beta 0.8
+2018-09-25 05:30:03,860 - eval_Piano_santa - Epoch 36 Update 3150 Cost 13.1110054486 Beta 0.8
+2018-09-25 05:30:10,169 - eval_Piano_santa - Epoch 36 Update 3160 Cost 11.3981933521 Beta 0.8
+2018-09-25 05:30:15,500 - eval_Piano_santa - Epoch 36 Update 3170 Cost 15.2689673645 Beta 0.8
+2018-09-25 05:30:21,695 - eval_Piano_santa - Epoch 36 Update 3180 Cost 10.1465727997 Beta 0.8
+2018-09-25 05:30:27,469 - eval_Piano_santa - Epoch 36 Update 3190 Cost 12.3194682209 Beta 0.8
+2018-09-25 05:30:34,334 - eval_Piano_santa - Epoch 36 Update 3200 Cost 16.4044426394 Beta 0.8
+2018-09-25 05:30:40,661 - eval_Piano_santa - Epoch 36 Update 3210 Cost 18.9071888366 Beta 0.8
+2018-09-25 05:30:53,839 - eval_Piano_santa - Train 12.9434603021 Valid 12.9083292299 Test 12.5420207772 Beta 0.8
+2018-09-25 05:30:54,369 - eval_Piano_santa - Epoch 37 Update 3220 Cost 9.08558454535 Beta 0.8
+2018-09-25 05:31:00,200 - eval_Piano_santa - Epoch 37 Update 3230 Cost 10.6457767409 Beta 0.8
+2018-09-25 05:31:08,156 - eval_Piano_santa - Epoch 37 Update 3240 Cost 10.8077501329 Beta 0.8
+2018-09-25 05:31:13,729 - eval_Piano_santa - Epoch 37 Update 3250 Cost 15.3293030752 Beta 0.8
+2018-09-25 05:31:19,328 - eval_Piano_santa - Epoch 37 Update 3260 Cost 15.3156645772 Beta 0.8
+2018-09-25 05:31:25,417 - eval_Piano_santa - Epoch 37 Update 3270 Cost 10.7612649677 Beta 0.8
+2018-09-25 05:31:31,517 - eval_Piano_santa - Epoch 37 Update 3280 Cost 17.8103395731 Beta 0.8
+2018-09-25 05:31:38,267 - eval_Piano_santa - Epoch 37 Update 3290 Cost 15.9728440412 Beta 0.8
+2018-09-25 05:31:44,184 - eval_Piano_santa - Epoch 37 Update 3300 Cost 11.172876606 Beta 0.8
+2018-09-25 05:31:55,699 - eval_Piano_santa - Train 12.8862634828 Valid 12.7871501568 Test 12.5036577932 Beta 0.8
+2018-09-25 05:31:57,940 - eval_Piano_santa - Epoch 38 Update 3310 Cost 11.9863000643 Beta 0.8
+2018-09-25 05:32:04,504 - eval_Piano_santa - Epoch 38 Update 3320 Cost 12.886051422 Beta 0.8
+2018-09-25 05:32:11,938 - eval_Piano_santa - Epoch 38 Update 3330 Cost 10.3557786221 Beta 0.8
+2018-09-25 05:32:17,439 - eval_Piano_santa - Epoch 38 Update 3340 Cost 13.8223006383 Beta 0.8
+2018-09-25 05:32:23,316 - eval_Piano_santa - Epoch 38 Update 3350 Cost 11.7886844466 Beta 0.8
+2018-09-25 05:32:29,063 - eval_Piano_santa - Epoch 38 Update 3360 Cost 13.5506854685 Beta 0.8
+2018-09-25 05:32:35,047 - eval_Piano_santa - Epoch 38 Update 3370 Cost 10.6197986334 Beta 0.8
+2018-09-25 05:32:42,575 - eval_Piano_santa - Epoch 38 Update 3380 Cost 10.8337803435 Beta 0.8
+2018-09-25 05:32:47,966 - eval_Piano_santa - Epoch 38 Update 3390 Cost 15.0476537761 Beta 0.8
+2018-09-25 05:33:00,179 - eval_Piano_santa - Train 12.7793170921 Valid 12.6655176824 Test 12.4884104218 Beta 0.8
+2018-09-25 05:33:04,644 - eval_Piano_santa - Epoch 39 Update 3400 Cost 19.1725348702 Beta 0.8
+2018-09-25 05:33:14,923 - eval_Piano_santa - Epoch 39 Update 3410 Cost 13.7439540459 Beta 0.8
+2018-09-25 05:33:24,132 - eval_Piano_santa - Epoch 39 Update 3420 Cost 14.5709128411 Beta 0.8
+2018-09-25 05:33:30,244 - eval_Piano_santa - Epoch 39 Update 3430 Cost 11.5805160399 Beta 0.8
+2018-09-25 05:33:37,003 - eval_Piano_santa - Epoch 39 Update 3440 Cost 12.9752023602 Beta 0.8
+2018-09-25 05:33:43,802 - eval_Piano_santa - Epoch 39 Update 3450 Cost 7.71302365109 Beta 0.8
+2018-09-25 05:33:50,649 - eval_Piano_santa - Epoch 39 Update 3460 Cost 12.4257174242 Beta 0.8
+2018-09-25 05:33:57,006 - eval_Piano_santa - Epoch 39 Update 3470 Cost 14.521533581 Beta 0.8
+2018-09-25 05:34:02,792 - eval_Piano_santa - Epoch 39 Update 3480 Cost 13.2075972757 Beta 0.8
+2018-09-25 05:34:10,598 - eval_Piano_santa - Train 12.775917435 Valid 12.8457956048 Test 12.5045339381 Beta 0.8
+2018-09-25 05:34:18,403 - eval_Piano_santa - Train 12.8554410761 Valid 12.7318386667 Test 12.3622606402 Beta 0.8
+2018-09-25 05:34:18,450 - eval_Piano_santa - The code run for 40 epochs, with 62.4632169247 sec/epochs
+2018-09-25 05:35:12,369 - eval_Piano_santa - loading Piano data...
+2018-09-25 05:35:12,405 - eval_Piano_santa - data loaded!
+2018-09-25 05:35:12,405 - eval_Piano_santa - Model options {'n_x': 88, 'validFreq': 87, 'patience': 10, 'n_h': 200, 'lrate': 0.0002, 'max_epochs': 40, 'dispFreq': 10, 'saveFreq': 1000}
+2018-09-25 05:35:12,405 - eval_Piano_santa - Building model...
+2018-09-25 05:35:47,049 - eval_Piano_santa - Training model...
+2018-09-25 05:35:52,994 - eval_Piano_santa - Epoch 0 Update 10 Cost 61.7999104939 Beta 0.7
+2018-09-25 05:36:00,731 - eval_Piano_santa - Epoch 0 Update 20 Cost 61.0134482533 Beta 0.7
+2018-09-25 05:36:06,965 - eval_Piano_santa - Epoch 0 Update 30 Cost 59.2227882479 Beta 0.7
+2018-09-25 05:36:12,611 - eval_Piano_santa - Epoch 0 Update 40 Cost 58.6991577737 Beta 0.7
+2018-09-25 05:36:18,627 - eval_Piano_santa - Epoch 0 Update 50 Cost 59.124597443 Beta 0.7
+2018-09-25 05:36:24,729 - eval_Piano_santa - Epoch 0 Update 60 Cost 58.0947968737 Beta 0.7
+2018-09-25 05:36:31,392 - eval_Piano_santa - Epoch 0 Update 70 Cost 57.0558256884 Beta 0.7
+2018-09-25 05:36:37,380 - eval_Piano_santa - Epoch 0 Update 80 Cost 56.6781111792 Beta 0.7
+2018-09-25 05:36:49,404 - eval_Piano_santa - Train 57.1343156792 Valid 56.7172262354 Test 56.6442743366 Beta 0.7
+2018-09-25 05:36:51,062 - eval_Piano_santa - Epoch 1 Update 90 Cost 57.158183825 Beta 0.7
+2018-09-25 05:36:57,576 - eval_Piano_santa - Epoch 1 Update 100 Cost 56.7065530039 Beta 0.7
+2018-09-25 05:37:04,868 - eval_Piano_santa - Epoch 1 Update 110 Cost 56.1162361452 Beta 0.7
+2018-09-25 05:37:10,402 - eval_Piano_santa - Epoch 1 Update 120 Cost 54.0753050246 Beta 0.7
+2018-09-25 05:37:16,075 - eval_Piano_santa - Epoch 1 Update 130 Cost 52.958406599 Beta 0.7
+2018-09-25 05:37:21,966 - eval_Piano_santa - Epoch 1 Update 140 Cost 54.0789532462 Beta 0.7
+2018-09-25 05:37:27,991 - eval_Piano_santa - Epoch 1 Update 150 Cost 54.6358999965 Beta 0.7
+2018-09-25 05:37:35,469 - eval_Piano_santa - Epoch 1 Update 160 Cost 52.7801735177 Beta 0.7
+2018-09-25 05:37:40,776 - eval_Piano_santa - Epoch 1 Update 170 Cost 51.1048194827 Beta 0.7
+2018-09-25 05:37:51,031 - eval_Piano_santa - Train 51.8491128277 Valid 51.6116696223 Test 51.8012555919 Beta 0.7
+2018-09-25 05:37:54,426 - eval_Piano_santa - Epoch 2 Update 180 Cost 48.9471479246 Beta 0.7
+2018-09-25 05:38:01,262 - eval_Piano_santa - Epoch 2 Update 190 Cost 54.9118062595 Beta 0.7
+2018-09-25 05:38:08,158 - eval_Piano_santa - Epoch 2 Update 200 Cost 50.7573377484 Beta 0.7
+2018-09-25 05:38:13,586 - eval_Piano_santa - Epoch 2 Update 210 Cost 42.9734808182 Beta 0.7
+2018-09-25 05:38:19,511 - eval_Piano_santa - Epoch 2 Update 220 Cost 45.4468515425 Beta 0.7
+2018-09-25 05:38:25,284 - eval_Piano_santa - Epoch 2 Update 230 Cost 45.2733359635 Beta 0.7
+2018-09-25 05:38:31,725 - eval_Piano_santa - Epoch 2 Update 240 Cost 49.1182915248 Beta 0.7
+2018-09-25 05:38:38,625 - eval_Piano_santa - Epoch 2 Update 250 Cost 43.9376947961 Beta 0.7
+2018-09-25 05:38:44,176 - eval_Piano_santa - Epoch 2 Update 260 Cost 40.1768104149 Beta 0.7
+2018-09-25 05:38:52,750 - eval_Piano_santa - Train 42.8653314982 Valid 44.0292805796 Test 43.5992469944 Beta 0.7
+2018-09-25 05:38:57,906 - eval_Piano_santa - Epoch 3 Update 270 Cost 43.7048934105 Beta 0.7
+2018-09-25 05:39:05,654 - eval_Piano_santa - Epoch 3 Update 280 Cost 47.3487207304 Beta 0.7
+2018-09-25 05:39:11,541 - eval_Piano_santa - Epoch 3 Update 290 Cost 48.220466122 Beta 0.7
+2018-09-25 05:39:16,854 - eval_Piano_santa - Epoch 3 Update 300 Cost 40.2898480031 Beta 0.7
+2018-09-25 05:39:22,985 - eval_Piano_santa - Epoch 3 Update 310 Cost 35.172868072 Beta 0.7
+2018-09-25 05:39:28,879 - eval_Piano_santa - Epoch 3 Update 320 Cost 36.2370046991 Beta 0.7
+2018-09-25 05:39:35,713 - eval_Piano_santa - Epoch 3 Update 330 Cost 40.1159778769 Beta 0.7
+2018-09-25 05:39:41,849 - eval_Piano_santa - Epoch 3 Update 340 Cost 37.9137767486 Beta 0.7
+2018-09-25 05:39:54,386 - eval_Piano_santa - Train 34.7160254354 Valid 35.3300010921 Test 35.4985738429 Beta 0.7
+2018-09-25 05:39:55,475 - eval_Piano_santa - Epoch 4 Update 350 Cost 24.7495309038 Beta 0.7
+2018-09-25 05:40:01,547 - eval_Piano_santa - Epoch 4 Update 360 Cost 32.4999747073 Beta 0.7
+2018-09-25 05:40:09,267 - eval_Piano_santa - Epoch 4 Update 370 Cost 27.8264735784 Beta 0.7
+2018-09-25 05:40:14,792 - eval_Piano_santa - Epoch 4 Update 380 Cost 28.2718192738 Beta 0.7
+2018-09-25 05:40:20,480 - eval_Piano_santa - Epoch 4 Update 390 Cost 26.9625474696 Beta 0.7
+2018-09-25 05:40:26,398 - eval_Piano_santa - Epoch 4 Update 400 Cost 13.0903654655 Beta 0.7
+2018-09-25 05:40:32,401 - eval_Piano_santa - Epoch 4 Update 410 Cost 38.6998610024 Beta 0.7
+2018-09-25 05:40:39,911 - eval_Piano_santa - Epoch 4 Update 420 Cost 29.6214018066 Beta 0.7
+2018-09-25 05:40:45,178 - eval_Piano_santa - Epoch 4 Update 430 Cost 29.0594929387 Beta 0.7
+2018-09-25 05:40:56,101 - eval_Piano_santa - Train 29.2645578393 Valid 29.847022883 Test 29.7993755744 Beta 0.7
+2018-09-25 05:40:58,874 - eval_Piano_santa - Epoch 5 Update 440 Cost 35.6855318821 Beta 0.7
+2018-09-25 05:41:05,740 - eval_Piano_santa - Epoch 5 Update 450 Cost 26.6732787098 Beta 0.7
+2018-09-25 05:41:12,674 - eval_Piano_santa - Epoch 5 Update 460 Cost 24.0167698005 Beta 0.7
+2018-09-25 05:41:18,170 - eval_Piano_santa - Epoch 5 Update 470 Cost 34.1480000937 Beta 0.7
+2018-09-25 05:41:24,018 - eval_Piano_santa - Epoch 5 Update 480 Cost 28.1988117947 Beta 0.7
+2018-09-25 05:41:29,777 - eval_Piano_santa - Epoch 5 Update 490 Cost 28.7988553188 Beta 0.7
+2018-09-25 05:41:35,873 - eval_Piano_santa - Epoch 5 Update 500 Cost 27.3890140193 Beta 0.7
+2018-09-25 05:41:43,177 - eval_Piano_santa - Epoch 5 Update 510 Cost 28.9776594903 Beta 0.7
+2018-09-25 05:41:48,632 - eval_Piano_santa - Epoch 5 Update 520 Cost 19.9362629849 Beta 0.7
+2018-09-25 05:41:57,759 - eval_Piano_santa - Train 25.4476605559 Valid 25.9676145719 Test 26.3958999607 Beta 0.7
+2018-09-25 05:42:02,353 - eval_Piano_santa - Epoch 6 Update 530 Cost 20.8083508132 Beta 0.7
+2018-09-25 05:42:09,686 - eval_Piano_santa - Epoch 6 Update 540 Cost 25.5529622114 Beta 0.7
+2018-09-25 05:42:15,989 - eval_Piano_santa - Epoch 6 Update 550 Cost 24.028182857 Beta 0.7
+2018-09-25 05:42:21,338 - eval_Piano_santa - Epoch 6 Update 560 Cost 31.0625664291 Beta 0.7
+2018-09-25 05:42:27,515 - eval_Piano_santa - Epoch 6 Update 570 Cost 21.5613663366 Beta 0.7
+2018-09-25 05:42:33,272 - eval_Piano_santa - Epoch 6 Update 580 Cost 22.8932714852 Beta 0.7
+2018-09-25 05:42:40,111 - eval_Piano_santa - Epoch 6 Update 590 Cost 27.7998195627 Beta 0.7
+2018-09-25 05:42:46,401 - eval_Piano_santa - Epoch 6 Update 600 Cost 39.0939293205 Beta 0.7
+2018-09-25 05:42:59,624 - eval_Piano_santa - Train 23.2451351863 Valid 23.2951782807 Test 22.7687051598 Beta 0.7
+2018-09-25 05:43:00,153 - eval_Piano_santa - Epoch 7 Update 610 Cost 9.87670584274 Beta 0.7
+2018-09-25 05:43:06,052 - eval_Piano_santa - Epoch 7 Update 620 Cost 23.1888573809 Beta 0.7
+2018-09-25 05:43:14,055 - eval_Piano_santa - Epoch 7 Update 630 Cost 19.444012349 Beta 0.7
+2018-09-25 05:43:19,616 - eval_Piano_santa - Epoch 7 Update 640 Cost 33.055098264 Beta 0.7
+2018-09-25 05:43:25,178 - eval_Piano_santa - Epoch 7 Update 650 Cost 31.4342303867 Beta 0.7
+2018-09-25 05:43:31,200 - eval_Piano_santa - Epoch 7 Update 660 Cost 16.4203735202 Beta 0.7
+2018-09-25 05:43:37,291 - eval_Piano_santa - Epoch 7 Update 670 Cost 32.2088436683 Beta 0.7
+2018-09-25 05:43:44,005 - eval_Piano_santa - Epoch 7 Update 680 Cost 26.9187504597 Beta 0.7
+2018-09-25 05:43:49,880 - eval_Piano_santa - Epoch 7 Update 690 Cost 19.3574339544 Beta 0.7
+2018-09-25 05:44:01,393 - eval_Piano_santa - Train 21.4892183858 Valid 21.5771484307 Test 21.5914372572 Beta 0.7
+2018-09-25 05:44:03,621 - eval_Piano_santa - Epoch 8 Update 700 Cost 24.2065653313 Beta 0.7
+2018-09-25 05:44:10,135 - eval_Piano_santa - Epoch 8 Update 710 Cost 23.8631735508 Beta 0.7
+2018-09-25 05:44:17,457 - eval_Piano_santa - Epoch 8 Update 720 Cost 16.5207421982 Beta 0.7
+2018-09-25 05:44:22,926 - eval_Piano_santa - Epoch 8 Update 730 Cost 20.0552150601 Beta 0.7
+2018-09-25 05:44:28,751 - eval_Piano_santa - Epoch 8 Update 740 Cost 23.0029125914 Beta 0.7
+2018-09-25 05:44:34,511 - eval_Piano_santa - Epoch 8 Update 750 Cost 24.1053306427 Beta 0.7
+2018-09-25 05:44:40,521 - eval_Piano_santa - Epoch 8 Update 760 Cost 16.9368732928 Beta 0.7
+2018-09-25 05:44:47,966 - eval_Piano_santa - Epoch 8 Update 770 Cost 19.8755422365 Beta 0.7
+2018-09-25 05:44:53,376 - eval_Piano_santa - Epoch 8 Update 780 Cost 24.5379547472 Beta 0.7
+2018-09-25 05:45:03,052 - eval_Piano_santa - Train 20.4049008481 Valid 20.2165596758 Test 19.7396032965 Beta 0.7
+2018-09-25 05:45:07,047 - eval_Piano_santa - Epoch 9 Update 790 Cost 26.3739059512 Beta 0.7
+2018-09-25 05:45:14,093 - eval_Piano_santa - Epoch 9 Update 800 Cost 22.6752598868 Beta 0.7
+2018-09-25 05:45:20,664 - eval_Piano_santa - Epoch 9 Update 810 Cost 19.1235860893 Beta 0.7
+2018-09-25 05:45:26,046 - eval_Piano_santa - Epoch 9 Update 820 Cost 13.9301373837 Beta 0.7
+2018-09-25 05:45:32,006 - eval_Piano_santa - Epoch 9 Update 830 Cost 18.2762109628 Beta 0.7
+2018-09-25 05:45:37,863 - eval_Piano_santa - Epoch 9 Update 840 Cost 11.8850025385 Beta 0.7
+2018-09-25 05:45:44,690 - eval_Piano_santa - Epoch 9 Update 850 Cost 15.6456278844 Beta 0.7
+2018-09-25 05:45:51,023 - eval_Piano_santa - Epoch 9 Update 860 Cost 25.220129665 Beta 0.7
+2018-09-25 05:45:56,825 - eval_Piano_santa - Epoch 9 Update 870 Cost 19.7541845079 Beta 0.7
+2018-09-25 05:46:04,676 - eval_Piano_santa - Train 19.2430137665 Valid 18.3789563575 Test 19.1823428725 Beta 0.7
+2018-09-25 05:46:10,449 - eval_Piano_santa - Epoch 10 Update 880 Cost 20.3317105543 Beta 0.7
+2018-09-25 05:46:18,198 - eval_Piano_santa - Epoch 10 Update 890 Cost 24.0437473271 Beta 0.7
+2018-09-25 05:46:24,200 - eval_Piano_santa - Epoch 10 Update 900 Cost 23.654702265 Beta 0.7
+2018-09-25 05:46:29,712 - eval_Piano_santa - Epoch 10 Update 910 Cost 16.1887304016 Beta 0.7
+2018-09-25 05:46:35,704 - eval_Piano_santa - Epoch 10 Update 920 Cost 16.4910088654 Beta 0.7
+2018-09-25 05:46:41,820 - eval_Piano_santa - Epoch 10 Update 930 Cost 13.7404294627 Beta 0.7
+2018-09-25 05:46:48,484 - eval_Piano_santa - Epoch 10 Update 940 Cost 18.6949535625 Beta 0.7
+2018-09-25 05:46:54,500 - eval_Piano_santa - Epoch 10 Update 950 Cost 13.3251764167 Beta 0.7
+2018-09-25 05:47:09,345 - eval_Piano_santa - Train 18.6607108062 Valid 18.3689418502 Test 18.3978138136 Beta 0.7
+2018-09-25 05:47:11,033 - eval_Piano_santa - Epoch 11 Update 960 Cost 17.3732807337 Beta 0.7
+2018-09-25 05:47:17,646 - eval_Piano_santa - Epoch 11 Update 970 Cost 20.9668550399 Beta 0.7
+2018-09-25 05:47:25,217 - eval_Piano_santa - Epoch 11 Update 980 Cost 23.1451973105 Beta 0.7
+2018-09-25 05:47:30,837 - eval_Piano_santa - Epoch 11 Update 990 Cost 14.7262635722 Beta 0.7
+2018-09-25 05:47:37,058 - eval_Piano_santa - Epoch 11 Update 1000 Cost 13.2104593512 Beta 0.7
+2018-09-25 05:47:37,058 - eval_Piano_santa - Saving ...
+2018-09-25 05:47:37,096 - eval_Piano_santa - Done ...
+2018-09-25 05:47:43,446 - eval_Piano_santa - Epoch 11 Update 1010 Cost 10.3267415939 Beta 0.7
+2018-09-25 05:47:52,177 - eval_Piano_santa - Epoch 11 Update 1020 Cost 16.4649253443 Beta 0.7
+2018-09-25 05:48:01,972 - eval_Piano_santa - Epoch 11 Update 1030 Cost 14.6321110433 Beta 0.7
+2018-09-25 05:48:08,163 - eval_Piano_santa - Epoch 11 Update 1040 Cost 15.7994614484 Beta 0.7
+2018-09-25 05:48:23,456 - eval_Piano_santa - Train 17.8255021015 Valid 17.7570907072 Test 17.8084456739 Beta 0.7
+2018-09-25 05:48:27,331 - eval_Piano_santa - Epoch 12 Update 1050 Cost 17.691833227 Beta 0.7
+2018-09-25 05:48:34,670 - eval_Piano_santa - Epoch 12 Update 1060 Cost 34.9449480593 Beta 0.7
+2018-09-25 05:48:42,396 - eval_Piano_santa - Epoch 12 Update 1070 Cost 27.0869217664 Beta 0.7
+2018-09-25 05:48:47,777 - eval_Piano_santa - Epoch 12 Update 1080 Cost 14.1697796781 Beta 0.7
+2018-09-25 05:48:53,676 - eval_Piano_santa - Epoch 12 Update 1090 Cost 8.43418285258 Beta 0.7
+2018-09-25 05:48:59,394 - eval_Piano_santa - Epoch 12 Update 1100 Cost 23.5231743095 Beta 0.7
+2018-09-25 05:49:05,844 - eval_Piano_santa - Epoch 12 Update 1110 Cost 27.4168181054 Beta 0.7
+2018-09-25 05:49:12,714 - eval_Piano_santa - Epoch 12 Update 1120 Cost 11.4058352683 Beta 0.7
+2018-09-25 05:49:18,203 - eval_Piano_santa - Epoch 12 Update 1130 Cost 11.3702110992 Beta 0.7
+2018-09-25 05:49:26,713 - eval_Piano_santa - Train 17.3764017674 Valid 17.0116859391 Test 17.4542250671 Beta 0.7
+2018-09-25 05:49:31,815 - eval_Piano_santa - Epoch 13 Update 1140 Cost 18.5781286063 Beta 0.7
+2018-09-25 05:49:39,467 - eval_Piano_santa - Epoch 13 Update 1150 Cost 21.0197175535 Beta 0.7
+2018-09-25 05:49:45,299 - eval_Piano_santa - Epoch 13 Update 1160 Cost 30.055612617 Beta 0.7
+2018-09-25 05:49:50,556 - eval_Piano_santa - Epoch 13 Update 1170 Cost 15.741107361 Beta 0.7
+2018-09-25 05:49:56,623 - eval_Piano_santa - Epoch 13 Update 1180 Cost 16.339967015 Beta 0.7
+2018-09-25 05:50:02,453 - eval_Piano_santa - Epoch 13 Update 1190 Cost 10.8759043429 Beta 0.7
+2018-09-25 05:50:09,230 - eval_Piano_santa - Epoch 13 Update 1200 Cost 21.5077948604 Beta 0.7
+2018-09-25 05:50:15,287 - eval_Piano_santa - Epoch 13 Update 1210 Cost 16.5593612686 Beta 0.7
+2018-09-25 05:50:27,729 - eval_Piano_santa - Train 17.0706581282 Valid 17.2507148459 Test 16.8068014114 Beta 0.7
+2018-09-25 05:50:28,793 - eval_Piano_santa - Epoch 14 Update 1220 Cost 9.05587327348 Beta 0.7
+2018-09-25 05:50:34,777 - eval_Piano_santa - Epoch 14 Update 1230 Cost 15.5254960977 Beta 0.7
+2018-09-25 05:50:42,457 - eval_Piano_santa - Epoch 14 Update 1240 Cost 13.2203375475 Beta 0.7
+2018-09-25 05:50:47,951 - eval_Piano_santa - Epoch 14 Update 1250 Cost 11.7180731522 Beta 0.7
+2018-09-25 05:50:53,572 - eval_Piano_santa - Epoch 14 Update 1260 Cost 13.2624021245 Beta 0.7
+2018-09-25 05:50:59,416 - eval_Piano_santa - Epoch 14 Update 1270 Cost 2.89045900792 Beta 0.7
+2018-09-25 05:51:05,367 - eval_Piano_santa - Epoch 14 Update 1280 Cost 17.2622977864 Beta 0.7
+2018-09-25 05:51:12,687 - eval_Piano_santa - Epoch 14 Update 1290 Cost 15.2314202574 Beta 0.7
+2018-09-25 05:51:17,889 - eval_Piano_santa - Epoch 14 Update 1300 Cost 15.7596462351 Beta 0.7
+2018-09-25 05:51:28,756 - eval_Piano_santa - Train 16.5931251028 Valid 16.0274436635 Test 16.3697766383 Beta 0.7
+2018-09-25 05:51:31,483 - eval_Piano_santa - Epoch 15 Update 1310 Cost 19.6727393733 Beta 0.7
+2018-09-25 05:51:38,280 - eval_Piano_santa - Epoch 15 Update 1320 Cost 15.8749148606 Beta 0.7
+2018-09-25 05:51:45,141 - eval_Piano_santa - Epoch 15 Update 1330 Cost 15.541167026 Beta 0.7
+2018-09-25 05:51:50,558 - eval_Piano_santa - Epoch 15 Update 1340 Cost 22.0326315628 Beta 0.7
+2018-09-25 05:51:56,351 - eval_Piano_santa - Epoch 15 Update 1350 Cost 13.8556649724 Beta 0.7
+2018-09-25 05:52:02,046 - eval_Piano_santa - Epoch 15 Update 1360 Cost 19.2189731179 Beta 0.7
+2018-09-25 05:52:08,080 - eval_Piano_santa - Epoch 15 Update 1370 Cost 17.8826505586 Beta 0.7
+2018-09-25 05:52:15,285 - eval_Piano_santa - Epoch 15 Update 1380 Cost 15.4976810027 Beta 0.7
+2018-09-25 05:52:20,727 - eval_Piano_santa - Epoch 15 Update 1390 Cost 13.6305641002 Beta 0.7
+2018-09-25 05:52:29,808 - eval_Piano_santa - Train 16.1817420918 Valid 15.8954195813 Test 16.0539587149 Beta 0.7
+2018-09-25 05:52:34,329 - eval_Piano_santa - Epoch 16 Update 1400 Cost 13.0152886888 Beta 0.7
+2018-09-25 05:52:41,567 - eval_Piano_santa - Epoch 16 Update 1410 Cost 16.8543044459 Beta 0.7
+2018-09-25 05:52:47,783 - eval_Piano_santa - Epoch 16 Update 1420 Cost 14.5040550665 Beta 0.7
+2018-09-25 05:52:53,056 - eval_Piano_santa - Epoch 16 Update 1430 Cost 17.6839961635 Beta 0.7
+2018-09-25 05:52:59,144 - eval_Piano_santa - Epoch 16 Update 1440 Cost 13.0881120521 Beta 0.7
+2018-09-25 05:53:04,878 - eval_Piano_santa - Epoch 16 Update 1450 Cost 14.7413494689 Beta 0.7
+2018-09-25 05:53:11,634 - eval_Piano_santa - Epoch 16 Update 1460 Cost 19.1058081507 Beta 0.7
+2018-09-25 05:53:17,847 - eval_Piano_santa - Epoch 16 Update 1470 Cost 27.1314990919 Beta 0.7
+2018-09-25 05:53:33,972 - eval_Piano_santa - Train 16.0256641105 Valid 15.9225187465 Test 15.5781580304 Beta 0.7
+2018-09-25 05:53:34,497 - eval_Piano_santa - Epoch 17 Update 1480 Cost 8.99513450444 Beta 0.7
+2018-09-25 05:53:40,391 - eval_Piano_santa - Epoch 17 Update 1490 Cost 14.3698630463 Beta 0.7
+2018-09-25 05:53:48,879 - eval_Piano_santa - Epoch 17 Update 1500 Cost 12.9392416665 Beta 0.7
+2018-09-25 05:53:54,640 - eval_Piano_santa - Epoch 17 Update 1510 Cost 21.3466992443 Beta 0.7
+2018-09-25 05:54:00,330 - eval_Piano_santa - Epoch 17 Update 1520 Cost 20.668839358 Beta 0.7
+2018-09-25 05:54:06,388 - eval_Piano_santa - Epoch 17 Update 1530 Cost 12.3874423485 Beta 0.7
+2018-09-25 05:54:12,650 - eval_Piano_santa - Epoch 17 Update 1540 Cost 26.7440920712 Beta 0.7
+2018-09-25 05:54:19,764 - eval_Piano_santa - Epoch 17 Update 1550 Cost 18.9045336251 Beta 0.7
+2018-09-25 05:54:25,982 - eval_Piano_santa - Epoch 17 Update 1560 Cost 14.024499539 Beta 0.7
+2018-09-25 05:54:41,572 - eval_Piano_santa - Train 15.8151761464 Valid 15.699949392 Test 15.4038807706 Beta 0.7
+2018-09-25 05:54:44,601 - eval_Piano_santa - Epoch 18 Update 1570 Cost 15.5287302719 Beta 0.7
+2018-09-25 05:54:52,083 - eval_Piano_santa - Epoch 18 Update 1580 Cost 18.3837846767 Beta 0.7
+2018-09-25 05:54:59,855 - eval_Piano_santa - Epoch 18 Update 1590 Cost 13.0082456093 Beta 0.7
+2018-09-25 05:55:07,684 - eval_Piano_santa - Epoch 18 Update 1600 Cost 14.8615148896 Beta 0.7
+2018-09-25 05:55:14,874 - eval_Piano_santa - Epoch 18 Update 1610 Cost 15.7208215032 Beta 0.7
+2018-09-25 05:55:23,011 - eval_Piano_santa - Epoch 18 Update 1620 Cost 16.7596506143 Beta 0.7
+2018-09-25 05:55:31,131 - eval_Piano_santa - Epoch 18 Update 1630 Cost 12.711162631 Beta 0.7
+2018-09-25 05:55:41,001 - eval_Piano_santa - Epoch 18 Update 1640 Cost 13.3247213487 Beta 0.7
+2018-09-25 05:55:47,885 - eval_Piano_santa - Epoch 18 Update 1650 Cost 17.1946092922 Beta 0.7
+2018-09-25 05:55:59,991 - eval_Piano_santa - Train 15.4757605292 Valid 15.433027545 Test 15.108850886 Beta 0.7
+2018-09-25 05:56:04,785 - eval_Piano_santa - Epoch 19 Update 1660 Cost 21.1941812188 Beta 0.7
+2018-09-25 05:56:13,439 - eval_Piano_santa - Epoch 19 Update 1670 Cost 16.6069625625 Beta 0.7
+2018-09-25 05:56:21,328 - eval_Piano_santa - Epoch 19 Update 1680 Cost 15.8000098871 Beta 0.7
+2018-09-25 05:56:28,305 - eval_Piano_santa - Epoch 19 Update 1690 Cost 11.9378062578 Beta 0.7
+2018-09-25 05:56:35,837 - eval_Piano_santa - Epoch 19 Update 1700 Cost 15.6424074664 Beta 0.7
+2018-09-25 05:56:43,429 - eval_Piano_santa - Epoch 19 Update 1710 Cost 9.40233371387 Beta 0.7
+2018-09-25 05:56:52,276 - eval_Piano_santa - Epoch 19 Update 1720 Cost 13.7320943902 Beta 0.7
+2018-09-25 05:57:00,390 - eval_Piano_santa - Epoch 19 Update 1730 Cost 18.228701719 Beta 0.7
+2018-09-25 05:57:07,455 - eval_Piano_santa - Epoch 19 Update 1740 Cost 15.9468530477 Beta 0.7
+2018-09-25 05:57:18,145 - eval_Piano_santa - Train 15.3623787833 Valid 15.1484889945 Test 15.2792413458 Beta 0.7
+2018-09-25 05:57:25,307 - eval_Piano_santa - Epoch 20 Update 1750 Cost 15.7436643318 Beta 0.7
+2018-09-25 05:57:35,042 - eval_Piano_santa - Epoch 20 Update 1760 Cost 17.3336934538 Beta 0.7
+2018-09-25 05:57:42,182 - eval_Piano_santa - Epoch 20 Update 1770 Cost 15.7050216647 Beta 0.7
+2018-09-25 05:57:48,850 - eval_Piano_santa - Epoch 20 Update 1780 Cost 14.7332477385 Beta 0.7
+2018-09-25 05:57:56,166 - eval_Piano_santa - Epoch 20 Update 1790 Cost 13.1764345203 Beta 0.7
+2018-09-25 05:58:03,736 - eval_Piano_santa - Epoch 20 Update 1800 Cost 10.6501203413 Beta 0.7
+2018-09-25 05:58:12,381 - eval_Piano_santa - Epoch 20 Update 1810 Cost 16.0384024637 Beta 0.7
+2018-09-25 05:58:20,191 - eval_Piano_santa - Epoch 20 Update 1820 Cost 11.7158801072 Beta 0.7
+2018-09-25 05:58:36,514 - eval_Piano_santa - Train 15.2071717436 Valid 14.8631717823 Test 14.9315995214 Beta 0.7
+2018-09-25 05:58:38,318 - eval_Piano_santa - Epoch 21 Update 1830 Cost 14.1578277365 Beta 0.7
+2018-09-25 05:58:45,492 - eval_Piano_santa - Epoch 21 Update 1840 Cost 17.471614212 Beta 0.7
+2018-09-25 05:58:53,452 - eval_Piano_santa - Epoch 21 Update 1850 Cost 19.7995826768 Beta 0.7
+2018-09-25 05:58:59,507 - eval_Piano_santa - Epoch 21 Update 1860 Cost 12.3235590646 Beta 0.7
+2018-09-25 05:59:05,869 - eval_Piano_santa - Epoch 21 Update 1870 Cost 12.4912913525 Beta 0.7
+2018-09-25 05:59:12,264 - eval_Piano_santa - Epoch 21 Update 1880 Cost 8.84389292193 Beta 0.7
+2018-09-25 05:59:19,252 - eval_Piano_santa - Epoch 21 Update 1890 Cost 14.7019398513 Beta 0.7
+2018-09-25 05:59:27,305 - eval_Piano_santa - Epoch 21 Update 1900 Cost 12.4437354065 Beta 0.7
+2018-09-25 05:59:33,146 - eval_Piano_santa - Epoch 21 Update 1910 Cost 14.1724722811 Beta 0.7
+2018-09-25 05:59:44,615 - eval_Piano_santa - Train 14.8948355987 Valid 14.8932351015 Test 14.5428784241 Beta 0.7
+2018-09-25 05:59:48,446 - eval_Piano_santa - Epoch 22 Update 1920 Cost 15.0270175957 Beta 0.7
+2018-09-25 05:59:55,812 - eval_Piano_santa - Epoch 22 Update 1930 Cost 28.2706016123 Beta 0.7
+2018-09-25 06:00:03,254 - eval_Piano_santa - Epoch 22 Update 1940 Cost 20.1536693474 Beta 0.7
+2018-09-25 06:00:09,345 - eval_Piano_santa - Epoch 22 Update 1950 Cost 13.103239602 Beta 0.7
+2018-09-25 06:00:15,970 - eval_Piano_santa - Epoch 22 Update 1960 Cost 7.84271473762 Beta 0.7
+2018-09-25 06:00:22,228 - eval_Piano_santa - Epoch 22 Update 1970 Cost 18.9831943731 Beta 0.7
+2018-09-25 06:00:29,711 - eval_Piano_santa - Epoch 22 Update 1980 Cost 23.3124531745 Beta 0.7
+2018-09-25 06:00:37,456 - eval_Piano_santa - Epoch 22 Update 1990 Cost 10.0633936699 Beta 0.7
+2018-09-25 06:00:43,677 - eval_Piano_santa - Epoch 22 Update 2000 Cost 10.7307068597 Beta 0.7
+2018-09-25 06:00:43,678 - eval_Piano_santa - Saving ...
+2018-09-25 06:00:43,712 - eval_Piano_santa - Done ...
+2018-09-25 06:00:53,304 - eval_Piano_santa - Train 14.886388486 Valid 14.6237318893 Test 14.6479571924 Beta 0.7
+2018-09-25 06:00:58,866 - eval_Piano_santa - Epoch 23 Update 2010 Cost 13.8094059028 Beta 0.7
+2018-09-25 06:01:07,304 - eval_Piano_santa - Epoch 23 Update 2020 Cost 19.2029966688 Beta 0.7
+2018-09-25 06:01:13,620 - eval_Piano_santa - Epoch 23 Update 2030 Cost 24.0968132833 Beta 0.7
+2018-09-25 06:01:19,603 - eval_Piano_santa - Epoch 23 Update 2040 Cost 14.3658754443 Beta 0.7
+2018-09-25 06:01:26,378 - eval_Piano_santa - Epoch 23 Update 2050 Cost 14.6098929763 Beta 0.7
+2018-09-25 06:01:32,711 - eval_Piano_santa - Epoch 23 Update 2060 Cost 10.0512420691 Beta 0.7
+2018-09-25 06:01:40,176 - eval_Piano_santa - Epoch 23 Update 2070 Cost 18.7785109379 Beta 0.7
+2018-09-25 06:01:46,769 - eval_Piano_santa - Epoch 23 Update 2080 Cost 13.7534123316 Beta 0.7
+2018-09-25 06:02:01,668 - eval_Piano_santa - Train 14.6883882497 Valid 14.3720464988 Test 14.6280904036 Beta 0.7
+2018-09-25 06:02:02,838 - eval_Piano_santa - Epoch 24 Update 2090 Cost 8.52242862486 Beta 0.7
+2018-09-25 06:02:09,640 - eval_Piano_santa - Epoch 24 Update 2100 Cost 12.4993693764 Beta 0.7
+2018-09-25 06:02:18,630 - eval_Piano_santa - Epoch 24 Update 2110 Cost 11.5715850102 Beta 0.7
+2018-09-25 06:02:25,084 - eval_Piano_santa - Epoch 24 Update 2120 Cost 10.7213851684 Beta 0.7
+2018-09-25 06:02:32,079 - eval_Piano_santa - Epoch 24 Update 2130 Cost 12.4415251427 Beta 0.7
+2018-09-25 06:02:38,888 - eval_Piano_santa - Epoch 24 Update 2140 Cost 2.50839467883 Beta 0.7
+2018-09-25 06:02:46,071 - eval_Piano_santa - Epoch 24 Update 2150 Cost 15.9264101792 Beta 0.7
+2018-09-25 06:02:54,796 - eval_Piano_santa - Epoch 24 Update 2160 Cost 14.3954826026 Beta 0.7
+2018-09-25 06:03:01,144 - eval_Piano_santa - Epoch 24 Update 2170 Cost 12.8495650556 Beta 0.7
+2018-09-25 06:03:14,640 - eval_Piano_santa - Train 14.5980857773 Valid 14.2317179426 Test 14.4563284886 Beta 0.7
+2018-09-25 06:03:18,178 - eval_Piano_santa - Epoch 25 Update 2180 Cost 16.5618261088 Beta 0.7
+2018-09-25 06:03:26,670 - eval_Piano_santa - Epoch 25 Update 2190 Cost 14.2016933236 Beta 0.7
+2018-09-25 06:03:33,892 - eval_Piano_santa - Epoch 25 Update 2200 Cost 12.9065315132 Beta 0.7
+2018-09-25 06:03:39,700 - eval_Piano_santa - Epoch 25 Update 2210 Cost 15.557468528 Beta 0.7
+2018-09-25 06:03:45,735 - eval_Piano_santa - Epoch 25 Update 2220 Cost 12.2917164646 Beta 0.7
+2018-09-25 06:03:51,654 - eval_Piano_santa - Epoch 25 Update 2230 Cost 16.4869193468 Beta 0.7
+2018-09-25 06:03:57,908 - eval_Piano_santa - Epoch 25 Update 2240 Cost 17.2518972 Beta 0.7
+2018-09-25 06:04:05,363 - eval_Piano_santa - Epoch 25 Update 2250 Cost 12.7505072199 Beta 0.7
+2018-09-25 06:04:10,955 - eval_Piano_santa - Epoch 25 Update 2260 Cost 12.5562773843 Beta 0.7
+2018-09-25 06:04:20,355 - eval_Piano_santa - Train 14.5709293097 Valid 14.3483164075 Test 14.2418515901 Beta 0.7
+2018-09-25 06:04:25,018 - eval_Piano_santa - Epoch 26 Update 2270 Cost 12.6072352346 Beta 0.7
+2018-09-25 06:04:32,510 - eval_Piano_santa - Epoch 26 Update 2280 Cost 14.6157021645 Beta 0.7
+2018-09-25 06:04:39,033 - eval_Piano_santa - Epoch 26 Update 2290 Cost 12.5682133556 Beta 0.7
+2018-09-25 06:04:44,538 - eval_Piano_santa - Epoch 26 Update 2300 Cost 16.0932837165 Beta 0.7
+2018-09-25 06:04:50,765 - eval_Piano_santa - Epoch 26 Update 2310 Cost 11.9370834724 Beta 0.7
+2018-09-25 06:04:56,699 - eval_Piano_santa - Epoch 26 Update 2320 Cost 12.8564582972 Beta 0.7
+2018-09-25 06:05:03,530 - eval_Piano_santa - Epoch 26 Update 2330 Cost 17.3989007536 Beta 0.7
+2018-09-25 06:05:09,788 - eval_Piano_santa - Epoch 26 Update 2340 Cost 23.7232942257 Beta 0.7
+2018-09-25 06:05:22,934 - eval_Piano_santa - Train 14.4002444993 Valid 14.0650749461 Test 14.1916197679 Beta 0.7
+2018-09-25 06:05:23,460 - eval_Piano_santa - Epoch 27 Update 2350 Cost 8.9367347946 Beta 0.7
+2018-09-25 06:05:29,256 - eval_Piano_santa - Epoch 27 Update 2360 Cost 12.0303017335 Beta 0.7
+2018-09-25 06:05:37,198 - eval_Piano_santa - Epoch 27 Update 2370 Cost 12.2560429276 Beta 0.7
+2018-09-25 06:05:42,759 - eval_Piano_santa - Epoch 27 Update 2380 Cost 18.0038572857 Beta 0.7
+2018-09-25 06:05:48,341 - eval_Piano_santa - Epoch 27 Update 2390 Cost 21.9804567866 Beta 0.7
+2018-09-25 06:05:54,394 - eval_Piano_santa - Epoch 27 Update 2400 Cost 11.2378858953 Beta 0.7
+2018-09-25 06:06:00,740 - eval_Piano_santa - Epoch 27 Update 2410 Cost 21.4916890151 Beta 0.7
+2018-09-25 06:06:07,649 - eval_Piano_santa - Epoch 27 Update 2420 Cost 17.7999227033 Beta 0.7
+2018-09-25 06:06:13,739 - eval_Piano_santa - Epoch 27 Update 2430 Cost 12.7309195316 Beta 0.7
+2018-09-25 06:06:25,363 - eval_Piano_santa - Train 14.3268929653 Valid 14.2986020446 Test 14.0274804319 Beta 0.7
+2018-09-25 06:06:27,575 - eval_Piano_santa - Epoch 28 Update 2440 Cost 13.4644942338 Beta 0.7
+2018-09-25 06:06:34,056 - eval_Piano_santa - Epoch 28 Update 2450 Cost 15.3715593134 Beta 0.7
+2018-09-25 06:06:41,357 - eval_Piano_santa - Epoch 28 Update 2460 Cost 11.1247423553 Beta 0.7
+2018-09-25 06:06:46,820 - eval_Piano_santa - Epoch 28 Update 2470 Cost 15.4492684841 Beta 0.7
+2018-09-25 06:06:52,629 - eval_Piano_santa - Epoch 28 Update 2480 Cost 14.9012455368 Beta 0.7
+2018-09-25 06:06:58,375 - eval_Piano_santa - Epoch 28 Update 2490 Cost 15.3050923233 Beta 0.7
+2018-09-25 06:07:04,377 - eval_Piano_santa - Epoch 28 Update 2500 Cost 11.4268649403 Beta 0.7
+2018-09-25 06:07:11,791 - eval_Piano_santa - Epoch 28 Update 2510 Cost 11.8028744987 Beta 0.7
+2018-09-25 06:07:17,197 - eval_Piano_santa - Epoch 28 Update 2520 Cost 16.1255024118 Beta 0.7
+2018-09-25 06:07:26,894 - eval_Piano_santa - Train 14.2242444562 Valid 13.9388158143 Test 14.1575184229 Beta 0.7
+2018-09-25 06:07:30,898 - eval_Piano_santa - Epoch 29 Update 2530 Cost 20.0177751672 Beta 0.7
+2018-09-25 06:07:37,939 - eval_Piano_santa - Epoch 29 Update 2540 Cost 16.1211570912 Beta 0.7
+2018-09-25 06:07:44,500 - eval_Piano_santa - Epoch 29 Update 2550 Cost 15.0903219337 Beta 0.7
+2018-09-25 06:07:49,852 - eval_Piano_santa - Epoch 29 Update 2560 Cost 11.6211153246 Beta 0.7
+2018-09-25 06:07:55,800 - eval_Piano_santa - Epoch 29 Update 2570 Cost 13.8419301397 Beta 0.7
+2018-09-25 06:08:01,697 - eval_Piano_santa - Epoch 29 Update 2580 Cost 8.04606975247 Beta 0.7
+2018-09-25 06:08:08,504 - eval_Piano_santa - Epoch 29 Update 2590 Cost 13.3610118573 Beta 0.7
+2018-09-25 06:08:14,846 - eval_Piano_santa - Epoch 29 Update 2600 Cost 16.9030840338 Beta 0.7
+2018-09-25 06:08:20,654 - eval_Piano_santa - Epoch 29 Update 2610 Cost 14.2278517293 Beta 0.7
+2018-09-25 06:08:28,449 - eval_Piano_santa - Train 13.9865910491 Valid 14.0009103668 Test 13.8798478124 Beta 0.7
+2018-09-25 06:08:34,213 - eval_Piano_santa - Epoch 30 Update 2620 Cost 15.3130056524 Beta 0.7
+2018-09-25 06:08:41,823 - eval_Piano_santa - Epoch 30 Update 2630 Cost 14.9644233372 Beta 0.7
+2018-09-25 06:08:47,710 - eval_Piano_santa - Epoch 30 Update 2640 Cost 14.2497825337 Beta 0.7
+2018-09-25 06:08:53,216 - eval_Piano_santa - Epoch 30 Update 2650 Cost 12.3155495066 Beta 0.7
+2018-09-25 06:08:59,209 - eval_Piano_santa - Epoch 30 Update 2660 Cost 12.4549659632 Beta 0.7
+2018-09-25 06:09:05,372 - eval_Piano_santa - Epoch 30 Update 2670 Cost 10.031496796 Beta 0.7
+2018-09-25 06:09:12,022 - eval_Piano_santa - Epoch 30 Update 2680 Cost 14.7919465423 Beta 0.7
+2018-09-25 06:09:18,031 - eval_Piano_santa - Epoch 30 Update 2690 Cost 11.2915466521 Beta 0.7
+2018-09-25 06:09:30,060 - eval_Piano_santa - Train 13.9916425756 Valid 13.9426460258 Test 13.8821582245 Beta 0.7
+2018-09-25 06:09:31,726 - eval_Piano_santa - Epoch 31 Update 2700 Cost 14.467861445 Beta 0.7
+2018-09-25 06:09:38,217 - eval_Piano_santa - Epoch 31 Update 2710 Cost 16.0940094573 Beta 0.7
+2018-09-25 06:09:45,502 - eval_Piano_santa - Epoch 31 Update 2720 Cost 17.3485725698 Beta 0.7
+2018-09-25 06:09:51,055 - eval_Piano_santa - Epoch 31 Update 2730 Cost 12.3204444446 Beta 0.7
+2018-09-25 06:09:56,748 - eval_Piano_santa - Epoch 31 Update 2740 Cost 12.4526460549 Beta 0.7
+2018-09-25 06:10:02,612 - eval_Piano_santa - Epoch 31 Update 2750 Cost 8.82836336019 Beta 0.7
+2018-09-25 06:10:08,617 - eval_Piano_santa - Epoch 31 Update 2760 Cost 13.5744555922 Beta 0.7
+2018-09-25 06:10:16,093 - eval_Piano_santa - Epoch 31 Update 2770 Cost 10.842517292 Beta 0.7
+2018-09-25 06:10:21,422 - eval_Piano_santa - Epoch 31 Update 2780 Cost 13.3841286427 Beta 0.7
+2018-09-25 06:10:31,710 - eval_Piano_santa - Train 13.9749298565 Valid 13.9517408464 Test 13.7262273687 Beta 0.7
+2018-09-25 06:10:35,100 - eval_Piano_santa - Epoch 32 Update 2790 Cost 15.3729783216 Beta 0.7
+2018-09-25 06:10:41,914 - eval_Piano_santa - Epoch 32 Update 2800 Cost 25.0750122568 Beta 0.7
+2018-09-25 06:10:48,790 - eval_Piano_santa - Epoch 32 Update 2810 Cost 19.7404085894 Beta 0.7
+2018-09-25 06:10:54,195 - eval_Piano_santa - Epoch 32 Update 2820 Cost 13.2943971627 Beta 0.7
+2018-09-25 06:11:00,073 - eval_Piano_santa - Epoch 32 Update 2830 Cost 7.61169510423 Beta 0.7
+2018-09-25 06:11:05,829 - eval_Piano_santa - Epoch 32 Update 2840 Cost 15.9331222521 Beta 0.7
+2018-09-25 06:11:12,281 - eval_Piano_santa - Epoch 32 Update 2850 Cost 21.3651266289 Beta 0.7
+2018-09-25 06:11:19,174 - eval_Piano_santa - Epoch 32 Update 2860 Cost 9.34685676568 Beta 0.7
+2018-09-25 06:11:24,726 - eval_Piano_santa - Epoch 32 Update 2870 Cost 9.90743728887 Beta 0.7
+2018-09-25 06:11:33,279 - eval_Piano_santa - Train 13.997999194 Valid 13.7783070096 Test 13.6301877402 Beta 0.7
+2018-09-25 06:11:38,454 - eval_Piano_santa - Epoch 33 Update 2880 Cost 13.1122843793 Beta 0.7
+2018-09-25 06:11:46,235 - eval_Piano_santa - Epoch 33 Update 2890 Cost 16.4872539705 Beta 0.7
+2018-09-25 06:11:52,125 - eval_Piano_santa - Epoch 33 Update 2900 Cost 23.2448774309 Beta 0.7
+2018-09-25 06:11:57,429 - eval_Piano_santa - Epoch 33 Update 2910 Cost 13.5372890723 Beta 0.7
+2018-09-25 06:12:03,567 - eval_Piano_santa - Epoch 33 Update 2920 Cost 14.5019500783 Beta 0.7
+2018-09-25 06:12:09,469 - eval_Piano_santa - Epoch 33 Update 2930 Cost 8.8574401685 Beta 0.7
+2018-09-25 06:12:16,320 - eval_Piano_santa - Epoch 33 Update 2940 Cost 15.9433649405 Beta 0.7
+2018-09-25 06:12:22,461 - eval_Piano_santa - Epoch 33 Update 2950 Cost 13.1852719937 Beta 0.7
+2018-09-25 06:12:35,003 - eval_Piano_santa - Train 13.9034826993 Valid 13.6091781691 Test 13.5113517349 Beta 0.7
+2018-09-25 06:12:36,088 - eval_Piano_santa - Epoch 34 Update 2960 Cost 8.35864927212 Beta 0.7
+2018-09-25 06:12:42,136 - eval_Piano_santa - Epoch 34 Update 2970 Cost 11.8478049911 Beta 0.7
+2018-09-25 06:12:49,859 - eval_Piano_santa - Epoch 34 Update 2980 Cost 11.494007301 Beta 0.7
+2018-09-25 06:12:55,396 - eval_Piano_santa - Epoch 34 Update 2990 Cost 10.2855480269 Beta 0.7
+2018-09-25 06:13:01,086 - eval_Piano_santa - Epoch 34 Update 3000 Cost 12.0823551119 Beta 0.7
+2018-09-25 06:13:01,086 - eval_Piano_santa - Saving ...
+2018-09-25 06:13:01,118 - eval_Piano_santa - Done ...
+2018-09-25 06:13:07,082 - eval_Piano_santa - Epoch 34 Update 3010 Cost 2.61128918237 Beta 0.7
+2018-09-25 06:13:13,095 - eval_Piano_santa - Epoch 34 Update 3020 Cost 15.1859121288 Beta 0.7
+2018-09-25 06:13:20,580 - eval_Piano_santa - Epoch 34 Update 3030 Cost 14.2571828466 Beta 0.7
+2018-09-25 06:13:25,814 - eval_Piano_santa - Epoch 34 Update 3040 Cost 12.3156359789 Beta 0.7
+2018-09-25 06:13:36,682 - eval_Piano_santa - Train 13.6959998497 Valid 13.6055160766 Test 13.697499354 Beta 0.7
+2018-09-25 06:13:39,445 - eval_Piano_santa - Epoch 35 Update 3050 Cost 16.7906327632 Beta 0.7
+2018-09-25 06:13:46,302 - eval_Piano_santa - Epoch 35 Update 3060 Cost 13.2592464364 Beta 0.7
+2018-09-25 06:13:53,218 - eval_Piano_santa - Epoch 35 Update 3070 Cost 12.407380548 Beta 0.7
+2018-09-25 06:13:58,676 - eval_Piano_santa - Epoch 35 Update 3080 Cost 15.1965749155 Beta 0.7
+2018-09-25 06:14:04,508 - eval_Piano_santa - Epoch 35 Update 3090 Cost 11.5629257986 Beta 0.7
+2018-09-25 06:14:10,260 - eval_Piano_santa - Epoch 35 Update 3100 Cost 15.4430293908 Beta 0.7
+2018-09-25 06:14:16,357 - eval_Piano_santa - Epoch 35 Update 3110 Cost 15.3382773122 Beta 0.7
+2018-09-25 06:14:23,601 - eval_Piano_santa - Epoch 35 Update 3120 Cost 12.1050052512 Beta 0.7
+2018-09-25 06:14:29,026 - eval_Piano_santa - Epoch 35 Update 3130 Cost 12.7513297884 Beta 0.7
+2018-09-25 06:14:38,127 - eval_Piano_santa - Train 13.8401125544 Valid 13.565416526 Test 13.4847832807 Beta 0.7
+2018-09-25 06:14:42,696 - eval_Piano_santa - Epoch 36 Update 3140 Cost 12.1352753527 Beta 0.7
+2018-09-25 06:14:49,946 - eval_Piano_santa - Epoch 36 Update 3150 Cost 14.2766507109 Beta 0.7
+2018-09-25 06:14:56,202 - eval_Piano_santa - Epoch 36 Update 3160 Cost 11.8379178693 Beta 0.7
+2018-09-25 06:15:01,520 - eval_Piano_santa - Epoch 36 Update 3170 Cost 15.9449457778 Beta 0.7
+2018-09-25 06:15:07,640 - eval_Piano_santa - Epoch 36 Update 3180 Cost 10.6119247033 Beta 0.7
+2018-09-25 06:15:13,375 - eval_Piano_santa - Epoch 36 Update 3190 Cost 12.3977339427 Beta 0.7
+2018-09-25 06:15:20,191 - eval_Piano_santa - Epoch 36 Update 3200 Cost 16.4716177689 Beta 0.7
+2018-09-25 06:15:26,431 - eval_Piano_santa - Epoch 36 Update 3210 Cost 20.2983944665 Beta 0.7
+2018-09-25 06:15:39,507 - eval_Piano_santa - Train 13.7415065872 Valid 13.6108411886 Test 13.2852053686 Beta 0.7
+2018-09-25 06:15:40,031 - eval_Piano_santa - Epoch 37 Update 3220 Cost 9.16692180781 Beta 0.7
+2018-09-25 06:15:45,814 - eval_Piano_santa - Epoch 37 Update 3230 Cost 11.1804731874 Beta 0.7
+2018-09-25 06:15:53,712 - eval_Piano_santa - Epoch 37 Update 3240 Cost 11.1734606615 Beta 0.7
+2018-09-25 06:15:59,248 - eval_Piano_santa - Epoch 37 Update 3250 Cost 17.4993228827 Beta 0.7
+2018-09-25 06:16:04,792 - eval_Piano_santa - Epoch 37 Update 3260 Cost 16.5448926321 Beta 0.7
+2018-09-25 06:16:10,784 - eval_Piano_santa - Epoch 37 Update 3270 Cost 11.2367687701 Beta 0.7
+2018-09-25 06:16:16,977 - eval_Piano_santa - Epoch 37 Update 3280 Cost 18.768806187 Beta 0.7
+2018-09-25 06:16:23,685 - eval_Piano_santa - Epoch 37 Update 3290 Cost 16.9348665806 Beta 0.7
+2018-09-25 06:16:29,572 - eval_Piano_santa - Epoch 37 Update 3300 Cost 11.5517827438 Beta 0.7
+2018-09-25 06:16:41,068 - eval_Piano_santa - Train 13.6635440915 Valid 13.4647239596 Test 13.3628106969 Beta 0.7
+2018-09-25 06:16:43,283 - eval_Piano_santa - Epoch 38 Update 3310 Cost 12.6116189726 Beta 0.7
+2018-09-25 06:16:49,786 - eval_Piano_santa - Epoch 38 Update 3320 Cost 14.1064343907 Beta 0.7
+2018-09-25 06:16:57,083 - eval_Piano_santa - Epoch 38 Update 3330 Cost 10.615220334 Beta 0.7
+2018-09-25 06:17:02,620 - eval_Piano_santa - Epoch 38 Update 3340 Cost 14.3410981102 Beta 0.7
+2018-09-25 06:17:08,395 - eval_Piano_santa - Epoch 38 Update 3350 Cost 12.4367874175 Beta 0.7
+2018-09-25 06:17:14,124 - eval_Piano_santa - Epoch 38 Update 3360 Cost 14.269673438 Beta 0.7
+2018-09-25 06:17:20,112 - eval_Piano_santa - Epoch 38 Update 3370 Cost 11.1272574839 Beta 0.7
+2018-09-25 06:17:27,528 - eval_Piano_santa - Epoch 38 Update 3380 Cost 11.7273104326 Beta 0.7
+2018-09-25 06:17:32,895 - eval_Piano_santa - Epoch 38 Update 3390 Cost 15.8899958093 Beta 0.7
+2018-09-25 06:17:42,545 - eval_Piano_santa - Train 13.5942956968 Valid 13.3097651186 Test 13.3465261792 Beta 0.7
+2018-09-25 06:17:46,527 - eval_Piano_santa - Epoch 39 Update 3400 Cost 20.1906122575 Beta 0.7
+2018-09-25 06:17:53,548 - eval_Piano_santa - Epoch 39 Update 3410 Cost 14.9318125377 Beta 0.7
+2018-09-25 06:18:00,081 - eval_Piano_santa - Epoch 39 Update 3420 Cost 14.9880424263 Beta 0.7
+2018-09-25 06:18:05,431 - eval_Piano_santa - Epoch 39 Update 3430 Cost 11.7520198734 Beta 0.7
+2018-09-25 06:18:11,377 - eval_Piano_santa - Epoch 39 Update 3440 Cost 15.0063907149 Beta 0.7
+2018-09-25 06:18:17,227 - eval_Piano_santa - Epoch 39 Update 3450 Cost 8.04171006577 Beta 0.7
+2018-09-25 06:18:24,055 - eval_Piano_santa - Epoch 39 Update 3460 Cost 12.8525241864 Beta 0.7
+2018-09-25 06:18:30,387 - eval_Piano_santa - Epoch 39 Update 3470 Cost 15.4768907292 Beta 0.7
+2018-09-25 06:18:36,187 - eval_Piano_santa - Epoch 39 Update 3480 Cost 13.8094218946 Beta 0.7
+2018-09-25 06:18:44,004 - eval_Piano_santa - Train 13.4964563087 Valid 13.5735722948 Test 13.3264163779 Beta 0.7
+2018-09-25 06:18:51,806 - eval_Piano_santa - Train 13.5972942399 Valid 13.4591429927 Test 13.2305954686 Beta 0.7
+2018-09-25 06:18:51,850 - eval_Piano_santa - The code run for 40 epochs, with 64.4238849282 sec/epochs
+2018-09-25 06:20:56,454 - eval_Piano_santa - loading Piano data...
+2018-09-25 06:20:56,496 - eval_Piano_santa - data loaded!
+2018-09-25 06:20:56,496 - eval_Piano_santa - Model options {'n_x': 88, 'validFreq': 87, 'patience': 10, 'n_h': 200, 'lrate': 0.0002, 'max_epochs': 40, 'dispFreq': 10, 'saveFreq': 1000}
+2018-09-25 06:20:56,496 - eval_Piano_santa - Building model...
+2018-09-25 06:21:31,700 - eval_Piano_santa - Training model...
+2018-09-25 06:21:37,531 - eval_Piano_santa - Epoch 0 Update 10 Cost 59.7072965027 Beta 0.9
+2018-09-25 06:21:45,171 - eval_Piano_santa - Epoch 0 Update 20 Cost 59.9996114747 Beta 0.9
+2018-09-25 06:21:51,089 - eval_Piano_santa - Epoch 0 Update 30 Cost 55.5611844631 Beta 0.9
+2018-09-25 06:21:56,676 - eval_Piano_santa - Epoch 0 Update 40 Cost 57.0018459888 Beta 0.9
+2018-09-25 06:22:02,689 - eval_Piano_santa - Epoch 0 Update 50 Cost 55.5552405374 Beta 0.9
+2018-09-25 06:22:08,794 - eval_Piano_santa - Epoch 0 Update 60 Cost 53.8039333424 Beta 0.9
+2018-09-25 06:22:15,458 - eval_Piano_santa - Epoch 0 Update 70 Cost 52.4345091482 Beta 0.9
+2018-09-25 06:22:21,497 - eval_Piano_santa - Epoch 0 Update 80 Cost 50.6955642864 Beta 0.9
+2018-09-25 06:22:33,613 - eval_Piano_santa - Train 51.1192739348 Valid 50.8097023713 Test 50.71320568 Beta 0.9
+2018-09-25 06:22:35,297 - eval_Piano_santa - Epoch 1 Update 90 Cost 49.55971476 Beta 0.9
+2018-09-25 06:22:41,843 - eval_Piano_santa - Epoch 1 Update 100 Cost 50.28778246 Beta 0.9
+2018-09-25 06:22:49,138 - eval_Piano_santa - Epoch 1 Update 110 Cost 48.9144486975 Beta 0.9
+2018-09-25 06:22:54,714 - eval_Piano_santa - Epoch 1 Update 120 Cost 43.7681521703 Beta 0.9
+2018-09-25 06:23:00,448 - eval_Piano_santa - Epoch 1 Update 130 Cost 38.0446242059 Beta 0.9
+2018-09-25 06:23:06,377 - eval_Piano_santa - Epoch 1 Update 140 Cost 41.3937509153 Beta 0.9
+2018-09-25 06:23:12,517 - eval_Piano_santa - Epoch 1 Update 150 Cost 39.9737914878 Beta 0.9
+2018-09-25 06:23:20,075 - eval_Piano_santa - Epoch 1 Update 160 Cost 32.779860504 Beta 0.9
+2018-09-25 06:23:25,433 - eval_Piano_santa - Epoch 1 Update 170 Cost 31.1709726234 Beta 0.9
+2018-09-25 06:23:35,646 - eval_Piano_santa - Train 36.32936233 Valid 37.3062998913 Test 37.1687818376 Beta 0.9
+2018-09-25 06:23:39,061 - eval_Piano_santa - Epoch 2 Update 180 Cost 32.1978973467 Beta 0.9
+2018-09-25 06:23:45,894 - eval_Piano_santa - Epoch 2 Update 190 Cost 45.5949360292 Beta 0.9
+2018-09-25 06:23:52,989 - eval_Piano_santa - Epoch 2 Update 200 Cost 37.1151832242 Beta 0.9
+2018-09-25 06:23:58,464 - eval_Piano_santa - Epoch 2 Update 210 Cost 23.9679095509 Beta 0.9
+2018-09-25 06:24:04,400 - eval_Piano_santa - Epoch 2 Update 220 Cost 21.8487017324 Beta 0.9
+2018-09-25 06:24:10,159 - eval_Piano_santa - Epoch 2 Update 230 Cost 32.4948220676 Beta 0.9
+2018-09-25 06:24:16,627 - eval_Piano_santa - Epoch 2 Update 240 Cost 40.1448248044 Beta 0.9
+2018-09-25 06:24:23,576 - eval_Piano_santa - Epoch 2 Update 250 Cost 20.378663874 Beta 0.9
+2018-09-25 06:24:29,185 - eval_Piano_santa - Epoch 2 Update 260 Cost 22.486859983 Beta 0.9
+2018-09-25 06:24:37,784 - eval_Piano_santa - Train 27.4333904961 Valid 27.6126869786 Test 27.519208366 Beta 0.9
+2018-09-25 06:24:42,973 - eval_Piano_santa - Epoch 3 Update 270 Cost 26.5294529416 Beta 0.9
+2018-09-25 06:24:50,757 - eval_Piano_santa - Epoch 3 Update 280 Cost 33.5612585882 Beta 0.9
+2018-09-25 06:24:56,664 - eval_Piano_santa - Epoch 3 Update 290 Cost 37.9058792418 Beta 0.9
+2018-09-25 06:25:01,990 - eval_Piano_santa - Epoch 3 Update 300 Cost 25.1968883914 Beta 0.9
+2018-09-25 06:25:08,147 - eval_Piano_santa - Epoch 3 Update 310 Cost 22.0521819991 Beta 0.9
+2018-09-25 06:25:14,036 - eval_Piano_santa - Epoch 3 Update 320 Cost 17.9732009291 Beta 0.9
+2018-09-25 06:25:20,898 - eval_Piano_santa - Epoch 3 Update 330 Cost 28.6518235746 Beta 0.9
+2018-09-25 06:25:27,048 - eval_Piano_santa - Epoch 3 Update 340 Cost 23.0653851325 Beta 0.9
+2018-09-25 06:25:39,547 - eval_Piano_santa - Train 22.6606766619 Valid 22.9049501967 Test 22.3441541354 Beta 0.9
+2018-09-25 06:25:40,635 - eval_Piano_santa - Epoch 4 Update 350 Cost 12.9933876009 Beta 0.9
+2018-09-25 06:25:46,748 - eval_Piano_santa - Epoch 4 Update 360 Cost 20.6530047953 Beta 0.9
+2018-09-25 06:25:54,481 - eval_Piano_santa - Epoch 4 Update 370 Cost 17.3737572199 Beta 0.9
+2018-09-25 06:26:00,051 - eval_Piano_santa - Epoch 4 Update 380 Cost 15.934936158 Beta 0.9
+2018-09-25 06:26:05,764 - eval_Piano_santa - Epoch 4 Update 390 Cost 17.0451115392 Beta 0.9
+2018-09-25 06:26:11,702 - eval_Piano_santa - Epoch 4 Update 400 Cost 5.44473507509 Beta 0.9
+2018-09-25 06:26:17,722 - eval_Piano_santa - Epoch 4 Update 410 Cost 22.4990585818 Beta 0.9
+2018-09-25 06:26:25,156 - eval_Piano_santa - Epoch 4 Update 420 Cost 18.306716525 Beta 0.9
+2018-09-25 06:26:30,438 - eval_Piano_santa - Epoch 4 Update 430 Cost 19.2271383432 Beta 0.9
+2018-09-25 06:26:41,313 - eval_Piano_santa - Train 20.1390305917 Valid 19.8867064117 Test 19.7152399868 Beta 0.9
+2018-09-25 06:26:44,089 - eval_Piano_santa - Epoch 5 Update 440 Cost 23.206078852 Beta 0.9
+2018-09-25 06:26:51,189 - eval_Piano_santa - Epoch 5 Update 450 Cost 20.3977750095 Beta 0.9
+2018-09-25 06:26:58,643 - eval_Piano_santa - Epoch 5 Update 460 Cost 18.1308099045 Beta 0.9
+2018-09-25 06:27:04,429 - eval_Piano_santa - Epoch 5 Update 470 Cost 26.366599955 Beta 0.9
+2018-09-25 06:27:10,441 - eval_Piano_santa - Epoch 5 Update 480 Cost 17.68272317 Beta 0.9
+2018-09-25 06:27:16,232 - eval_Piano_santa - Epoch 5 Update 490 Cost 22.6968143021 Beta 0.9
+2018-09-25 06:27:22,658 - eval_Piano_santa - Epoch 5 Update 500 Cost 20.4396310151 Beta 0.9
+2018-09-25 06:27:29,971 - eval_Piano_santa - Epoch 5 Update 510 Cost 19.2928973848 Beta 0.9
+2018-09-25 06:27:35,440 - eval_Piano_santa - Epoch 5 Update 520 Cost 14.8636959976 Beta 0.9
+2018-09-25 06:27:44,583 - eval_Piano_santa - Train 18.404865218 Valid 18.6201818776 Test 18.072643662 Beta 0.9
+2018-09-25 06:27:49,210 - eval_Piano_santa - Epoch 6 Update 530 Cost 14.0324623151 Beta 0.9
+2018-09-25 06:27:56,518 - eval_Piano_santa - Epoch 6 Update 540 Cost 17.5683950781 Beta 0.9
+2018-09-25 06:28:02,832 - eval_Piano_santa - Epoch 6 Update 550 Cost 16.7279336851 Beta 0.9
+2018-09-25 06:28:08,169 - eval_Piano_santa - Epoch 6 Update 560 Cost 21.5220928692 Beta 0.9
+2018-09-25 06:28:14,340 - eval_Piano_santa - Epoch 6 Update 570 Cost 14.7362115627 Beta 0.9
+2018-09-25 06:28:20,117 - eval_Piano_santa - Epoch 6 Update 580 Cost 17.5091436038 Beta 0.9
+2018-09-25 06:28:26,940 - eval_Piano_santa - Epoch 6 Update 590 Cost 21.3543476526 Beta 0.9
+2018-09-25 06:28:33,243 - eval_Piano_santa - Epoch 6 Update 600 Cost 31.0105837384 Beta 0.9
+2018-09-25 06:28:49,392 - eval_Piano_santa - Train 17.2502842617 Valid 17.0420872994 Test 16.9134858198 Beta 0.9
+2018-09-25 06:28:49,983 - eval_Piano_santa - Epoch 7 Update 610 Cost 8.78625106458 Beta 0.9
+2018-09-25 06:28:55,897 - eval_Piano_santa - Epoch 7 Update 620 Cost 16.5830563568 Beta 0.9
+2018-09-25 06:29:04,009 - eval_Piano_santa - Epoch 7 Update 630 Cost 14.0363713439 Beta 0.9
+2018-09-25 06:29:09,629 - eval_Piano_santa - Epoch 7 Update 640 Cost 23.5482866093 Beta 0.9
+2018-09-25 06:29:15,375 - eval_Piano_santa - Epoch 7 Update 650 Cost 23.5659449875 Beta 0.9
+2018-09-25 06:29:21,522 - eval_Piano_santa - Epoch 7 Update 660 Cost 12.8058182443 Beta 0.9
+2018-09-25 06:29:27,684 - eval_Piano_santa - Epoch 7 Update 670 Cost 28.2154878775 Beta 0.9
+2018-09-25 06:29:34,510 - eval_Piano_santa - Epoch 7 Update 680 Cost 20.215918973 Beta 0.9
+2018-09-25 06:29:40,511 - eval_Piano_santa - Epoch 7 Update 690 Cost 13.8801783012 Beta 0.9
+2018-09-25 06:29:52,056 - eval_Piano_santa - Train 16.435963448 Valid 16.0338456522 Test 15.943056284 Beta 0.9
+2018-09-25 06:29:54,326 - eval_Piano_santa - Epoch 8 Update 700 Cost 15.1898825118 Beta 0.9
+2018-09-25 06:30:00,924 - eval_Piano_santa - Epoch 8 Update 710 Cost 17.9107368407 Beta 0.9
+2018-09-25 06:30:08,281 - eval_Piano_santa - Epoch 8 Update 720 Cost 12.2618662964 Beta 0.9
+2018-09-25 06:30:13,782 - eval_Piano_santa - Epoch 8 Update 730 Cost 15.1626435298 Beta 0.9
+2018-09-25 06:30:19,650 - eval_Piano_santa - Epoch 8 Update 740 Cost 15.9008689802 Beta 0.9
+2018-09-25 06:30:25,479 - eval_Piano_santa - Epoch 8 Update 750 Cost 18.7781612191 Beta 0.9
+2018-09-25 06:30:31,558 - eval_Piano_santa - Epoch 8 Update 760 Cost 13.7299609505 Beta 0.9
+2018-09-25 06:30:39,080 - eval_Piano_santa - Epoch 8 Update 770 Cost 13.1779669776 Beta 0.9
+2018-09-25 06:30:44,521 - eval_Piano_santa - Epoch 8 Update 780 Cost 17.8387361055 Beta 0.9
+2018-09-25 06:30:54,216 - eval_Piano_santa - Train 15.7742445987 Valid 15.6729628376 Test 15.291456971 Beta 0.9
+2018-09-25 06:30:58,242 - eval_Piano_santa - Epoch 9 Update 790 Cost 19.3072703087 Beta 0.9
+2018-09-25 06:31:05,351 - eval_Piano_santa - Epoch 9 Update 800 Cost 17.6327060648 Beta 0.9
+2018-09-25 06:31:11,974 - eval_Piano_santa - Epoch 9 Update 810 Cost 15.2188738518 Beta 0.9
+2018-09-25 06:31:17,384 - eval_Piano_santa - Epoch 9 Update 820 Cost 12.3998414793 Beta 0.9
+2018-09-25 06:31:23,428 - eval_Piano_santa - Epoch 9 Update 830 Cost 13.8489732719 Beta 0.9
+2018-09-25 06:31:29,348 - eval_Piano_santa - Epoch 9 Update 840 Cost 9.09823414689 Beta 0.9
+2018-09-25 06:31:36,239 - eval_Piano_santa - Epoch 9 Update 850 Cost 13.6017720342 Beta 0.9
+2018-09-25 06:31:42,644 - eval_Piano_santa - Epoch 9 Update 860 Cost 21.5756506847 Beta 0.9
+2018-09-25 06:31:48,518 - eval_Piano_santa - Epoch 9 Update 870 Cost 14.861829223 Beta 0.9
+2018-09-25 06:31:56,303 - eval_Piano_santa - Train 15.3268515762 Valid 14.8120695589 Test 14.8231973006 Beta 0.9
+2018-09-25 06:32:02,143 - eval_Piano_santa - Epoch 10 Update 880 Cost 15.1146113915 Beta 0.9
+2018-09-25 06:32:11,594 - eval_Piano_santa - Epoch 10 Update 890 Cost 20.4137977871 Beta 0.9
+2018-09-25 06:32:17,922 - eval_Piano_santa - Epoch 10 Update 900 Cost 15.0372457505 Beta 0.9
+2018-09-25 06:32:23,807 - eval_Piano_santa - Epoch 10 Update 910 Cost 13.1518957693 Beta 0.9
+2018-09-25 06:32:29,984 - eval_Piano_santa - Epoch 10 Update 920 Cost 13.1118654857 Beta 0.9
+2018-09-25 06:32:36,154 - eval_Piano_santa - Epoch 10 Update 930 Cost 10.1008304271 Beta 0.9
+2018-09-25 06:32:42,863 - eval_Piano_santa - Epoch 10 Update 940 Cost 15.5885707854 Beta 0.9
+2018-09-25 06:32:48,952 - eval_Piano_santa - Epoch 10 Update 950 Cost 11.7325308695 Beta 0.9
+2018-09-25 06:33:01,181 - eval_Piano_santa - Train 14.9899698346 Valid 14.6166872513 Test 14.5080624039 Beta 0.9
+2018-09-25 06:33:02,887 - eval_Piano_santa - Epoch 11 Update 960 Cost 13.7797540484 Beta 0.9
+2018-09-25 06:33:09,844 - eval_Piano_santa - Epoch 11 Update 970 Cost 18.2508691576 Beta 0.9
+2018-09-25 06:33:19,599 - eval_Piano_santa - Epoch 11 Update 980 Cost 18.8403343367 Beta 0.9
+2018-09-25 06:33:26,161 - eval_Piano_santa - Epoch 11 Update 990 Cost 12.1387811185 Beta 0.9
+2018-09-25 06:33:32,779 - eval_Piano_santa - Epoch 11 Update 1000 Cost 12.3567928784 Beta 0.9
+2018-09-25 06:33:32,784 - eval_Piano_santa - Saving ...
+2018-09-25 06:33:32,821 - eval_Piano_santa - Done ...
+2018-09-25 06:33:39,761 - eval_Piano_santa - Epoch 11 Update 1010 Cost 8.70217668167 Beta 0.9
+2018-09-25 06:33:46,800 - eval_Piano_santa - Epoch 11 Update 1020 Cost 13.5883443704 Beta 0.9
+2018-09-25 06:33:54,894 - eval_Piano_santa - Epoch 11 Update 1030 Cost 11.6912763906 Beta 0.9
+2018-09-25 06:34:01,175 - eval_Piano_santa - Epoch 11 Update 1040 Cost 13.2067657382 Beta 0.9
+2018-09-25 06:34:12,804 - eval_Piano_santa - Train 14.5860656808 Valid 14.2745467009 Test 14.0967798453 Beta 0.9
+2018-09-25 06:34:16,769 - eval_Piano_santa - Epoch 12 Update 1050 Cost 15.0906338204 Beta 0.9
+2018-09-25 06:34:24,721 - eval_Piano_santa - Epoch 12 Update 1060 Cost 26.5268821535 Beta 0.9
+2018-09-25 06:34:33,358 - eval_Piano_santa - Epoch 12 Update 1070 Cost 16.2199105947 Beta 0.9
+2018-09-25 06:34:39,974 - eval_Piano_santa - Epoch 12 Update 1080 Cost 12.9185316051 Beta 0.9
+2018-09-25 06:34:46,099 - eval_Piano_santa - Epoch 12 Update 1090 Cost 7.81042369649 Beta 0.9
+2018-09-25 06:34:52,501 - eval_Piano_santa - Epoch 12 Update 1100 Cost 18.0528203427 Beta 0.9
+2018-09-25 06:34:59,840 - eval_Piano_santa - Epoch 12 Update 1110 Cost 22.9542781158 Beta 0.9
+2018-09-25 06:35:07,159 - eval_Piano_santa - Epoch 12 Update 1120 Cost 9.70352241019 Beta 0.9
+2018-09-25 06:35:13,095 - eval_Piano_santa - Epoch 12 Update 1130 Cost 9.84391167255 Beta 0.9
+2018-09-25 06:35:22,923 - eval_Piano_santa - Train 14.3373791709 Valid 13.9667666228 Test 13.7829852094 Beta 0.9
+2018-09-25 06:35:28,614 - eval_Piano_santa - Epoch 13 Update 1140 Cost 13.7803928374 Beta 0.9
+2018-09-25 06:35:36,959 - eval_Piano_santa - Epoch 13 Update 1150 Cost 17.4351089282 Beta 0.9
+2018-09-25 06:35:43,322 - eval_Piano_santa - Epoch 13 Update 1160 Cost 23.5003727796 Beta 0.9
+2018-09-25 06:35:49,825 - eval_Piano_santa - Epoch 13 Update 1170 Cost 13.2229107073 Beta 0.9
+2018-09-25 06:35:57,156 - eval_Piano_santa - Epoch 13 Update 1180 Cost 13.7266498436 Beta 0.9
+2018-09-25 06:36:03,665 - eval_Piano_santa - Epoch 13 Update 1190 Cost 8.8793768176 Beta 0.9
+2018-09-25 06:36:10,961 - eval_Piano_santa - Epoch 13 Update 1200 Cost 17.4405108059 Beta 0.9
+2018-09-25 06:36:17,496 - eval_Piano_santa - Epoch 13 Update 1210 Cost 13.592340377 Beta 0.9
+2018-09-25 06:36:31,384 - eval_Piano_santa - Train 14.1554415018 Valid 13.8072470712 Test 13.6014437278 Beta 0.9
+2018-09-25 06:36:32,525 - eval_Piano_santa - Epoch 14 Update 1220 Cost 8.31525970821 Beta 0.9
+2018-09-25 06:36:39,203 - eval_Piano_santa - Epoch 14 Update 1230 Cost 12.2181796464 Beta 0.9
+2018-09-25 06:36:47,528 - eval_Piano_santa - Epoch 14 Update 1240 Cost 11.5648025306 Beta 0.9
+2018-09-25 06:36:55,302 - eval_Piano_santa - Epoch 14 Update 1250 Cost 10.3305226597 Beta 0.9
+2018-09-25 06:37:01,715 - eval_Piano_santa - Epoch 14 Update 1260 Cost 11.3013277608 Beta 0.9
+2018-09-25 06:37:08,114 - eval_Piano_santa - Epoch 14 Update 1270 Cost 2.52490487341 Beta 0.9
+2018-09-25 06:37:14,231 - eval_Piano_santa - Epoch 14 Update 1280 Cost 15.0840226393 Beta 0.9
+2018-09-25 06:37:21,828 - eval_Piano_santa - Epoch 14 Update 1290 Cost 13.4357651694 Beta 0.9
+2018-09-25 06:37:27,145 - eval_Piano_santa - Epoch 14 Update 1300 Cost 12.6467589202 Beta 0.9
+2018-09-25 06:37:38,174 - eval_Piano_santa - Train 13.9060919166 Valid 13.5983631684 Test 13.4428449943 Beta 0.9
+2018-09-25 06:37:40,971 - eval_Piano_santa - Epoch 15 Update 1310 Cost 15.3734671756 Beta 0.9
+2018-09-25 06:37:47,901 - eval_Piano_santa - Epoch 15 Update 1320 Cost 14.0586993289 Beta 0.9
+2018-09-25 06:37:54,908 - eval_Piano_santa - Epoch 15 Update 1330 Cost 12.2059469635 Beta 0.9
+2018-09-25 06:38:00,431 - eval_Piano_santa - Epoch 15 Update 1340 Cost 17.4405221777 Beta 0.9
+2018-09-25 06:38:06,319 - eval_Piano_santa - Epoch 15 Update 1350 Cost 12.1592175939 Beta 0.9
+2018-09-25 06:38:12,110 - eval_Piano_santa - Epoch 15 Update 1360 Cost 16.6353575909 Beta 0.9
+2018-09-25 06:38:18,311 - eval_Piano_santa - Epoch 15 Update 1370 Cost 15.260602799 Beta 0.9
+2018-09-25 06:38:25,648 - eval_Piano_santa - Epoch 15 Update 1380 Cost 11.7598770142 Beta 0.9
+2018-09-25 06:38:31,142 - eval_Piano_santa - Epoch 15 Update 1390 Cost 12.4348659054 Beta 0.9
+2018-09-25 06:38:40,277 - eval_Piano_santa - Train 13.7553897642 Valid 13.360885611 Test 13.2184775823 Beta 0.9
+2018-09-25 06:38:44,876 - eval_Piano_santa - Epoch 16 Update 1400 Cost 11.6079894979 Beta 0.9
+2018-09-25 06:38:52,240 - eval_Piano_santa - Epoch 16 Update 1410 Cost 13.7078221214 Beta 0.9
+2018-09-25 06:38:58,581 - eval_Piano_santa - Epoch 16 Update 1420 Cost 12.2452995421 Beta 0.9
+2018-09-25 06:39:03,951 - eval_Piano_santa - Epoch 16 Update 1430 Cost 15.4617050248 Beta 0.9
+2018-09-25 06:39:10,131 - eval_Piano_santa - Epoch 16 Update 1440 Cost 10.7175060367 Beta 0.9
+2018-09-25 06:39:15,932 - eval_Piano_santa - Epoch 16 Update 1450 Cost 13.0760809659 Beta 0.9
+2018-09-25 06:39:22,802 - eval_Piano_santa - Epoch 16 Update 1460 Cost 16.6017044937 Beta 0.9
+2018-09-25 06:39:29,119 - eval_Piano_santa - Epoch 16 Update 1470 Cost 22.3830028454 Beta 0.9
+2018-09-25 06:39:42,239 - eval_Piano_santa - Train 13.5911420328 Valid 13.3885144107 Test 12.9907014469 Beta 0.9
+2018-09-25 06:39:42,769 - eval_Piano_santa - Epoch 17 Update 1480 Cost 8.83593948099 Beta 0.9
+2018-09-25 06:39:48,616 - eval_Piano_santa - Epoch 17 Update 1490 Cost 11.0621444158 Beta 0.9
+2018-09-25 06:39:56,662 - eval_Piano_santa - Epoch 17 Update 1500 Cost 11.3968127893 Beta 0.9
+2018-09-25 06:40:02,257 - eval_Piano_santa - Epoch 17 Update 1510 Cost 17.9039277377 Beta 0.9
+2018-09-25 06:40:07,857 - eval_Piano_santa - Epoch 17 Update 1520 Cost 17.2194003297 Beta 0.9
+2018-09-25 06:40:13,949 - eval_Piano_santa - Epoch 17 Update 1530 Cost 11.4204129623 Beta 0.9
+2018-09-25 06:40:20,075 - eval_Piano_santa - Epoch 17 Update 1540 Cost 21.225893189 Beta 0.9
+2018-09-25 06:40:27,025 - eval_Piano_santa - Epoch 17 Update 1550 Cost 16.7183646188 Beta 0.9
+2018-09-25 06:40:33,032 - eval_Piano_santa - Epoch 17 Update 1560 Cost 11.3039429336 Beta 0.9
+2018-09-25 06:40:44,527 - eval_Piano_santa - Train 13.4361309776 Valid 13.3191286548 Test 13.0025844696 Beta 0.9
+2018-09-25 06:40:46,766 - eval_Piano_santa - Epoch 18 Update 1570 Cost 12.5890142687 Beta 0.9
+2018-09-25 06:40:53,356 - eval_Piano_santa - Epoch 18 Update 1580 Cost 13.78810346 Beta 0.9
+2018-09-25 06:41:00,762 - eval_Piano_santa - Epoch 18 Update 1590 Cost 10.5054034445 Beta 0.9
+2018-09-25 06:41:06,330 - eval_Piano_santa - Epoch 18 Update 1600 Cost 13.5050389802 Beta 0.9
+2018-09-25 06:41:12,202 - eval_Piano_santa - Epoch 18 Update 1610 Cost 13.12236618 Beta 0.9
+2018-09-25 06:41:18,054 - eval_Piano_santa - Epoch 18 Update 1620 Cost 15.1555109632 Beta 0.9
+2018-09-25 06:41:24,115 - eval_Piano_santa - Epoch 18 Update 1630 Cost 11.5103721281 Beta 0.9
+2018-09-25 06:41:31,586 - eval_Piano_santa - Epoch 18 Update 1640 Cost 10.8026479064 Beta 0.9
+2018-09-25 06:41:37,030 - eval_Piano_santa - Epoch 18 Update 1650 Cost 14.7857092805 Beta 0.9
+2018-09-25 06:41:46,687 - eval_Piano_santa - Train 13.2520195591 Valid 12.9069628051 Test 12.8304407285 Beta 0.9
+2018-09-25 06:41:50,729 - eval_Piano_santa - Epoch 19 Update 1660 Cost 17.0710777945 Beta 0.9
+2018-09-25 06:41:57,839 - eval_Piano_santa - Epoch 19 Update 1670 Cost 14.7093236316 Beta 0.9
+2018-09-25 06:42:04,466 - eval_Piano_santa - Epoch 19 Update 1680 Cost 13.7713121923 Beta 0.9
+2018-09-25 06:42:09,874 - eval_Piano_santa - Epoch 19 Update 1690 Cost 11.5799907164 Beta 0.9
+2018-09-25 06:42:15,896 - eval_Piano_santa - Epoch 19 Update 1700 Cost 12.2966487364 Beta 0.9
+2018-09-25 06:42:21,818 - eval_Piano_santa - Epoch 19 Update 1710 Cost 7.69037970537 Beta 0.9
+2018-09-25 06:42:28,744 - eval_Piano_santa - Epoch 19 Update 1720 Cost 12.4562969601 Beta 0.9
+2018-09-25 06:42:35,140 - eval_Piano_santa - Epoch 19 Update 1730 Cost 16.5227620822 Beta 0.9
+2018-09-25 06:42:41,011 - eval_Piano_santa - Epoch 19 Update 1740 Cost 12.655712308 Beta 0.9
+2018-09-25 06:42:48,784 - eval_Piano_santa - Train 13.2001957556 Valid 12.898323795 Test 12.7320218492 Beta 0.9
+2018-09-25 06:42:54,627 - eval_Piano_santa - Epoch 20 Update 1750 Cost 13.1943547627 Beta 0.9
+2018-09-25 06:43:02,311 - eval_Piano_santa - Epoch 20 Update 1760 Cost 15.7140291674 Beta 0.9
+2018-09-25 06:43:08,241 - eval_Piano_santa - Epoch 20 Update 1770 Cost 12.4245320084 Beta 0.9
+2018-09-25 06:43:13,808 - eval_Piano_santa - Epoch 20 Update 1780 Cost 12.0099282629 Beta 0.9
+2018-09-25 06:43:19,854 - eval_Piano_santa - Epoch 20 Update 1790 Cost 11.2908882247 Beta 0.9
+2018-09-25 06:43:25,994 - eval_Piano_santa - Epoch 20 Update 1800 Cost 8.98878814759 Beta 0.9
+2018-09-25 06:43:32,724 - eval_Piano_santa - Epoch 20 Update 1810 Cost 14.0592934999 Beta 0.9
+2018-09-25 06:43:38,820 - eval_Piano_santa - Epoch 20 Update 1820 Cost 11.1367508165 Beta 0.9
+2018-09-25 06:43:50,843 - eval_Piano_santa - Train 13.0742729211 Valid 12.807128955 Test 12.6751444851 Beta 0.9
+2018-09-25 06:43:52,522 - eval_Piano_santa - Epoch 21 Update 1830 Cost 12.4323509233 Beta 0.9
+2018-09-25 06:43:59,119 - eval_Piano_santa - Epoch 21 Update 1840 Cost 15.6281107068 Beta 0.9
+2018-09-25 06:44:06,443 - eval_Piano_santa - Epoch 21 Update 1850 Cost 15.9108164348 Beta 0.9
+2018-09-25 06:44:12,007 - eval_Piano_santa - Epoch 21 Update 1860 Cost 11.2097381444 Beta 0.9
+2018-09-25 06:44:17,762 - eval_Piano_santa - Epoch 21 Update 1870 Cost 12.026612499 Beta 0.9
+2018-09-25 06:44:23,735 - eval_Piano_santa - Epoch 21 Update 1880 Cost 8.15046522573 Beta 0.9
+2018-09-25 06:44:29,817 - eval_Piano_santa - Epoch 21 Update 1890 Cost 12.756848794 Beta 0.9
+2018-09-25 06:44:37,372 - eval_Piano_santa - Epoch 21 Update 1900 Cost 10.1311414719 Beta 0.9
+2018-09-25 06:44:42,744 - eval_Piano_santa - Epoch 21 Update 1910 Cost 12.7006676894 Beta 0.9
+2018-09-25 06:44:53,010 - eval_Piano_santa - Train 12.9646496938 Valid 12.8903807424 Test 12.5524579607 Beta 0.9
+2018-09-25 06:44:56,429 - eval_Piano_santa - Epoch 22 Update 1920 Cost 14.1031541154 Beta 0.9
+2018-09-25 06:45:03,274 - eval_Piano_santa - Epoch 22 Update 1930 Cost 21.4305798471 Beta 0.9
+2018-09-25 06:45:10,218 - eval_Piano_santa - Epoch 22 Update 1940 Cost 14.3938621865 Beta 0.9
+2018-09-25 06:45:15,679 - eval_Piano_santa - Epoch 22 Update 1950 Cost 12.120829948 Beta 0.9
+2018-09-25 06:45:21,620 - eval_Piano_santa - Epoch 22 Update 1960 Cost 7.50870492098 Beta 0.9
+2018-09-25 06:45:27,425 - eval_Piano_santa - Epoch 22 Update 1970 Cost 13.8589223182 Beta 0.9
+2018-09-25 06:45:33,953 - eval_Piano_santa - Epoch 22 Update 1980 Cost 19.846804693 Beta 0.9
+2018-09-25 06:45:40,923 - eval_Piano_santa - Epoch 22 Update 1990 Cost 9.37059176793 Beta 0.9
+2018-09-25 06:45:46,519 - eval_Piano_santa - Epoch 22 Update 2000 Cost 9.29200822972 Beta 0.9
+2018-09-25 06:45:46,519 - eval_Piano_santa - Saving ...
+2018-09-25 06:45:46,552 - eval_Piano_santa - Done ...
+2018-09-25 06:45:55,158 - eval_Piano_santa - Train 12.8803206802 Valid 12.6010951432 Test 12.4786955016 Beta 0.9
+2018-09-25 06:46:00,353 - eval_Piano_santa - Epoch 23 Update 2010 Cost 11.8790316883 Beta 0.9
+2018-09-25 06:46:08,198 - eval_Piano_santa - Epoch 23 Update 2020 Cost 15.5541618344 Beta 0.9
+2018-09-25 06:46:14,143 - eval_Piano_santa - Epoch 23 Update 2030 Cost 21.4706266961 Beta 0.9
+2018-09-25 06:46:19,482 - eval_Piano_santa - Epoch 23 Update 2040 Cost 12.5730243051 Beta 0.9
+2018-09-25 06:46:25,660 - eval_Piano_santa - Epoch 23 Update 2050 Cost 13.0306881573 Beta 0.9
+2018-09-25 06:46:31,605 - eval_Piano_santa - Epoch 23 Update 2060 Cost 8.16794598975 Beta 0.9
+2018-09-25 06:46:38,535 - eval_Piano_santa - Epoch 23 Update 2070 Cost 15.5753296038 Beta 0.9
+2018-09-25 06:46:44,711 - eval_Piano_santa - Epoch 23 Update 2080 Cost 12.4373459873 Beta 0.9
+2018-09-25 06:46:57,296 - eval_Piano_santa - Train 12.7994373851 Valid 12.6705029109 Test 12.3372361083 Beta 0.9
+2018-09-25 06:46:58,378 - eval_Piano_santa - Epoch 24 Update 2090 Cost 8.14339915505 Beta 0.9
+2018-09-25 06:47:04,479 - eval_Piano_santa - Epoch 24 Update 2100 Cost 11.1011800506 Beta 0.9
+2018-09-25 06:47:12,262 - eval_Piano_santa - Epoch 24 Update 2110 Cost 10.8423124576 Beta 0.9
+2018-09-25 06:47:17,847 - eval_Piano_santa - Epoch 24 Update 2120 Cost 9.69616646641 Beta 0.9
+2018-09-25 06:47:23,605 - eval_Piano_santa - Epoch 24 Update 2130 Cost 10.5991207837 Beta 0.9
+2018-09-25 06:47:29,569 - eval_Piano_santa - Epoch 24 Update 2140 Cost 2.48997086233 Beta 0.9
+2018-09-25 06:47:35,627 - eval_Piano_santa - Epoch 24 Update 2150 Cost 13.9019388643 Beta 0.9
+2018-09-25 06:47:43,070 - eval_Piano_santa - Epoch 24 Update 2160 Cost 12.8424814056 Beta 0.9
+2018-09-25 06:47:48,373 - eval_Piano_santa - Epoch 24 Update 2170 Cost 11.4306366072 Beta 0.9
+2018-09-25 06:47:59,393 - eval_Piano_santa - Train 12.703963879 Valid 12.5152708602 Test 12.2689404993 Beta 0.9
+2018-09-25 06:48:02,188 - eval_Piano_santa - Epoch 25 Update 2180 Cost 13.2073376604 Beta 0.9
+2018-09-25 06:48:09,073 - eval_Piano_santa - Epoch 25 Update 2190 Cost 12.550714761 Beta 0.9
+2018-09-25 06:48:16,058 - eval_Piano_santa - Epoch 25 Update 2200 Cost 11.381862659 Beta 0.9
+2018-09-25 06:48:21,578 - eval_Piano_santa - Epoch 25 Update 2210 Cost 14.6535889307 Beta 0.9
+2018-09-25 06:48:27,495 - eval_Piano_santa - Epoch 25 Update 2220 Cost 10.6574583479 Beta 0.9
+2018-09-25 06:48:33,303 - eval_Piano_santa - Epoch 25 Update 2230 Cost 15.3956919866 Beta 0.9
+2018-09-25 06:48:39,461 - eval_Piano_santa - Epoch 25 Update 2240 Cost 14.5688801147 Beta 0.9
+2018-09-25 06:48:46,771 - eval_Piano_santa - Epoch 25 Update 2250 Cost 10.6625948642 Beta 0.9
+2018-09-25 06:48:52,282 - eval_Piano_santa - Epoch 25 Update 2260 Cost 11.9034988993 Beta 0.9
+2018-09-25 06:49:01,452 - eval_Piano_santa - Train 12.6417381759 Valid 12.4923001615 Test 12.1392936201 Beta 0.9
+2018-09-25 06:49:06,048 - eval_Piano_santa - Epoch 26 Update 2270 Cost 11.1749459741 Beta 0.9
+2018-09-25 06:49:13,415 - eval_Piano_santa - Epoch 26 Update 2280 Cost 12.5567969431 Beta 0.9
+2018-09-25 06:49:19,800 - eval_Piano_santa - Epoch 26 Update 2290 Cost 11.4173118679 Beta 0.9
+2018-09-25 06:49:25,166 - eval_Piano_santa - Epoch 26 Update 2300 Cost 14.8656825608 Beta 0.9
+2018-09-25 06:49:31,385 - eval_Piano_santa - Epoch 26 Update 2310 Cost 9.99526942274 Beta 0.9
+2018-09-25 06:49:37,193 - eval_Piano_santa - Epoch 26 Update 2320 Cost 12.123538399 Beta 0.9
+2018-09-25 06:49:44,067 - eval_Piano_santa - Epoch 26 Update 2330 Cost 15.4114067157 Beta 0.9
+2018-09-25 06:49:50,402 - eval_Piano_santa - Epoch 26 Update 2340 Cost 19.6166603057 Beta 0.9
+2018-09-25 06:50:03,539 - eval_Piano_santa - Train 12.5983314405 Valid 12.4535535922 Test 12.0930677628 Beta 0.9
+2018-09-25 06:50:04,059 - eval_Piano_santa - Epoch 27 Update 2350 Cost 8.93517455677 Beta 0.9
+2018-09-25 06:50:09,932 - eval_Piano_santa - Epoch 27 Update 2360 Cost 10.3525182133 Beta 0.9
+2018-09-25 06:50:17,975 - eval_Piano_santa - Epoch 27 Update 2370 Cost 10.7280336006 Beta 0.9
+2018-09-25 06:50:23,611 - eval_Piano_santa - Epoch 27 Update 2380 Cost 15.886216611 Beta 0.9
+2018-09-25 06:50:29,235 - eval_Piano_santa - Epoch 27 Update 2390 Cost 16.4181456073 Beta 0.9
+2018-09-25 06:50:35,337 - eval_Piano_santa - Epoch 27 Update 2400 Cost 10.4011818595 Beta 0.9
+2018-09-25 06:50:41,509 - eval_Piano_santa - Epoch 27 Update 2410 Cost 19.1941322257 Beta 0.9
+2018-09-25 06:50:48,319 - eval_Piano_santa - Epoch 27 Update 2420 Cost 16.0856745109 Beta 0.9
+2018-09-25 06:50:54,272 - eval_Piano_santa - Epoch 27 Update 2430 Cost 10.9927510703 Beta 0.9
+2018-09-25 06:51:05,765 - eval_Piano_santa - Train 12.4765582417 Valid 12.3879725189 Test 12.0256565933 Beta 0.9
+2018-09-25 06:51:07,999 - eval_Piano_santa - Epoch 28 Update 2440 Cost 11.3547404599 Beta 0.9
+2018-09-25 06:51:14,583 - eval_Piano_santa - Epoch 28 Update 2450 Cost 13.007634907 Beta 0.9
+2018-09-25 06:51:21,956 - eval_Piano_santa - Epoch 28 Update 2460 Cost 10.1416421796 Beta 0.9
+2018-09-25 06:51:27,499 - eval_Piano_santa - Epoch 28 Update 2470 Cost 13.1914458924 Beta 0.9
+2018-09-25 06:51:33,356 - eval_Piano_santa - Epoch 28 Update 2480 Cost 11.7008571277 Beta 0.9
+2018-09-25 06:51:39,176 - eval_Piano_santa - Epoch 28 Update 2490 Cost 13.7068414578 Beta 0.9
+2018-09-25 06:51:45,240 - eval_Piano_santa - Epoch 28 Update 2500 Cost 10.822563835 Beta 0.9
+2018-09-25 06:51:52,737 - eval_Piano_santa - Epoch 28 Update 2510 Cost 10.105881483 Beta 0.9
+2018-09-25 06:51:58,172 - eval_Piano_santa - Epoch 28 Update 2520 Cost 14.1144055179 Beta 0.9
+2018-09-25 06:52:07,844 - eval_Piano_santa - Train 12.4119250419 Valid 12.2441833049 Test 11.9917438496 Beta 0.9
+2018-09-25 06:52:11,891 - eval_Piano_santa - Epoch 29 Update 2530 Cost 15.3915951173 Beta 0.9
+2018-09-25 06:52:19,012 - eval_Piano_santa - Epoch 29 Update 2540 Cost 13.3361608293 Beta 0.9
+2018-09-25 06:52:25,609 - eval_Piano_santa - Epoch 29 Update 2550 Cost 13.2249654209 Beta 0.9
+2018-09-25 06:52:31,018 - eval_Piano_santa - Epoch 29 Update 2560 Cost 11.3056812638 Beta 0.9
+2018-09-25 06:52:37,047 - eval_Piano_santa - Epoch 29 Update 2570 Cost 11.5603200561 Beta 0.9
+2018-09-25 06:52:42,962 - eval_Piano_santa - Epoch 29 Update 2580 Cost 7.43716649679 Beta 0.9
+2018-09-25 06:52:49,852 - eval_Piano_santa - Epoch 29 Update 2590 Cost 12.1440991696 Beta 0.9
+2018-09-25 06:52:56,262 - eval_Piano_santa - Epoch 29 Update 2600 Cost 14.6363231437 Beta 0.9
+2018-09-25 06:53:02,108 - eval_Piano_santa - Epoch 29 Update 2610 Cost 11.9648290014 Beta 0.9
+2018-09-25 06:53:09,878 - eval_Piano_santa - Train 12.3570030593 Valid 12.2677791218 Test 12.0203804473 Beta 0.9
+2018-09-25 06:53:15,722 - eval_Piano_santa - Epoch 30 Update 2620 Cost 13.2342828243 Beta 0.9
+2018-09-25 06:53:23,441 - eval_Piano_santa - Epoch 30 Update 2630 Cost 14.7685945034 Beta 0.9
+2018-09-25 06:53:29,381 - eval_Piano_santa - Epoch 30 Update 2640 Cost 11.4929158519 Beta 0.9
+2018-09-25 06:53:34,940 - eval_Piano_santa - Epoch 30 Update 2650 Cost 11.1344861808 Beta 0.9
+2018-09-25 06:53:40,991 - eval_Piano_santa - Epoch 30 Update 2660 Cost 10.8446372415 Beta 0.9
+2018-09-25 06:53:47,131 - eval_Piano_santa - Epoch 30 Update 2670 Cost 8.64426218495 Beta 0.9
+2018-09-25 06:53:53,883 - eval_Piano_santa - Epoch 30 Update 2680 Cost 13.507313773 Beta 0.9
+2018-09-25 06:53:59,936 - eval_Piano_santa - Epoch 30 Update 2690 Cost 10.8644225727 Beta 0.9
+2018-09-25 06:54:11,949 - eval_Piano_santa - Train 12.3435765245 Valid 12.2428809116 Test 11.8984379785 Beta 0.9
+2018-09-25 06:54:13,632 - eval_Piano_santa - Epoch 31 Update 2700 Cost 12.291478618 Beta 0.9
+2018-09-25 06:54:20,214 - eval_Piano_santa - Epoch 31 Update 2710 Cost 14.4415780238 Beta 0.9
+2018-09-25 06:54:27,539 - eval_Piano_santa - Epoch 31 Update 2720 Cost 14.281836173 Beta 0.9
+2018-09-25 06:54:33,136 - eval_Piano_santa - Epoch 31 Update 2730 Cost 10.9303726329 Beta 0.9
+2018-09-25 06:54:38,882 - eval_Piano_santa - Epoch 31 Update 2740 Cost 11.8975588971 Beta 0.9
+2018-09-25 06:54:44,826 - eval_Piano_santa - Epoch 31 Update 2750 Cost 8.00713908412 Beta 0.9
+2018-09-25 06:54:50,876 - eval_Piano_santa - Epoch 31 Update 2760 Cost 12.3734905705 Beta 0.9
+2018-09-25 06:54:58,437 - eval_Piano_santa - Epoch 31 Update 2770 Cost 9.473767916 Beta 0.9
+2018-09-25 06:55:03,812 - eval_Piano_santa - Epoch 31 Update 2780 Cost 12.1422724955 Beta 0.9
+2018-09-25 06:55:14,044 - eval_Piano_santa - Train 12.2646153669 Valid 12.1301319991 Test 11.9549338095 Beta 0.9
+2018-09-25 06:55:17,459 - eval_Piano_santa - Epoch 32 Update 2790 Cost 13.8487400147 Beta 0.9
+2018-09-25 06:55:24,328 - eval_Piano_santa - Epoch 32 Update 2800 Cost 18.3267208266 Beta 0.9
+2018-09-25 06:55:31,307 - eval_Piano_santa - Epoch 32 Update 2810 Cost 13.5082360836 Beta 0.9
+2018-09-25 06:55:36,791 - eval_Piano_santa - Epoch 32 Update 2820 Cost 11.8587456931 Beta 0.9
+2018-09-25 06:55:42,711 - eval_Piano_santa - Epoch 32 Update 2830 Cost 7.17628776921 Beta 0.9
+2018-09-25 06:55:48,519 - eval_Piano_santa - Epoch 32 Update 2840 Cost 13.1984376957 Beta 0.9
+2018-09-25 06:55:55,015 - eval_Piano_santa - Epoch 32 Update 2850 Cost 18.678052346 Beta 0.9
+2018-09-25 06:56:01,998 - eval_Piano_santa - Epoch 32 Update 2860 Cost 9.11596609569 Beta 0.9
+2018-09-25 06:56:07,624 - eval_Piano_santa - Epoch 32 Update 2870 Cost 8.9880555868 Beta 0.9
+2018-09-25 06:56:16,147 - eval_Piano_santa - Train 12.2218056781 Valid 12.0880884597 Test 11.7687461452 Beta 0.9
+2018-09-25 06:56:21,368 - eval_Piano_santa - Epoch 33 Update 2880 Cost 11.2160011335 Beta 0.9
+2018-09-25 06:56:29,214 - eval_Piano_santa - Epoch 33 Update 2890 Cost 13.8508553928 Beta 0.9
+2018-09-25 06:56:35,150 - eval_Piano_santa - Epoch 33 Update 2900 Cost 19.4524299619 Beta 0.9
+2018-09-25 06:56:40,479 - eval_Piano_santa - Epoch 33 Update 2910 Cost 11.8632707187 Beta 0.9
+2018-09-25 06:56:46,665 - eval_Piano_santa - Epoch 33 Update 2920 Cost 12.5332707934 Beta 0.9
+2018-09-25 06:56:52,633 - eval_Piano_santa - Epoch 33 Update 2930 Cost 8.00609847904 Beta 0.9
+2018-09-25 06:56:59,561 - eval_Piano_santa - Epoch 33 Update 2940 Cost 14.1581671356 Beta 0.9
+2018-09-25 06:57:05,748 - eval_Piano_santa - Epoch 33 Update 2950 Cost 11.8951266852 Beta 0.9
+2018-09-25 06:57:18,312 - eval_Piano_santa - Train 12.2104181004 Valid 12.0669658991 Test 11.7456169259 Beta 0.9
+2018-09-25 06:57:19,396 - eval_Piano_santa - Epoch 34 Update 2960 Cost 8.03074015485 Beta 0.9
+2018-09-25 06:57:25,483 - eval_Piano_santa - Epoch 34 Update 2970 Cost 10.7423682725 Beta 0.9
+2018-09-25 06:57:33,259 - eval_Piano_santa - Epoch 34 Update 2980 Cost 10.6285616345 Beta 0.9
+2018-09-25 06:57:38,834 - eval_Piano_santa - Epoch 34 Update 2990 Cost 9.46426705375 Beta 0.9
+2018-09-25 06:57:44,540 - eval_Piano_santa - Epoch 34 Update 3000 Cost 10.3084279828 Beta 0.9
+2018-09-25 06:57:44,540 - eval_Piano_santa - Saving ...
+2018-09-25 06:57:44,576 - eval_Piano_santa - Done ...
+2018-09-25 06:57:50,550 - eval_Piano_santa - Epoch 34 Update 3010 Cost 2.44463936308 Beta 0.9
+2018-09-25 06:57:56,589 - eval_Piano_santa - Epoch 34 Update 3020 Cost 13.5528084593 Beta 0.9
+2018-09-25 06:58:04,065 - eval_Piano_santa - Epoch 34 Update 3030 Cost 12.4020239308 Beta 0.9
+2018-09-25 06:58:09,365 - eval_Piano_santa - Epoch 34 Update 3040 Cost 10.7801320032 Beta 0.9
+2018-09-25 06:58:20,271 - eval_Piano_santa - Train 12.132805833 Valid 12.0300883149 Test 11.763284158 Beta 0.9
+2018-09-25 06:58:23,055 - eval_Piano_santa - Epoch 35 Update 3050 Cost 12.4640958205 Beta 0.9
+2018-09-25 06:58:29,960 - eval_Piano_santa - Epoch 35 Update 3060 Cost 11.881010097 Beta 0.9
+2018-09-25 06:58:36,913 - eval_Piano_santa - Epoch 35 Update 3070 Cost 11.066637884 Beta 0.9
+2018-09-25 06:58:42,406 - eval_Piano_santa - Epoch 35 Update 3080 Cost 13.6700905178 Beta 0.9
+2018-09-25 06:58:48,275 - eval_Piano_santa - Epoch 35 Update 3090 Cost 10.3943267156 Beta 0.9
+2018-09-25 06:58:54,044 - eval_Piano_santa - Epoch 35 Update 3100 Cost 14.708300978 Beta 0.9
+2018-09-25 06:59:00,171 - eval_Piano_santa - Epoch 35 Update 3110 Cost 13.8330303428 Beta 0.9
+2018-09-25 06:59:07,470 - eval_Piano_santa - Epoch 35 Update 3120 Cost 10.0952600779 Beta 0.9
+2018-09-25 06:59:12,960 - eval_Piano_santa - Epoch 35 Update 3130 Cost 11.7217025344 Beta 0.9
+2018-09-25 06:59:22,051 - eval_Piano_santa - Train 12.0973002168 Valid 12.0546746957 Test 11.6622130128 Beta 0.9
+2018-09-25 06:59:26,663 - eval_Piano_santa - Epoch 36 Update 3140 Cost 11.050919144 Beta 0.9
+2018-09-25 06:59:34,028 - eval_Piano_santa - Epoch 36 Update 3150 Cost 12.3416061189 Beta 0.9
+2018-09-25 06:59:40,337 - eval_Piano_santa - Epoch 36 Update 3160 Cost 11.0200993003 Beta 0.9
+2018-09-25 06:59:45,681 - eval_Piano_santa - Epoch 36 Update 3170 Cost 14.5157918266 Beta 0.9
+2018-09-25 06:59:51,858 - eval_Piano_santa - Epoch 36 Update 3180 Cost 9.78507861708 Beta 0.9
+2018-09-25 06:59:57,652 - eval_Piano_santa - Epoch 36 Update 3190 Cost 11.4328748325 Beta 0.9
+2018-09-25 07:00:04,506 - eval_Piano_santa - Epoch 36 Update 3200 Cost 14.541719878 Beta 0.9
+2018-09-25 07:00:10,809 - eval_Piano_santa - Epoch 36 Update 3210 Cost 18.386973324 Beta 0.9
+2018-09-25 07:00:23,901 - eval_Piano_santa - Train 12.0469800461 Valid 12.0616614046 Test 11.6708232625 Beta 0.9
+2018-09-25 07:00:24,425 - eval_Piano_santa - Epoch 37 Update 3220 Cost 9.0164081241 Beta 0.9
+2018-09-25 07:00:30,531 - eval_Piano_santa - Epoch 37 Update 3230 Cost 9.61744135411 Beta 0.9
+2018-09-25 07:00:38,589 - eval_Piano_santa - Epoch 37 Update 3240 Cost 10.3267798868 Beta 0.9
+2018-09-25 07:00:44,179 - eval_Piano_santa - Epoch 37 Update 3250 Cost 14.5258789346 Beta 0.9
+2018-09-25 07:00:49,793 - eval_Piano_santa - Epoch 37 Update 3260 Cost 14.7604576401 Beta 0.9
+2018-09-25 07:00:55,850 - eval_Piano_santa - Epoch 37 Update 3270 Cost 10.3857240887 Beta 0.9
+2018-09-25 07:01:01,943 - eval_Piano_santa - Epoch 37 Update 3280 Cost 16.9421074447 Beta 0.9
+2018-09-25 07:01:08,686 - eval_Piano_santa - Epoch 37 Update 3290 Cost 14.9632852646 Beta 0.9
+2018-09-25 07:01:14,597 - eval_Piano_santa - Epoch 37 Update 3300 Cost 10.4614728675 Beta 0.9
+2018-09-25 07:01:26,023 - eval_Piano_santa - Train 12.008768082 Valid 12.0215475439 Test 11.5832233748 Beta 0.9
+2018-09-25 07:01:28,250 - eval_Piano_santa - Epoch 38 Update 3310 Cost 10.9952082203 Beta 0.9
+2018-09-25 07:01:34,811 - eval_Piano_santa - Epoch 38 Update 3320 Cost 12.1426566706 Beta 0.9
+2018-09-25 07:01:42,147 - eval_Piano_santa - Epoch 38 Update 3330 Cost 9.7562581907 Beta 0.9
+2018-09-25 07:01:47,650 - eval_Piano_santa - Epoch 38 Update 3340 Cost 12.9368256844 Beta 0.9
+2018-09-25 07:01:53,498 - eval_Piano_santa - Epoch 38 Update 3350 Cost 11.1776264468 Beta 0.9
+2018-09-25 07:01:59,313 - eval_Piano_santa - Epoch 38 Update 3360 Cost 12.9130435018 Beta 0.9
+2018-09-25 07:02:05,340 - eval_Piano_santa - Epoch 38 Update 3370 Cost 10.306768022 Beta 0.9
+2018-09-25 07:02:12,775 - eval_Piano_santa - Epoch 38 Update 3380 Cost 9.8740493988 Beta 0.9
+2018-09-25 07:02:18,189 - eval_Piano_santa - Epoch 38 Update 3390 Cost 14.140407312 Beta 0.9
+2018-09-25 07:02:27,807 - eval_Piano_santa - Train 11.9870138139 Valid 11.9363802897 Test 11.6022171104 Beta 0.9
+2018-09-25 07:02:31,840 - eval_Piano_santa - Epoch 39 Update 3400 Cost 15.4221994129 Beta 0.9
+2018-09-25 07:02:38,925 - eval_Piano_santa - Epoch 39 Update 3410 Cost 12.7423621742 Beta 0.9
+2018-09-25 07:02:45,501 - eval_Piano_santa - Epoch 39 Update 3420 Cost 13.167458676 Beta 0.9
+2018-09-25 07:02:50,919 - eval_Piano_santa - Epoch 39 Update 3430 Cost 11.2379665703 Beta 0.9
+2018-09-25 07:02:56,921 - eval_Piano_santa - Epoch 39 Update 3440 Cost 11.1366753344 Beta 0.9
+2018-09-25 07:03:02,813 - eval_Piano_santa - Epoch 39 Update 3450 Cost 7.27654228699 Beta 0.9
+2018-09-25 07:03:09,660 - eval_Piano_santa - Epoch 39 Update 3460 Cost 11.9397829891 Beta 0.9
+2018-09-25 07:03:16,006 - eval_Piano_santa - Epoch 39 Update 3470 Cost 13.2617702466 Beta 0.9
+2018-09-25 07:03:21,845 - eval_Piano_santa - Epoch 39 Update 3480 Cost 11.4099040529 Beta 0.9
+2018-09-25 07:03:29,578 - eval_Piano_santa - Train 11.9559053433 Valid 11.9263969457 Test 11.4882387618 Beta 0.9
+2018-09-25 07:03:37,375 - eval_Piano_santa - Train 11.9419445656 Valid 11.8975332774 Test 11.5056914243 Beta 0.9
+2018-09-25 07:03:37,411 - eval_Piano_santa - The code run for 40 epochs, with 62.9469495773 sec/epochs
